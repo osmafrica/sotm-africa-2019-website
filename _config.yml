@@ -1,0 +1,249 @@
+# Plugins
+plugins:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'Original Assets', '/vendor']
+timezone: 'Africa/Abidjan'
+
+# Miscellaneous
+# googleMapsAPIKey: "AIzaSyAvGdd7lRTgZrGDwURX87xxBuina1LL43k"
+
+# Site Settings
+title: "State of the Map Afria 2019"
+email: "sotmafrica@gmail.com"
+description: "State of the Map Africa (SotM Africa) is a regional state of the map conference for Africa."
+baseurl:
+url: "openstreetmap.africa"
+# googleAnalyticsTrackingId: "UA-3309084-18"
+# googleAnalyticsSiteUrl: "openstreetmap.africa"
+# siteVerification: "-oXISG9WQeAZnsrs10KXZHl3DzLr_t9IOnmAmDTbMrI"
+
+# Organizer Info
+organizerName: "OpenStreetMap Africa, OpenStreetMap Cote D'Ivore"
+organizerAlternateName: "SOTM Africa 2019"
+organizerDescription: "Open and volunteer geo community who creates maps that saves lives and share experience about open data."
+organizerEmail: "sotmafrica@gmail.com"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://openstreetmap.africa"
+
+# Head
+metaKeywords: "event, osm, openstreetmap, sotm, sotmafrica, maps, opendata, conferene, africa"
+twitterAccount: "@sotmafrica"
+# socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+# socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+# socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Documents
+c4pUrl: "#"
+c4sponsorsUrl: "mailto:sotmafrica@gmail.com"
+
+# Navigation
+navigationLinks:
+# - {permalink: "/", text: "Home"}
+ # - {permalink: "/schedule/", text: "Schedule"}
+ # - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/#tickets", text: "Tickets"}
+ - {permalink: "/#partners", text: "Sponsors"}
+ # - {permalink: "/team/", text: "Team"}
+ # - {permalink: "/faq/", text: "FAQ"}
+bottomNavigationLinks:
+ - {link: "/#partners", text: "Become a Sponsor"}
+rightNavigationButtons:
+ - {link: "/#partners", text: "Become a Sponsor"}
+
+# Hero Block
+# Hero Block
+heroImage: "hero0.jpg"
+heroTitle: "SOTM <typeout> 2019"
+eventDate: "22-24 November 2019"
+typeoutTextValues: '"", "Africa", "Grand-Bassam", "Ivory Coast"'
+typeoutFallback: "Africa"
+heroButtons:
+ # - {link: "https://#", text: "Become a speaker"}
+ # - {permalink: "/#tickets", text: "Buy tickets"}
+
+# About Block
+aboutTitle: "About SOTM Africa 2019"
+aboutBlock:
+ - {title: "Conference", image: "conference.jpg", text: "<p>State of the Map Africa will bring together participants from around the world to discuss challenges, learn, and celebrate many years of mapping together.</p>" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience. Come learn and shate!" }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Swift"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from Boston and beyond"}
+ - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "catch the videos later!"} #TODO: tagline appropriate?
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Featured Speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Conference Hall"
+eventLocationLink: "https://www.huntingtontheatre.org/about/venue/pavilion/"
+eventStreetAddress: "Calderwood Pavilion<br />527 Tremont Street"
+eventAddressLocality: "Boston"
+eventAddressLocalityRegion: "MA"
+eventPostalCode: "02116"
+eventAddressCountry: "USA"
+eventStartTime: "9:00 am"
+eventDoorTime: "09:00"
+eventEndTime: "6:00 pm"
+eventPlaceCoordinates: "42.344797, -71.070950"
+mapCenterCoordinates: "42.344848, -71.072060"
+mapMobileCenterCoordinates: "42.344848, -71.072060"
+
+# Venue Block
+venueBlockTitle: "Venue"
+venueBigImage: "venue_00.jpg"
+venueSmallImage1: "venue_00.jpg"
+venueSmallImage2: "venue_00.jpg"
+venueSmallImage3: "venue_00.jpg"
+venueTitle: "Grand-Bassam"
+venueFeatures: ["Ivory Coast"]
+
+# Tweets Feed Block
+# TODO: need to set up tweetledee or delete this section https://github.com/tweetledee/tweetledee
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "sotm=africa?"
+twitterHashTag: "sotmafrica"
+# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+
+# Partners Block
+partnersTitle: "Sponsors"
+partnersC4sponsorsButton: "Become a sponsor"
+
+# Supporters Block
+supportersTitle: "Supporters"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscribe for updates"
+subscribeAction: "https://gnstudio.us6.list-manage.com/subscribe/post"
+subscribeHiddenU: "66c929ea69a19ef75fd17625d"
+subscribeHiddenId: "4ceb4a99c2"
+subscribeInfo: "Find out about new speaker announcements and other SwiftFest news."
+
+# Tickets Block
+ticketsTitle: "Tickets"
+ticketsInfo: "Conference ticket purchase includes 2 full days of sessions (June 18th–19th) and exhibitor booths, a ticket to the official conference party on June 18th for you and a guest, morning snack, lunch, and afternoon snack on both days."
+ticketsOffers:
+ -
+   name: "Student"
+   price: "99"
+   priceCurrency: "USD"
+   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
+   buyButtonText: "Buy Now"
+   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund."
+   validFrom: "2018-1-1T00:00"
+   validThrough: "2018-06-18T9:00"
+   soldOut: false
+   disabled: false
+   soldOutText: "Sold Out"
+ -
+   name: "Group Ticket"
+   price: "299"
+   priceCurrency: "USD each"
+   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
+   buyButtonText: "Buy Now"
+   additionalInfo: "May be purchased in groups of 4."
+   validFrom: "2018-1-1T00:00"
+   validThrough: "2018-06-08T23:59"
+   soldOut: false
+   disabled: false
+ -
+  name: "In Time Bird"
+  price: "499"
+  priceCurrency: "USD"
+  buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Conference ticket purchase includes 2 full days of sessions (June 18th - 19th) and exhibitor booths, a ticket to the official conference party on June 18th, morning snack, lunch and afternoon snack on both days."
+  validFrom: "2018-04-11T00:00"
+  validThrough: "2018-06-08T23:59"
+  soldOut: false
+  disabled: false
+ -
+  name: "Regular Ticket"
+  price: "599"
+  priceCurrency: "USD"
+  buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Conference ticket purchase includes 2 full days of sessions (June 18th - 19th) and exhibitor booths, a ticket to the official conference party on June 18th, morning snack, lunch and afternoon snack on both days."
+  validFrom: "2018-06-09T00:00"
+  validThrough: "2018-06-16T23:59"
+  soldOut: false
+  disabled: true
+
+# Footer
+socialLinks:
+ - {link: "https://twitter.com/intent/user?screen_name=sotmafrica", icon: "twitter"}
+ - {link: "https://www.facebook.com/sotmafrica", icon: "facebook"}
+ # - {link: "https://www.linkedin.com/company/swiftfest/", icon: "linkedin"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:sotmafrica@gmail.com", text: "sotmafrica@gmail.com"}
+ # -
+ #  title: "FAQ"
+ #  links:
+ #   - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
+ #   - {permalink: "/diversity-inclusion/", text: "Diversity &amp; Inclusion"}
+ #   - {permalink: "/logistics/", text: "Logistics"}
+
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: "SwiftFest is put on by a group of community builders in Boston passionate about Swift and mobile related technologies. We love bringing together engineers, architects, midnight coders, students, etc. in a highly social and vibrant environment to engage in technical discussions and to have fun."
+
+# Logistics Find Way Block
+findWayTitle: "Find your way here"
+findWayDistance: "Distance"
+findWayDriving: "DRIVING"
+findWayWalking: "WALKING"
+findWayBicycling: "BICYCLING"
+findWayTransit: "TRANSIT"
+findWayFindFlight: "Find Flight"
+logisticsMapCenterCoordinates: "40.046741, -79.244695"
+logisticsMapMobileCenterCoordinates: "42.412080, -71.733608"
+logisticsMapAutoDirections: false
+
+# Logistics Direction Details Block
+directionDetailsImage: "ship.jpg"
+directionDetailsTitle: "Get around Boston"
+directionDetailsCards:
+ - {title: "From the Airport", information: 'Logan Airport is right next to the city. It is easily reachable by car, public transport, or taxi. More information is available at the <a href="http://www.massport.com/logan-airport/">airport website</a>.'}
+ - {title: "Public Transit", information: 'You can take <a href="https://mbta.com">MBTA</a> buses and trains anywhere in Boston. You can take the Silver Line bus from the airport, but use Apple or Google Maps to find the best route for your time of day.'}
+ - {title: "Hotels", information: 'Boston has a large range of hotels to choose from. We have some suggestions but you will have no problem finding a hotel to suit your preferences.'}
+directionDetailsWideCards:
+ -
+  title: "Questions?"
+  subCards:
+   -
+    title: "Hotels"
+    links:
+     - {link: "http://www.sheratonbostonhotel.com", text: "Sheraton Boston Hotel (Official SwiftFest Hotel)"}
+     - {link: "https://clubquartershotels.com/locations/club-quarters-hotel-boston", text: "Club Quarters Boston"}
+     - {link: "http://www.wboston.com/", text: "W Boston"}
+     - {link: "https://www.airbnb.com/s/Boston--MA", text: "Airbnb"}
+   -
+    title: "Registration"
+    links:
+     - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets", text: "Buy Tickets"}
+   -
+    title: "Attendance Details"
+    links:
+     - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469", text: "Event Info"}
