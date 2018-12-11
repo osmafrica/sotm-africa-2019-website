@@ -17,7 +17,7 @@ title: "State of the Map Afria 2019"
 email: "sotmafrica@gmail.com"
 description: "State of the Map Africa (SotM Africa) is a regional state of the map conference for Africa."
 baseurl:
-url: "openstreetmap.africa"
+url: 
 # googleAnalyticsTrackingId: "UA-3309084-18"
 # googleAnalyticsSiteUrl: "openstreetmap.africa"
 # siteVerification: "-oXISG9WQeAZnsrs10KXZHl3DzLr_t9IOnmAmDTbMrI"
@@ -27,7 +27,7 @@ organizerName: "OpenStreetMap Africa, OpenStreetMap Cote D'Ivore"
 organizerAlternateName: "SOTM Africa 2019"
 organizerDescription: "Open and volunteer geo community who creates maps that saves lives and share experience about open data."
 organizerEmail: "sotmafrica@gmail.com"
-organizerLogo: "/img/seo/organizer-logo.png"
+# organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://openstreetmap.africa"
 
 # Head
@@ -38,8 +38,8 @@ twitterAccount: "@sotmafrica"
 # socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "#"
-c4sponsorsUrl: "mailto:sotmafrica@gmail.com"
+c4pUrl: ""
+c4sponsorsUrl: ""
 
 # Navigation
 navigationLinks:
