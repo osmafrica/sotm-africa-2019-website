@@ -185,7 +185,7 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/intent/user?screen_name=sotmafrica", icon: "twitter"}
+ - {link: "https://twitter.com/sotmafrica", icon: "twitter"}
  - {link: "https://www.facebook.com/sotmafrica", icon: "facebook"}
  # - {link: "https://www.linkedin.com/company/swiftfest/", icon: "linkedin"}
  - {permalink: "/feed.xml", icon: "rss"}
