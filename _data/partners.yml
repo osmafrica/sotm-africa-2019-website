@@ -1,16 +1,12 @@
-# -
-#   group: "Gold Sponsors"
-#   elements:
-#     - {name: "Wayfair", description: "Wayfair", link: "https://wayfair.com", imageUrl: "Wayfair.svg"}
-# -
-#   group: "Silver Sponsors"
-#   elements:
-#     - {name: "Square", description: "Square", link: "https://squareup.com", imageUrl: "Square.svg"}
-# -
-#   group: "Bronze Sponsors"
-#   elements:
-#     - {name: "Chewy", description: "Chewy", link: "https://www.chewy.com", imageUrl: "Chewy.svg"}
-#     - {name: "Intrepid", description: "Intrepid", link: "https://intrepid.io", imageUrl: "Intrepid.png"}
-#     - {name: "LinkedIn Learning", description: "LinkedIn Learning", link: "https://www.linkedin.com/learning/", imageUrl: "LinkedInLearning.svg"}
-#     - {name: "Rue La La", description: "Rue La La", link: "https://www.ruelala.com/", imageUrl: "RueLaLa.svg", width: "120px"}
-#     - {name: "TripAdvisor", description: "TripAdvisor", link: "http://tripadvisor.com", imageUrl: "TripAdvisor.svg", width: "120px"}
+-
+  group: "Gold Sponsors"
+  elements:
+    - {name: "Your logo here", description: "Sponsor", link: "", imageUrl: "sponsors.png"}
+-
+  group: "Silver Sponsors"
+  elements:
+    - {name: "Your logo here", description: "Sponsor", link: "", imageUrl: "sponsors.png"}
+-
+  group: "Bronze Sponsors"
+  elements:
+    - {name: "Your logo here", description: "Sponsor", link: "", imageUrl: "sponsors.png"}
