@@ -44,12 +44,14 @@ c4sponsorsUrl: ""
 # Navigation
 navigationLinks:
 # - {permalink: "/", text: "Home"}
+ # - {permalink: "/travel", text: "Travel"}
  # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/#tickets", text: "Tickets"}
- - {permalink: "/#partners", text: "Sponsors"}
+ # - {permalink: "/#partners", text: "Sponsors"}
  # - {permalink: "/team/", text: "Team"}
  # - {permalink: "/faq/", text: "FAQ"}
+   - {permalink: "https://wiki.openstreetmap.org/wiki/State_of_the_Map_Africa_2019/Logo_Contest", text: "Logo Contest"}
 bottomNavigationLinks:
  - {link: "/#partners", text: "Become a Sponsor"}
 rightNavigationButtons:
@@ -194,12 +196,12 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:sotmafrica@gmail.com", text: "sotmafrica@gmail.com"}
- # -
- #  title: "FAQ"
- #  links:
- #   - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
- #   - {permalink: "/diversity-inclusion/", text: "Diversity &amp; Inclusion"}
- #   - {permalink: "/logistics/", text: "Logistics"}
+ -
+  title: "Links"
+  links:
+   - {permalink: "https://wiki.openstreetmap.org/wiki/State_of_the_Map_Africa_2019", text: "Wiki page"}
+   - {permalink: "/venue/", text: "Venue"}
+   - {permalink: "/program/", text: "Program"}
 
 
 # Speakers List Block
