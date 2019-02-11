@@ -16,8 +16,9 @@ timezone: 'Africa/Abidjan'
 title: "State of the Map Afria 2019"
 email: "sotmafrica@gmail.com"
 description: "State of the Map Africa (SotM Africa) is a regional state of the map conference for Africa."
-baseurl:
-url: 
+baseurl: ""
+url: http://2019.stateofthemap.africa
+permalink: "/blog/:title"
 # googleAnalyticsTrackingId: "UA-3309084-18"
 # googleAnalyticsSiteUrl: "openstreetmap.africa"
 # siteVerification: "-oXISG9WQeAZnsrs10KXZHl3DzLr_t9IOnmAmDTbMrI"
@@ -44,6 +45,7 @@ c4sponsorsUrl: ""
 # Navigation
 navigationLinks:
 # - {permalink: "/", text: "Home"}
+  - {permalink: "/blog", text: "Blog"}
  # - {permalink: "/travel", text: "Travel"}
  # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/speakers/", text: "Speakers"}
@@ -51,7 +53,6 @@ navigationLinks:
  # - {permalink: "/#partners", text: "Sponsors"}
  # - {permalink: "/team/", text: "Team"}
  # - {permalink: "/faq/", text: "FAQ"}
-   - {permalink: "https://wiki.openstreetmap.org/wiki/State_of_the_Map_Africa_2019/Logo_Contest", text: "Logo Contest"}
 bottomNavigationLinks:
  - {link: "/#partners", text: "Become a Sponsor"}
 rightNavigationButtons:
@@ -61,7 +62,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero0.jpg"
 heroTitle: "SOTM <typeout> 2019"
-eventDate: "22-24 November 2019"
+eventDate: "Grand-Bassam, Ivory Coast | 22-24 November 2019"
 typeoutTextValues: '"", "Africa", "Grand-Bassam", "Ivory Coast"'
 typeoutFallback: "Africa"
 heroButtons:
@@ -71,8 +72,9 @@ heroButtons:
 # About Block
 aboutTitle: "About SOTM Africa 2019"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "<p>State of the Map Africa will bring together participants from around the world to discuss challenges, learn, and celebrate many years of mapping together.</p>" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience. Come learn and shate!" }
+ - {title: "Conference", image: "conference.jpg", text: "<p>SOTM Africa will bring together participants from around the world to discuss challenges, learn, and celebrate many years of mapping together.</p>" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience. Come, learn and share!" }
+ - {title: "Community", image: "community.jpg", text: "Meet the community and have fun!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -81,6 +83,10 @@ statisticBlock:
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Swift"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from Boston and beyond"}
  - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "catch the videos later!"} #TODO: tagline appropriate?
+
+
+# Latest News Block
+latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -249,3 +255,8 @@ directionDetailsWideCards:
     title: "Attendance Details"
     links:
      - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469", text: "Event Info"}
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: false
+discusShortName: ""
