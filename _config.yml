@@ -44,7 +44,7 @@ c4sponsorsUrl: ""
 
 # Navigation
 navigationLinks:
-# - {permalink: "/", text: "Home"}
+  - {permalink: "/", text: "Home"}
   - {permalink: "/blog", text: "Blog"}
  # - {permalink: "/travel", text: "Travel"}
  # - {permalink: "/schedule/", text: "Schedule"}
@@ -195,7 +195,6 @@ ticketsOffers:
 socialLinks:
  - {link: "https://twitter.com/sotmafrica", icon: "twitter"}
  - {link: "https://www.facebook.com/sotmafrica", icon: "facebook"}
- # - {link: "https://www.linkedin.com/company/swiftfest/", icon: "linkedin"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -206,9 +205,8 @@ footerBlocks:
   title: "Links"
   links:
    - {permalink: "https://wiki.openstreetmap.org/wiki/State_of_the_Map_Africa_2019", text: "Wiki page"}
-   - {permalink: "/venue/", text: "Venue"}
-   - {permalink: "/program/", text: "Program"}
-
+   - {permalink: "//openstreetmap.africa", text: "OSM Africa"}
+   - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
 
 # Speakers List Block
 showSessions: true
