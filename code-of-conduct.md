@@ -1,35 +1,42 @@
 ---
 layout: post
-title: Code of Conduct
+title: Code of Conduct and Anti-Harassment Policy
 permalink: /code-of-conduct/
 isStaticPost: true
 image: people.jpg
 ---
 
-We want **SwiftFest** to be, as much as possible, **a safe and productive environment for everyone.** We recognize that an utterly “safe” environment is not achievable for all possible attendees, but we commit to fostering an event that is safer, to the best of our ability. To that end, this Code of Conduct spells out behavioral expectations for all attendees (including staff, speakers, and sponsors) at the conference. SwiftFest Organizers will enforce this code throughout the event. 
+#### Code of Conduct
 
-We hope to provide a great conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, national origin, ethnicity, religion (or lack thereof), or technological choices or experience. We invite you to help us make SwiftFest a place that is welcoming and respectful to all participants. We will not tolerate harassment of conference participants—in person or online.
+Our activities and events should foster meaningful collaboration between participants, community members, and government partners. We expect internal governance, participants, advocacy, activities, and events to:
 
-Examples of harassment include offensive comments, verbal threats or demands, intimidation, stalking, harassing photography or recording, sustained disruption of sessions or events, and unwelcome physical contact or sexual attention. Unacceptable behavior also includes slights and negative messages, both unintended and intentional, based on appearance (sometimes called microaggressions). Sexual language and imagery are not appropriate for any conference setting, and are not welcome at SwiftFest.
+-  Provide a safe, respectful, and welcoming environment where all are free to fully express their ideas and identities free from discrimination or harassment. All spaces, online or physical, shall be governed by SOTMA  anti-harassment policy.
+- Default to open and work to be objective.
+- Collaborate for the purpose of generating ideas that empower, innovate, and develop local capacity.
+- Presume the value of others and cherish everyone’s ideas, skills, and contributions.
+- Encourage participants to listen as much as they speak,and  ask respectful questions.
+- Foster energy that builds “yes, and” ideas and permit the ability to stretch. 
+- Build ideas, tools, and platforms that are open and free for reuse. Activities should prioritize public use, not private gain.
+- Actively involve stakeholders, community groups, and those with subject matter expertise in all decision-making processes.
+- Ensure that relationships and conversations between, and among, conference participants, SOTMAfrica committees, and our host community and their partners, and members of the Openstreetmap community — remain respectful, participatory, and productive.
 
-All attendees, speakers, staff, and sponsors of SwiftFest must wear their badges during the event, with name unobscured. Anyone whose badge is not easily visible risks being asked to leave the event.
+SOTMAfrica reserves the right to ask anyone in violation of these policies not to participate in SOTMAfrica events or network of activities. If you have any other concerns or would like to address an issue, please contact our  team at < sotmafrica@gmail.com > or reach out to any of the leaders listed at the end of this document.
 
-We expect all participants at SwiftFest to adhere to the Code of Conduct in all areas of the conference. This includes conference-related social events at off-site locations, in related online communities, and on social media. People asked to stop a behavior are expected to comply immediately. Behavior that violates this Code of Conduct will be swiftly addressed, and may result in a conversation about expected changes in behavior, expulsion from the conference without a refund, and/or banning from future SwiftFest events.
+#### Anti-Harassment
 
-#### Need Help?
+All SOTMAfrica events, workplaces, exhibitors and vendors booth, committees, presenters, and participants are held to the following anti-harassment policy.
+ 
+OSM Africa and OpenStreetMap Cote D'Ivoire are dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks.
+Harassment includes and is not limited to verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; and unwelcome sexual attention. 
 
-If you have questions or concerns about the Code of Conduct itself, or the behavior of any participants before, during or after the conference, reach out to any person on our safety team. You can identify safety team members by their orange SwiftFest T-shirts. We treat all discussions of the Code of Conduct and related concerns seriously. 
+#### Enforcement
+Participants may be asked immediately to stop any harassing behavior are expected to comply immediately.
+If a participant engages in harassing behaviour, event organisers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from the event without refund.
 
-If you are at the event, you can find an organizer by going to the front desk at the entrance to the Calderwood Pavilion or look for persons wearing staff t-shirts.
-
-You can (in addition or instead) email us at [conference@swiftfest.io](mailto:conference@swiftfest.io).
-
-We endeavor to reply quickly to all communications--within a business day if in the days prior to or after SwiftFest, and within an hour if during the conference’s working hours (9 am to 9 pm).
-
-Once a concern related to the Code of Conduct is raised, our team commits to the following:
-
-- We will do our best to protect the anonymity of the person(s) targeted by the behavior in question (and, if separate, the person who witnessed or is reporting the behavior in question).
-- We will discuss the issue with as much privacy as possible with the person making the report, so as to try to prevent retribution from others. The person bringing up the concern is welcome to have an additional person with them if that would make them feel safer, however.
-- We will provide a timeline estimate for next steps in response to any concerns brought up with SwiftFest staff, and update this timeline when appropriate.
-- We will take all concerns seriously, and will attempt to address them with appropriate measures.
-- While we will always err on the side of safety and treating all reports as true, we will not assume that a report being made automatically means that an action needs to be taken beyond the conversation with the person making the report.
+#### Reporting
+If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to the organizers. Harassment and other code of conduct violations reduce the value of our event for everyone. We want you to be happy at our event. People like you make our event a better place, our conference staff and volunteer will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+ 
+SOTMAfrica Code of Conduct and Anti-Harassment document is an adaptation of:
+- [Code for America’s Community Code of Conduct policy](https://github.com/codeforamerica/codeofconduct)
+- [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment) 
+- [School of Data LA](https://schoolofdata.la/)
