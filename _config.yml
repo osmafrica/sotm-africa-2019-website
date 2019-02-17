@@ -136,10 +136,10 @@ supportersTitle: "Supporters"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gnstudio.us6.list-manage.com/subscribe/post"
-subscribeHiddenU: "66c929ea69a19ef75fd17625d"
-subscribeHiddenId: "4ceb4a99c2"
-subscribeInfo: "Find out about new speaker announcements and other SwiftFest news."
+subscribeAction: "https://sotmafrica.us15.list-manage.com/subscribe/post"
+subscribeHiddenU: "5fae4e4446decef8838e19ef6"
+subscribeHiddenId: "f469fd9019"
+subscribeInfo: "Subscribe to our mailing list"
 
 # Tickets Block
 ticketsTitle: "Tickets"
