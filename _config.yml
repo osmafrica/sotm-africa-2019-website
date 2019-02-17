@@ -19,9 +19,9 @@ description: "State of the Map Africa (SotM Africa) is a regional state of the m
 baseurl: ""
 url: http://2019.stateofthemap.africa
 permalink: "/blog/:title"
-# googleAnalyticsTrackingId: "UA-3309084-18"
-# googleAnalyticsSiteUrl: "openstreetmap.africa"
-# siteVerification: "-oXISG9WQeAZnsrs10KXZHl3DzLr_t9IOnmAmDTbMrI"
+googleAnalyticsTrackingId: "UA-134637244-1" # Conference tracking ID
+googleAnalyticsSiteUrl: "2019.stateofthemap.africa" 
+siteVerification: "ovUOjOoTbBjb5tDN_wsULXG5fuww734DFxZt8zCe43g"
 
 # Organizer Info
 organizerName: "OpenStreetMap Africa, OpenStreetMap Cote D'Ivore"
