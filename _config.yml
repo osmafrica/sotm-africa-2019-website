@@ -112,10 +112,10 @@ mapMobileCenterCoordinates: "42.344848, -71.072060"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_00.jpg"
-venueSmallImage1: "venue_00.jpg"
-venueSmallImage2: "venue_00.jpg"
-venueSmallImage3: "venue_00.jpg"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
 venueTitle: "Grand-Bassam"
 venueFeatures: ["Ivory Coast"]
 
