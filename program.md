@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Program
+title: Schedule 
 permalink: /program/
-image: metro.jpg
+image: schedule.jpg
 ---
 # Coming soon!

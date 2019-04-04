@@ -5,4 +5,5 @@ permalink: /venue/
 isStaticPost: true
 image: city.jpg
 ---
-## Grand-Bassam is a town in south-eastern Ivory Coast, lying east of Abidjan.
+![](../img/posts/grand-bassam.jpg)
+Grand-Bassam is a town in south-eastern Ivory Coast, lying east of Abidjan.
