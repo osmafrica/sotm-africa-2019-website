@@ -46,13 +46,15 @@ c4sponsorsUrl: ""
 navigationLinks:
   - {permalink: "/", text: "Home"}
   - {permalink: "/blog", text: "Blog"}
- # - {permalink: "/travel", text: "Travel"}
- # - {permalink: "/schedule/", text: "Schedule"}
+  - {permalink: "/calls", text: "Call for Participation"}
+  - {permalink: "/program/", text: "Schedule"}
  # - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/#tickets", text: "Tickets"}
  # - {permalink: "/#partners", text: "Sponsors"}
  # - {permalink: "/team/", text: "Team"}
- # - {permalink: "/faq/", text: "FAQ"}
+  - {permalink: "/about/", text: "About"}
+  - {permalink: "/venue/", text: "Venue"}
+  - {permalink: "/faq/", text: "FAQ"}
 bottomNavigationLinks:
  - {link: "/#partners", text: "Become a Sponsor"}
 rightNavigationButtons:
@@ -60,9 +62,9 @@ rightNavigationButtons:
 
 # Hero Block
 # Hero Block
-heroImage: "hero0.jpg"
+heroImage: "her0.jpg"
 heroTitle: "SOTM <typeout> 2019"
-eventDate: "Grand-Bassam, Ivory Coast | 22-24 November 2019"
+eventDate: "Grand-Bassam, Ivory Coast | 22-24 November 2019 | Transforming lives through mapping"
 typeoutTextValues: '"", "Africa", "Grand-Bassam", "Ivory Coast"'
 typeoutFallback: "Africa"
 heroButtons:
