@@ -68,7 +68,7 @@ eventDate: "Grand-Bassam, Ivory Coast | 22-24 November 2019 | Transforming lives
 typeoutTextValues: '"", "Africa", "Grand-Bassam", "Ivory Coast"'
 typeoutFallback: "Africa"
 heroButtons:
- # - {link: "https://#", text: "Become a speaker"}
+ - {permalink: "/calls", text: "Submit a talk"}
  # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
