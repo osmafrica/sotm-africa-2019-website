@@ -5,7 +5,7 @@ permalink: /about/
 isStaticPost: true
 image: faq.jpg
 ---
-![State of the Map 2017 Group Photo](../img/posts/soth-2017-group.jpg)
+![State of the Map 2017 Group Photo](/img/posts/sotm-2017-group.jpg)
 
 > Transforming lives through mapping
 
