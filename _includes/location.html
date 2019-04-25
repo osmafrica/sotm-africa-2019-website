@@ -1,0 +1,34 @@
+<!-- Begin Find Way-->
+<section id="location-section" style="padding-top:0px;padding-bottom:0px;">
+    <div id="mapid" style="width:100%;height:600px;"></div>
+</section>
+<!-- End Find Way -->
+
+<script>
+
+    var map = L.map('mapid').setView([{{site.locationCenterLatLon}}], {{site.zoomLevel}});
+
+    map.scrollWheelZoom.disable();
+
+    map.on('click', function() {
+        if (map.scrollWheelZoom.enabled()) {
+            map.scrollWheelZoom.disable();
+        } else {
+            map.scrollWheelZoom.enable();
+        }
+    });
+
+    L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png ', {
+        attribution: '<a href="https://wikimediafoundation.org/wiki/Maps_Terms_of_Use">Wikimedai maps</a> | Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    var popup_1 = L.popup({
+        closeOnClick: false,
+        autoClose: false
+    }).setContent('<p>{{site.eventLocationName}}</p>');
+   
+    L.marker([{{site.locationLatLon}}]).addTo(map)
+        .bindPopup(popup_1)
+        .openPopup();
+
+</script>
