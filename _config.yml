@@ -51,9 +51,8 @@ navigationLinks:
  # - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/#tickets", text: "Tickets"}
  # - {permalink: "/#partners", text: "Sponsors"}
-  - {permalink: "/community/", text: "Community"}
   - {permalink: "/about/", text: "About"}
-  - {permalink: "/venue/", text: "Venue"}
+  - {permalink: "/logistics/", text: "Logistics"}
   - {permalink: "/faq/", text: "FAQ"}
 bottomNavigationLinks:
  - {link: "/#partners", text: "Become a Sponsor"}
@@ -69,10 +68,11 @@ typeoutTextValues: '"", "Africa", "Grand-Bassam", "Ivory Coast"'
 typeoutFallback: "Africa"
 heroButtons:
  - {permalink: "/calls", text: "Submit a talk"}
- # - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/calls", text: "Scholarship Application"}
 
 # About Block
 aboutTitle: "About SOTM Africa 2019"
+aboutSubTitle: "Join us for 3 days of learning, sharing and fun!"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "<p>SOTM Africa will bring together participants from around the world to discuss challenges, learn, and celebrate many years of mapping together.</p>" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience. Come, learn and share!" }
@@ -98,7 +98,7 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
+eventLocationName: "VITIB"
 eventLocationLink: "https://www.huntingtontheatre.org/about/venue/pavilion/"
 eventStreetAddress: "Calderwood Pavilion<br />527 Tremont Street"
 eventAddressLocality: "Boston"
@@ -215,7 +215,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "SwiftFest is put on by a group of community builders in Boston passionate about Swift and mobile related technologies. We love bringing together engineers, architects, midnight coders, students, etc. in a highly social and vibrant environment to engage in technical discussions and to have fun."
+aboutUs: ""
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -225,36 +225,43 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "40.046741, -79.244695"
-logisticsMapMobileCenterCoordinates: "42.412080, -71.733608"
+logisticsMapCenterCoordinates: "5.22965, -3.75829"
+logisticsMapMobileCenterCoordinates: "5.22965, -3.75829"
 logisticsMapAutoDirections: false
 
+# Location
+locationLatLon: 5.22965, -3.75829
+locationCenterLatLon: 5.22965, -3.75829
+zoomLevel: 14
+
 # Logistics Direction Details Block
-directionDetailsImage: "ship.jpg"
-directionDetailsTitle: "Get around Boston"
+directionDetailsImage: "grand-bassam.jpg"
+directionDetailsTitle: "Get around Grand-Bassam"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Logan Airport is right next to the city. It is easily reachable by car, public transport, or taxi. More information is available at the <a href="http://www.massport.com/logan-airport/">airport website</a>.'}
- - {title: "Public Transit", information: 'You can take <a href="https://mbta.com">MBTA</a> buses and trains anywhere in Boston. You can take the Silver Line bus from the airport, but use Apple or Google Maps to find the best route for your time of day.'}
- - {title: "Hotels", information: 'Boston has a large range of hotels to choose from. We have some suggestions but you will have no problem finding a hotel to suit your preferences.'}
+ - {title: "From the Airport", information: 'Coming soon..'}
+ - {title: "Public Transit", information: 'Coming soon..'}
+ - {title: "Hotels", information: 'Coming soon..'}
 directionDetailsWideCards:
  -
   title: "Questions?"
   subCards:
    -
-    title: "Hotels"
+    title: "Travel"
     links:
-     - {link: "http://www.sheratonbostonhotel.com", text: "Sheraton Boston Hotel (Official SwiftFest Hotel)"}
-     - {link: "https://clubquartershotels.com/locations/club-quarters-hotel-boston", text: "Club Quarters Boston"}
-     - {link: "http://www.wboston.com/", text: "W Boston"}
-     - {link: "https://www.airbnb.com/s/Boston--MA", text: "Airbnb"}
+     - {link: "#", text: "Visa"}
+     - {link: "https://en.wikivoyage.org/wiki/Grand-Bassam", text: "Wikivoyage"}
+     - {link: "http://2019.stateofthemap.africa/", text: "Getting to venue"}
+     - {link: "http://2019.stateofthemap.africa/", text: "Getting around venue"}
    -
     title: "Registration"
     links:
-     - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets", text: "Buy Tickets"}
+     # - {link: "", text: "Buy Tickets"}
+     - Coming soon ...
    -
     title: "Attendance Details"
     links:
-     - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469", text: "Event Info"}
+      - Coming soon...
+     # - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469", text: "Event Info"}
 
 # Blog
 blogTitle: "Latest news"
