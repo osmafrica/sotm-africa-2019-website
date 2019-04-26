@@ -248,10 +248,10 @@ directionDetailsWideCards:
    -
     title: "Travel"
     links:
-     - {link: "#", text: "Visa"}
+     - {link: "https://www.aeroport-abidjan.com/visa_cote_d_ivoire.php", text: "Visa"}
      - {link: "https://en.wikivoyage.org/wiki/Grand-Bassam", text: "Wikivoyage"}
-     - {link: "http://2019.stateofthemap.africa/", text: "Getting to venue"}
-     - {link: "http://2019.stateofthemap.africa/", text: "Getting around venue"}
+     - {link: "#", text: "Getting to venue"}
+     - {link: "#", text: "Getting around venue"}
    -
     title: "Registration"
     links:
