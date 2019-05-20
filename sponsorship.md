@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOTM Africa Sponsorship
-permalink: /sponsor/
+permalink: /sponsorship/
 isStaticPost: true
 image: faq.jpg
 ---
