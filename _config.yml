@@ -55,9 +55,9 @@ navigationLinks:
   - {permalink: "/logistics/", text: "Logistics"}
   - {permalink: "/faq/", text: "FAQ"}
 bottomNavigationLinks:
- - {link: "/#partners", text: "Become a Sponsor"}
+ - {link: "/sponsorship/", text: "Become a Sponsor"}
 rightNavigationButtons:
- - {link: "/#partners", text: "Become a Sponsor"}
+ - {link: "/sponsorship/", text: "Become a Sponsor"}
 
 # Hero Block
 # Hero Block
