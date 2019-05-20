@@ -3,7 +3,7 @@ layout: post
 title: SOTM Africa Sponsorship
 permalink: /sponsorship/
 isStaticPost: true
-image: faq.jpg
+image: 2017-ad.jpg
 ---
 > Transforming lives through mapping
 
