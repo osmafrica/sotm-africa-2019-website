@@ -13,7 +13,7 @@ timezone: 'Africa/Abidjan'
 # googleMapsAPIKey: "AIzaSyAvGdd7lRTgZrGDwURX87xxBuina1LL43k"
 
 # Site Settings
-title: "State of the Map Afria 2019"
+title: "State of the Map Africa 2019"
 email: "sotmafrica@gmail.com"
 description: "State of the Map Africa (SotM Africa) is a regional state of the map conference for Africa."
 baseurl: ""
