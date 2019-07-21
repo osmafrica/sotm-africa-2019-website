@@ -67,8 +67,8 @@ eventDate: "Grand-Bassam, Ivory Coast | 22-24 November 2019 | Transforming lives
 typeoutTextValues: '"", "Africa", "Grand-Bassam", "Ivory Coast"'
 typeoutFallback: "Africa"
 heroButtons:
- - {permalink: "/calls", text: "Submit a talk"}
- - {permalink: "/calls", text: "Scholarship Application"}
+ - {permalink: "/sponsorship", text: "Become a Sponsor"}
+ # - {permalink: "/calls", text: "Scholarship Application"}
 
 # About Block
 aboutTitle: "About SOTM Africa 2019"
