@@ -46,18 +46,18 @@ c4sponsorsUrl: "/sponsorship/"
 navigationLinks:
   - {permalink: "/", text: "Home"}
   - {permalink: "/blog", text: "Blog"}
-  # - {permalink: "/calls", text: "Call for Participation"}
-  - {permalink: "/program/", text: "Schedule"}
+  - {permalink: "/about/", text: "About"}
+  - {permalink: "/attending", text: "Attending"}
+  - {permalink: "/logistics/", text: "Logistics"}
+  # - {permalink: "/sponsorship/", text: "Sponsorship"}
  # - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/#tickets", text: "Tickets"}
- # - {permalink: "/#partners", text: "Sponsors"}
-  - {permalink: "/about/", text: "About"}
-  - {permalink: "/logistics/", text: "Logistics"}
+  - {permalink: "/#partners", text: "Sponsors"}
   - {permalink: "/faq/", text: "FAQ"}
 bottomNavigationLinks:
- - {link: "/sponsorship/", text: "Become a Sponsor"}
+ - {permalink: "/sponsorship/", text: "Become a Sponsor"}
 rightNavigationButtons:
- - {link: "/sponsorship/", text: "Become a Sponsor"}
+ - {permalink: "/sponsorship/", text: "Become a Sponsor"}
 
 # Hero Block
 # Hero Block
