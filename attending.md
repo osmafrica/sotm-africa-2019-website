@@ -37,21 +37,37 @@ From the Airport to Grand-Bassam is only 24 Km from the which takes about [30 mi
 
 
 #### Food
+**Recommended Minimum Amount of Money for food (2400 calories, Western food types)**
+
+Item| |Cost (CFA)
+-----|--|----
+Milk (regular), (0.25 liter) ||  237.50 
+Loaf of Fresh White Bread (125.00 g) | | 59.38
+Rice (white), (0.10 kg) | | 72.00 
+Eggs (regular) (2.40) | | 270.00 
+Local Cheese (0.10 kg) | | 695.00
+Chicken Breasts (Boneless, Skinless), (0.15 kg) | | 750.00 
+Beef Round (0.15 kg) (or Equivalent Back Leg Red Meat) ||  575.00 
+Apples (0.30 kg) | | 427.50 
+Banana (0.25 kg) | | 87.50
+Oranges (0.30 kg) | | 435.00 
+Tomato (0.20 kg) | | 196.00 
+Potato (0.20 kg) | | 123.33 
+Onion (0.10 kg) | | 135.00 
+Lettuce (0.20 head) | | 76.67 
+ 
+- Daily recommended minimum amount of money for food per person = **4,139.88 CFA**
+- Monthly recommended minimum amount of money for food per person (assuming 31 days per month) = **128,336.12 CFA**
 
 
 #### Safety and Security 
 
 Grand Bassam is a generally safe town with hospitable inhabitants. However, caution should be exercised in the following scenarios as a means of enforcing safety and security:
- 
-Avoid carrying valuables in bags while walking around, especially during the night time. This reduces the chances of falling victim to thievery. 
- 
-Whenever you are lost, give an impression of the opposite to avoid drawing unnecessary attention. In such a situation, you can hail a taxi that would drop you off at your destination, or you could wander into a safe area such as a shopping mall to check your map.
- 
-Whenever you want to take a taxi, ensure you have checked the map to your destination to ensure you have an idea of the route you’re supposed to be following.
- 
-While traveling in a taxi, enforce safety by ensuring the doors are locked and the windows rolled all the way up.
- 
-The Grand Bassam beach is a marvel. However, beware of strong currents and the lack of lifeguards. In effect, ensure you avoid visiting the beach alone and do not go deep into the water if you are not a good swimmer, or in the company of one.
+- Avoid carrying valuables in bags while walking around, especially during the night time. This reduces the chances of falling victim to thievery. 
+- Whenever you are lost, give an impression of the opposite to avoid drawing unnecessary attention. In such a situation, you can hail a taxi that would drop you off at your destination, or you could wander into a safe area such as a shopping mall to check your map.
+- Whenever you want to take a taxi, ensure you have checked the map to your destination to ensure you have an idea of the route you’re supposed to be following.
+- While traveling in a taxi, enforce safety by ensuring the doors are locked and the windows rolled all the way up.
+- The Grand Bassam beach is a marvel. However, beware of strong currents and the lack of lifeguards. In effect, ensure you avoid visiting the beach alone and do not go deep into the water if you are not a good swimmer, or in the company of one.
 
 #### Interesting Place to Visit
 
