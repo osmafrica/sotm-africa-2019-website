@@ -33,6 +33,10 @@ The easiest way to get to Grand Bassam is through the [Félix-Houphouët-Boigny 
 
 From the Airport to Grand-Bassam is only 24 Km from the which takes about [30 minutes by road](http://bit.ly/2L6tdZq). Bush taxis from the Gare de Bassam in Abidjan are the best option, and will cost about **500 CFA**. Buses are an alternative, which leave from Gare Routière d'Adjamé in Abidjan for **500 CFA**. Grand-Bassam's 1 gare routière (bus station) is in the centre of town, just beside the Place de Paix roundabout. Getting around the town is largely divided into two distinct halves. On the south side of the Ébrié Lagoon is Ancien Bassam, the old French town where most of the colonial buildings and attractions are located. Nouveau Bassam lies to the north of the lagoon, and grew out of the old servant quarters to become the main business centre. The two are connected by a small bridge. The main area of town is quite compact, so walking is an easy way of getting around. If you feel like venturing further, you will need to organise a bush taxi.
 
+###### Travelling by Road
+![STC](/img/posts/stcbanner.png)
+ - [STC](https://stc.gov.gh/fares/) - From Accra and Cotonou to Abidjan
+
 #### Accommodation
 
 
