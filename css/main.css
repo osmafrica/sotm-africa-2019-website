@@ -4471,7 +4471,8 @@ nav li a:hover {
 .direction-details {
     display: inline-block;
     padding: 0;
-    color: #757575
+    color: #757575;
+    width: 100%
 }
 
 .direction-details .card {
