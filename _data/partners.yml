@@ -9,7 +9,7 @@
 -
   group: "Silver Sponsors"
   elements:
-    - {name: "Michelin", description: "Sponsor", link: "https://www.michelin.com/", imageUrl: "img/partners/logo_michelin.svg"}
+    - {name: "Michelin", description: "Michelin", link: "https://www.michelin.com/", imageUrl: "michelin.svg"}
 -
   group: "Bronze Sponsors"
   elements:
