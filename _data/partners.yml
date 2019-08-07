@@ -1,14 +1,20 @@
 -
+  group: "Platnum Sponsors"
+  elements:
+    - {name: "Your logo here", description: "Sponsor", link: "", imageUrl: "sponsors.png"}
+-
   group: "Gold Sponsors"
   elements:
     - {name: "Your logo here", description: "Sponsor", link: "", imageUrl: "sponsors.png"}
 -
   group: "Silver Sponsors"
   elements:
-    - {name: "Your logo here", description: "Sponsor", link: "", imageUrl: "sponsors.png"}
+    - {name: "Michelin", description: "Sponsor", link: "https://www.michelin.com/", imageUrl: "img/partners/logo_michelin.svg"}
 -
   group: "Bronze Sponsors"
   elements:
     - {name: "Your logo here", description: "Sponsor", link: "", imageUrl: "sponsors.png"}
-    - {name: "Michelin", description: "Sponsor", link: "https://www.michelin.com/", imageUrl: "logo_michelin.svg"}
-   
+-
+  group: "Supporters"
+  elements:
+    - {name: "Your logo here", description: "Sponsor", link: "", imageUrl: "sponsors.png"}
