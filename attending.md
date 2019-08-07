@@ -8,8 +8,12 @@ image: grand-bassam.jpg
 ![Grand-Bassam banner hotel beach](https://upload.wikimedia.org/wikipedia/commons/3/3e/Grand-Bassam_banner_hotel_beach.jpg)
 
 #### About Grand Bassam
-![](https://upload.wikimedia.org/wikipedia/commons/7/7d/800px-Grand-Bassam.jpg)
+![Grand-Bassam](https://upload.wikimedia.org/wikipedia/commons/7/7d/800px-Grand-Bassam.jpg)
 Filled to the brim with French colonial charm, Grand-Bassam is a town within the Lagunes region of Côte d'Ivoire. It was the capital city of the French colonies in the region from 1893 until 1896, until the administration was transferred to Bingerville after a severe bout of yellow fever. The city's inhabitants recovered, and it remained a key seaport until the growth of Abidjan from the 1930s, which crushed its golden era. By independence in 1960, Grand-Bassam was little more than a ghost town, until a surge of tourism in the 1970s led to its resettlement. Today, a modest 5,000 people call the town their home, although some areas remain largely abandoned.
+
+#### Venue
+![VITIB](/img/posts/vitib.jpg)
+[Village des Technologie de l’Information et de la Biotechnologie](http://www.vitib.ci/fr/) - VITIB
 
 #### Transportation
 
