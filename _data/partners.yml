@@ -1,11 +1,11 @@
 -
   group: "Platinum Sponsors"
   elements:
-    - {name: "Your logo here", description: "Sponsor", link: "", imageUrl: "sponsors.png"}
+    - {name: "Your logo here", description: "Sponsor", link: "/sponsorship", imageUrl: "sponsors.png"}
 -
   group: "Gold Sponsors"
   elements:
-    - {name: "Your logo here", description: "Sponsor", link: "", imageUrl: "sponsors.png"}
+    - {name: "Your logo here", description: "Sponsor", link: "/sponsorship", imageUrl: "sponsors.png"}
 -
   group: "Silver Sponsors"
   elements:
@@ -13,8 +13,8 @@
 -
   group: "Bronze Sponsors"
   elements:
-    - {name: "Your logo here", description: "Sponsor", link: "", imageUrl: "sponsors.png"}
+    - {name: "Your logo here", description: "Sponsor", link: "/sponsorship", imageUrl: "sponsors.png"}
 -
   group: "Supporters"
   elements:
-    - {name: "Your logo here", description: "Sponsor", link: "", imageUrl: "sponsors.png"}
+    - {name: "Your logo here", description: "Sponsor", link: "/sponsorship", imageUrl: "sponsors.png"}
