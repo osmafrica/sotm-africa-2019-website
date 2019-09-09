@@ -1,4 +1,8 @@
 -
+  group: "Partners"
+  elements:
+    - {name: "GFDRR", description: "Sponsor", link: "https://www.gfdrr.org/", imageUrl: "GFDRR_Primary Logo_BW-Shade.png"}
+-
   group: "Platinum Sponsors"
   elements:
     - {name: "Your logo here", description: "Sponsor", link: "/sponsorship", imageUrl: "sponsors.png"}
