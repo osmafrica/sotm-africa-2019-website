@@ -7,8 +7,8 @@
             <h5>{{ partner.group }}</h5>
             <ul class="list-inline">
                 {% for element in partner.elements %}
-                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
-                    <a href="{{ element.link }}" target="_blank">
+                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>  
+                    <a href="{{ element.link }}" {% if element.name == "Your logo here" %} target="" {% endif %}  target="_blank">
                         <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
                     </a>
                 </li>
