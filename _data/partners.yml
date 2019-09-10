@@ -1,7 +1,8 @@
 -
   group: "Partners"
   elements:
-    - {name: "GFDRR", description: "Sponsor", link: "https://www.gfdrr.org/", imageUrl: "GFDRR_Primary Logo_BW-Shade.png"}
+    - {name: "GFDRR", description: "GFDRR", link: "https://www.gfdrr.org/", imageUrl: "GFDRR_Primary Logo_BW-Shade.png"}
+    - {name: "World Bank", description: "World Bank", link: "https://www.worldbank.org/", imageUrl: "worldbank ibrd ida.png"}
 -
   group: "Platinum Sponsors"
   elements:
@@ -17,7 +18,8 @@
 -
   group: "Bronze Sponsors"
   elements:
-    - {name: "Your logo here", description: "Sponsor", link: "/sponsorship", imageUrl: "sponsors.png"}
+    - {name: "Kaart", description: "Kaart", link: "https://kaartgroup.com/", imageUrl: "kaart.png"}
+    - {name: "Mapillary", description: "Mapillary", link: "https://mapillary.com", imageUrl: "mapillary.png"}
 -
   group: "Supporters"
   elements:
