@@ -2,7 +2,7 @@
   group: "Partners"
   elements:
     - {name: "GFDRR", description: "GFDRR", link: "https://www.gfdrr.org/", imageUrl: "GFDRR_Primary Logo_BW-Shade.png"}
-    - {name: "World Bank", description: "World Bank", link: "https://www.worldbank.org/", imageUrl: "worldbank ibrd ida.png"}
+    - {name: "World Bank", description: "World Bank", link: "https://www.worldbank.org/", imageUrl: "World_Bank_Group_logo.png"}
 -
   group: "Platinum Sponsors"
   elements:
