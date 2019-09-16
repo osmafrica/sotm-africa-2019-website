@@ -15,6 +15,7 @@
   group: "Silver Sponsors"
   elements:
     - {name: "Michelin", description: "Michelin", link: "https://www.michelin.com/", imageUrl: "michelin.svg"}
+    - {name: "Youthmappers", description: "Youthmappers", link: "https://www.youthmappers.org/", imageUrl: "youthmappers.jpg"}
 -
   group: "Bronze Sponsors"
   elements:
