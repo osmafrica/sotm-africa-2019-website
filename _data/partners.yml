@@ -1,7 +1,7 @@
 -
   group: "Partners"
   elements:
-    - {name: "GFDRR", description: "Sponsor", link: "https://www.gfdrr.org/", imageUrl: "GFDRR_Primary Logo_BW-Shade.png"}
+    - {name: "GFDRR", description: "Partner", link: "https://www.gfdrr.org/", imageUrl: "GFDRR_Primary Logo_BW-Shade.png"}
 -
   group: "Platinum Sponsors"
   elements:
@@ -13,12 +13,14 @@
 -
   group: "Silver Sponsors"
   elements:
-    - {name: "Michelin", description: "Michelin", link: "https://www.michelin.com/", imageUrl: "michelin.svg"}
+    - {name: "Michelin", description: "Sponsor", link: "https://www.michelin.com/", imageUrl: "michelin.svg"}
+    - {name: "Mapbox", description: "Sponsor", link: "https:https://www.mapbox.com/", imageUrl: "mapbox-logo-color.png"}
 -
   group: "Bronze Sponsors"
   elements:
-    - {name: "Your logo here", description: "Sponsor", link: "/sponsorship", imageUrl: "sponsors.png"}
+    - {name: "Kaart", description: "Sponsor", link: "https://kaartgroup.com/", imageUrl: "Kaart_Resized_Logo3.png"}
 -
   group: "Supporters"
   elements:
-    - {name: "Your logo here", description: "Sponsor", link: "/sponsorship", imageUrl: "sponsors.png"}
+    - {name: "Sige", description: "Supporter", link: "http://www.sige.ma/", imageUrl: "Logo_Sige.png"}
+    - {name: "Africa Bees", description: "Supporter", link: "http://http://www.africabees.com/", imageUrl: "africa_bees.png"}
