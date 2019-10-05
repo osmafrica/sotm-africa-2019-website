@@ -17,11 +17,13 @@
     - {name: "Michelin", description: "Michelin", link: "https://www.michelin.com/", imageUrl: "michelin.svg"}
     - {name: "Mapillary", description: "Mapillary", link: "https://mapillary.com", imageUrl: "mapillary.png"}
     - {name: "Youthmappers", description: "Youthmappers", link: "https://www.youthmappers.org/", imageUrl: "youthmappers.jpg"}
+    - {name: "Mapbox", description: "Mapbox", link: "https:https://www.mapbox.com/", imageUrl: "mapbox-logo-color.png"}
 -
   group: "Bronze Sponsors"
   elements:
-    - {name: "Kaart", description: "Kaart", link: "https://kaartgroup.com/", imageUrl: "kaart.png"}
+    - {name: "Kaart", description: "Sponsor", link: "https://kaartgroup.com/", imageUrl: "Kaart_Resized_Logo3.png"}
 -
   group: "Supporters"
   elements:
-    - {name: "Your logo here", description: "Sponsor", link: "/sponsorship", imageUrl: "sponsors.png"}
+    - {name: "Sige", description: "Supporter", link: "http://www.sige.ma/", imageUrl: "Logo_Sige.png"}
+    - {name: "Africa Bees", description: "Supporter", link: "http://http://www.africabees.com/", imageUrl: "africa_bees.png"}
