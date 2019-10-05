@@ -1,7 +1,8 @@
 -
   group: "Partners"
   elements:
-    - {name: "GFDRR", description: "Partner", link: "https://www.gfdrr.org/", imageUrl: "GFDRR_Primary Logo_BW-Shade.png"}
+    - {name: "GFDRR", description: "GFDRR", link: "https://www.gfdrr.org/", imageUrl: "GFDRR_Primary Logo_BW-Shade.png"}
+    - {name: "World Bank", description: "World Bank", link: "https://www.worldbank.org/", imageUrl: "World_Bank_Group_logo.png"}
 -
   group: "Platinum Sponsors"
   elements:
@@ -13,8 +14,10 @@
 -
   group: "Silver Sponsors"
   elements:
-    - {name: "Michelin", description: "Sponsor", link: "https://www.michelin.com/", imageUrl: "michelin.svg"}
-    - {name: "Mapbox", description: "Sponsor", link: "https:https://www.mapbox.com/", imageUrl: "mapbox-logo-color.png"}
+    - {name: "Michelin", description: "Michelin", link: "https://www.michelin.com/", imageUrl: "michelin.svg"}
+    - {name: "Mapillary", description: "Mapillary", link: "https://mapillary.com", imageUrl: "mapillary.png"}
+    - {name: "Youthmappers", description: "Youthmappers", link: "https://www.youthmappers.org/", imageUrl: "youthmappers.jpg"}
+    - {name: "Mapbox", description: "Mapbox", link: "https:https://www.mapbox.com/", imageUrl: "mapbox-logo-color.png"}
 -
   group: "Bronze Sponsors"
   elements:
