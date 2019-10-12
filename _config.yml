@@ -51,7 +51,7 @@ navigationLinks:
   - {permalink: "/logistics/", text: "Logistics"}
   # - {permalink: "/sponsorship/", text: "Sponsorship"}
  # - {permalink: "/speakers/", text: "Speakers"}
-  - {permalink: "/#tickets", text: "Tickets"}
+  - {permalink: "https://join.osmfoundation.org/?page=CiviCRM&q=civicrm%2Fevent%2Finfo&id=15&reset=1", text: "Tickets"}
   - {permalink: "/#partners", text: "Sponsors"}
   - {permalink: "/faq/", text: "FAQ"}
 bottomNavigationLinks:
@@ -68,7 +68,7 @@ typeoutTextValues: '"", "Africa", "Grand-Bassam", "Ivory Coast"'
 typeoutFallback: "Africa"
 heroButtons:
  - {permalink: "/sponsorship", text: "Become a Sponsor"}
- # - {permalink: "/calls", text: "Scholarship Application"}
+ - {permalink: "https://join.osmfoundation.org/?page=CiviCRM&q=civicrm%2Fevent%2Finfo&id=15&reset=1", text: "Buy Tickets"}
 
 # About Block
 aboutTitle: "About SOTM Africa 2019"
