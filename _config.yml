@@ -255,8 +255,8 @@ directionDetailsWideCards:
    -
     title: "Registration"
     links:
-     - {link: "https://join.osmfoundation.org/?page=CiviCRM&q=civicrm%2Fevent%2Finfo&id=15&reset=1", text: "Buy Tickets"}
-     
+     # - {link: "", text: "Buy Tickets"}
+     - Coming soon ...
    -
     title: "Attendance Details"
     links:
