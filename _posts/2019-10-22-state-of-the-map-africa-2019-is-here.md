@@ -29,7 +29,7 @@ You can book for accommodation in Grand-Bassam for all the three days of the con
 
 There are dozens of convenient and affordable places to say in Grand-Bassam. Most of the recommended hotels for accommodation are within the town in a range of 5-8 km distance to VITIB, the conference venue. Public transport costs less than a dollar to VITIB
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/grand-bassam_376435?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"> </iframe>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/grand-bassam_376435?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe>
 
 Make your choice from the following list recommended by the local organizing committee 
 
