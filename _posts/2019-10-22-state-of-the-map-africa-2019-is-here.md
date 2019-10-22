@@ -2,10 +2,10 @@
 layout: post
 title:  State of the Map Africa 2019 is here
 date:   2019-10-22 09:00:00
-image:  grandbassam_aerial.jpg
+image:  sotmafrica_logo.jpg
 isStaticPost: false
 ---
-![](../img/posts/grandbassam_aerial.jpg)
+![](../img/posts/sotmafrica_logo.jpg)
 
 
 
