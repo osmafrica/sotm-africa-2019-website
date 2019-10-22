@@ -5,7 +5,7 @@ date:   2019-10-22 09:00:00
 image:  sotmafrica_logo_300px.jpg
 isStaticPost: false
 ---
-![](../img/posts/sotmafrica_logo_300px.jpg =300x)
+![](../img/posts/sotmafrica_logo_300px.jpg)
 
 State of the Map Africa 2019 is just around the corner and we are excited to welcome you all to Abidjan and Grand-Bassam, Ivory Coast from the 22nd to 24th November 2019 for the conference.
 
