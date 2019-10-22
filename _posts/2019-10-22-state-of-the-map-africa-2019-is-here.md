@@ -2,10 +2,10 @@
 layout: post
 title:  State of the Map Africa 2019 is here
 date:   2019-10-22 09:00:00
-image:  sotmafrica_logo.jpg
+image:  sotmafrica_logo_300px.jpg
 isStaticPost: false
 ---
-![](../img/posts/sotmafrica_logo.jpg)
+![](../img/posts/sotmafrica_logo_300px.jpg)
 
 
 
