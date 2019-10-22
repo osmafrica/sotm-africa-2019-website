@@ -15,7 +15,7 @@ State of the Map Africa 2019 is just around the corner and we are excited to wel
 Here is some information to make planning for your trip to Ivory Coast easier.
 
 ## Registration:
-Tickets are on sale here. Early bird tickets are available till the 25th of October at 50 USD for participants from Africa and 100 USD for participants from the Rest of the World. After that, the tickets will go for 100 USD for Africa Participants and 200 USD for the rest of the world. We also have a corporate/business ticket going for 350 USD
+[Tickets are on sale here](https://join.osmfoundation.org/?page=CiviCRM&q=civicrm%2Fevent%2Finfo&id=15&reset=1). Early bird tickets are available till the 25th of October at 50 USD for participants from Africa and 100 USD for participants from the Rest of the World. After that, the tickets will go for 100 USD for Africa Participants and 200 USD for the rest of the world. We also have a corporate/business ticket going for 350 USD
 
 ## Venue:
 We have two venues for the conference
