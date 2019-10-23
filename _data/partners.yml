@@ -6,7 +6,7 @@
 -
   group: "Platinum Sponsors"
   elements:
-    - {name: "Your logo here", description: "Sponsor", link: "/sponsorship", imageUrl: "sponsors.png"}
+     - {name: "Facebook", description: "Sponsor", link: "https://www.facebook.com/", imageUrl: "Facebook-06-2015-White-on-Blue.png"}
 -
   group: "Gold Sponsors"
   elements:
