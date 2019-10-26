@@ -2,11 +2,9 @@
 layout: post
 title:  State of the Map Africa 2019 is here
 date:   2019-10-22 09:00:00
-image:  sotmafrica_logo_300px.jpg
+image:  2017-ad.jpg
 isStaticPost: false
 ---
-![](../img/posts/sotmafrica_logo_300px.jpg)
-
 State of the Map Africa 2019 is just around the corner and we are excited to welcome you all to Abidjan and Grand-Bassam, Ivory Coast from the 22nd to 24th November 2019 for the conference.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wiYFPMHdoFc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -29,7 +27,7 @@ You can book for accommodation in Grand-Bassam for all the three days of the con
 
 There are dozens of convenient and affordable places to say in Grand-Bassam. Most of the recommended hotels for accommodation are within the town in a range of 5-8 km distance to VITIB, the conference venue. Public transport costs less than a dollar to VITIB
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/grand-bassam_376435?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe>
+<iframe width="100%" height="100%" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/grand-bassam_376435?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe>
 
 Make your choice from the following list recommended by the local organizing committee 
 
@@ -45,8 +43,8 @@ Make your choice from the following list recommended by the local organizing com
 | [La Playa](https://www.laplaya-ci.com/) | 60 USD - 178 USD | [8.3km](https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=5.2274%2C-3.7592%3B5.1956%2C-3.7411#map=14/5.2134/-3.7429) |
 
 
-**Visas**
-Read the [Visa Polity of Ivory Coast here](https://en.wikipedia.org/wiki/Visa_policy_of_Ivory_Coast), for those that need a visa, you can apply for an electronic-visa here **https://snedai.com/e-visa/** that if approved can be picked up at the Port Bouet Airport in Abidjan. The eVisa is valid for 90 days and is issued within 48 hours
+#### Visas
+Read the [Visa Polity of Ivory Coast here](https://en.wikipedia.org/wiki/Visa_policy_of_Ivory_Coast), for those that need a visa, you can apply for an electronic-visa **[here](https://snedai.com/e-visa/)** that if approved can be picked up at the Port Bouet Airport in Abidjan. The eVisa is valid for 90 days and is issued within 48 hours
  
 ![](https://i.imgur.com/qDxpYIa.png)
 

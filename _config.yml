@@ -49,7 +49,7 @@ navigationLinks:
   - {permalink: "/about/", text: "About"}
   - {permalink: "/attending", text: "Attending"}
   - {permalink: "/logistics/", text: "Logistics"}
-  # - {permalink: "/sponsorship/", text: "Sponsorship"}
+  - {permalink: "/team/", text: "Team"}
  # - {permalink: "/speakers/", text: "Speakers"}
   - {permalink: "https://join.osmfoundation.org/?page=CiviCRM&q=civicrm%2Fevent%2Finfo&id=15&reset=1", text: "Tickets"}
   - {permalink: "/#partners", text: "Sponsors"}
