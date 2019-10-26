@@ -2,7 +2,7 @@
 <section id="supporters" class="supporters">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <h3>{{ site.supportersTitle }}</h3>
+           {% comment %} <h3>{{ site.supportersTitle }}</h3> {% endcomment %}
             {% for supporter in site.data.supporters %}
             <h5>{{ supporter.group }}</h5>
             <ul class="list-inline">
@@ -15,6 +15,7 @@
                 {% endfor %}
             </ul>
             {% endfor %}
+            <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
         </div>
     </div> 
 </section>
