@@ -4159,8 +4159,8 @@ nav li a:hover {
     width: 100%;
     -webkit-transition: all .3s;
     transition: all .3s;
-    -webkit-filter: grayscale(1);
-    filter: grayscale(1)
+    /* -webkit-filter: grayscale(1);
+    filter: grayscale(1) */
 }
 
 .partners img:hover {
@@ -4305,7 +4305,7 @@ nav li a:hover {
 
 .post-body img {
     width: 100%;
-    height: auto
+    height: 100%
 }
 
 .page-navigation {
