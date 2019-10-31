@@ -1,104 +1,232 @@
+# Day 1
 -
-  date: "2018-06-18T00:00:00-04:00"
+  date: "2019-11-22T00:00:00-04:00"
   tracks:
-    - {title: "Track 1", color: "#fbac3f"}
-    - {title: "Track 2", color: "#03a9f4"}
-    - {title: "Workshops", color: "#90be4e"}
+    - {title: "Plenary", color: "#fbac3f"}
+    - {title: "Salle 1", color: "#03a9f4"}
+    - {title: "Salle 2", color: "#90be4e"}
+    - {title: "Salle 3", color: "#90be4e"}
+    - {title: "Salle 4", color: "#90be4e"}
+    - {title: "Salle 5", color: "#90be4e"}
+    - {title: "Salle 5", color: "#90be4e"}
   timeslots:
     - {
-      startTime: "2018-06-18T09:45:00-04:00",
-      endTime: "2018-06-18T10:00:00-04:00",
-      sessionIds: ["888"]
+      startTime: "22019-11-22T08:00:00-04:00",
+      endTime: "2019-11-22T09:00:00-04:00",
+      sessionIds: ["000"]
     }
     - {
-      startTime: "2018-06-18T10:00:00-04:00",
-      endTime: "2018-06-18T11:00:00-04:00",
+      startTime: "2019-11-22T09:00:00-04:00",
+      endTime: "2019-11-22T09:30:00-04:00",
       sessionIds: ["001"]
     }
     - {
-      startTime: "2018-06-18T11:00:00-04:00",
-      endTime: "2018-06-18T12:00:00-04:00",
+      startTime: "2019-11-22T09:30:00-04:00",
+      endTime: "2019-11-22T10:30:00-04:00",
       sessionIds: ["004", "022", "666"]
     }
     - {
-      startTime: "2018-06-18T12:00:00-04:00",
-      endTime: "2018-06-18T13:00:00-04:00",
+      startTime: "2019-11-22T11:00:00-04:00",
+      endTime: "2019-11-22T12:30:00-04:00",
       sessionIds: ["503"]
     }
     - {
-      startTime: "2018-06-18T13:00:00-04:00",
-      endTime: "2018-06-18T14:00:00-04:00",
-      sessionIds: ["027", "006", "003"]
+      startTime: "2019-11-22T12:30:00-04:00",
+      endTime: "2019-11-22T14:00:00-04:00",
+      sessionIds: ["503"]
     }
     - {
-      startTime: "2018-06-18T14:00:00-04:00",
-      endTime: "2018-06-18T15:00:00-04:00",
+      startTime: "2019-11-22T14:00:00-04:00",
+      endTime: "2019-11-22T15:30:00-04:00",
       sessionIds: ["009", "008", "1511"]
     }
     - {
-      startTime: "2018-06-18T15:00:00-04:00",
-      endTime: "2018-06-18T16:00:00-04:00",
+      startTime: "2019-11-22T16:00:00-04:00",
+      endTime: "2019-11-22T17:30:00-04:00",
       sessionIds: ["020", "024", "666"]
     }
-    - {
-      startTime: "2018-06-18T16:00:00-04:00",
-      endTime: "2018-06-18T17:00:00-04:00",
-      sessionIds: ["026", "023", "666"]
-    }
-    - {
-      startTime: "2018-06-18T17:00:00-04:00",
-      endTime: "2018-06-18T18:00:00-04:00",
-      sessionIds: ["005", "007", "666"]
-    }
+
+# Day 2
 -
-  date: "2018-06-19T00:00:00-04:00"
+  date: "2019-11-23T00:00:00-04:00"
   tracks:
-    - {title: "Track 1", color: "#fbac3f"}
-    - {title: "Track 2", color: "#03a9f4"}
-    - {title: "Workshops", color: "#90be4e"}
+    - {title: "AMPHITHÉÂTRE", color: "#fbac3f"}
+    - {title: "CAVALLY", color: "#03a9f4"}
+    - {title: "COMOE", color: "#90be4e"}
+    - {title: "EBRIÉ", color: "#90be4e"}
+    - {title: "ABISSA", color: "#90be4e"}
+    - {title: "GRAND-BASSAM", color: "#90be4e"}
   timeslots:
     - {
-      startTime: "2018-06-19T09:00:00-04:00",
-      endTime: "2018-06-19T10:00:00-04:00",
-      sessionIds: ["032"]
+      startTime: "2019-11-23T08:30:00-04:00",
+      endTime: "2019-11-23T09:20:00-04:00",
+      sessionIds: ["000"]
     }
     - {
-      startTime: "2018-06-19T10:00:00-04:00",
-      endTime: "2018-06-19T11:00:00-04:00",
-      sessionIds: ["019", "056", "021"]
+      startTime: "2019-11-23T09:30:00-04:00",
+      endTime: "2019-11-23T10:00:00-04:00",
+      # keynote
+      sessionIds: ["019"]
     }
     - {
-      startTime: "2018-06-19T11:00:00-04:00",
-      endTime: "2018-06-19T12:00:00-04:00",
+      startTime: "2019-11-23T10:00:00-04:00",
+      endTime: "2019-11-23T10:30:00-04:00",
       sessionIds: ["015", "014", "666"]
     }
     - {
-      startTime: "2018-06-19T12:00:00-04:00",
-      endTime: "2018-06-19T13:00:00-04:00",
+      startTime: "2019-11-23T10:30:00-04:00",
+      endTime: "2019-11-23T11:00:00-04:00",
       sessionIds: ["503"]
     }
     - {
-      startTime: "2018-06-19T13:00:00-04:00",
-      endTime: "2018-06-19T14:00:00-04:00",
+      startTime: "2019-11-23T11:00:00-04:00",
+      endTime: "2019-11-23T00:11:30-04:00",
       sessionIds: ["012", "017", "029"]
     }
     - {
-      startTime: "2018-06-19T14:00:00-04:00",
-      endTime: "2018-06-19T15:00:00-04:00",
+      startTime: "2019-11-23T11:30:00-04:00",
+      endTime: "2019-11-23T12:00:00-04:00",
       sessionIds: ["011", "013", "666"]
     }
     - {
-      startTime: "2018-06-19T15:00:00-04:00",
-      endTime: "2018-06-19T16:00:00-04:00",
+      startTime: "2019-11-23T12:00:00-04:00",
+      endTime: "2019-11-23T12:30:00-04:00",
       sessionIds: ["057", "016", "030"]
     }
     - {
-      startTime: "2018-06-19T16:00:00-04:00",
-      endTime: "2018-06-19T17:00:00-04:00",
+      startTime: "2019-11-23T12:30:00-04:00",
+      endTime: "2019-11-23T13:00:00-04:00",
       sessionIds: ["018"]
     }
+    # Lunch
     - {
-      startTime: "2018-06-19T17:00:00-04:00",
-      endTime: "2018-06-19T18:00:00-04:00",
+      startTime: "2019-11-23T13:00:00-04:00",
+      endTime: "2019-11-23T14:00:00-04:00",
+      sessionIds: ["503"]
+    }
+    - {
+      startTime: "2019-11-23T14:00:00-04:00",
+      endTime: "2019-11-23T14:30:00-04:00",
+      sessionIds: ["1"]
+    }
+    - {
+      startTime: "2019-11-23T14:30:00-04:00",
+      endTime: "2019-11-23T15:00:00-04:00",
+      sessionIds: ["1"]
+    }
+    - {
+      startTime: "2019-11-23T15:00:00-04:00",
+      endTime: "2019-11-23T15:30:00-04:00",
+      sessionIds: ["1"]
+    }
+    # Coeffe Break
+    - {
+      startTime: "2019-11-23T15:30:00-04:00",
+      endTime: "2019-11-23T16:00:00-04:00",
+      sessionIds: ["307"]
+    }
+    # Mapathon
+    - {
+      startTime: "2019-11-23T16:00:00-04:00",
+      endTime: "2019-11-23T17:00:00-04:00",
+      sessionIds: ["337"]
+    }
+    - {
+      startTime: "2019-11-23T17:00:00-04:00",
+      endTime: "2019-11-23T17:30:00-04:00",
+      sessionIds: ["407"]
+    }
+    # Social event
+    - {
+      startTime: "2019-11-23T17:30:00-04:00",
+      endTime: "2019-11-23T18:30:00-04:00",
+      sessionIds: ["444"]
+    }
+
+# Day 3
+-
+  date: "2019-11-24T00:00:00-04:00"
+  tracks:
+    - {title: "AMPHITHÉÂTRE", color: "#fbac3f"}
+    - {title: "CAVALLY", color: "#03a9f4"}
+    - {title: "COMOE", color: "#90be4e"}
+    - {title: "EBRIÉ", color: "#90be4e"}
+    - {title: "ABISSA", color: "#90be4e"}
+    - {title: "GRAND-BASSAM", color: "#90be4e"}
+
+  timeslots:
+    - {
+      startTime: "2019-11-24T08:30:00-04:00",
+      endTime: "2019-11-24T09:30:00-04:00",
+      sessionIds: ["000"]
+    }
+    - {
+      startTime: "2019-11-24T09:30:00-04:00",
+      endTime: "2019-11-24T10:00:00-04:00",
+      sessionIds: ["019", "056", "021"]
+    }
+    - {
+      startTime: "2019-11-24T10:00:00-04:00",
+      endTime: "2019-11-24T11:00:00-04:00",
+      sessionIds: ["015", "014", "666"]
+    }
+    # Coeffe Break
+    - {
+      startTime: "2019-11-24T11:00:00-04:00",
+      endTime: "2019-11-24T11:30:00-04:00",
+      sessionIds: ["307"]
+    }
+    - {
+      startTime: "2019-11-24T11:30:00-04:00",
+      endTime: "2019-11-24T12:00:00-04:00",
+      sessionIds: ["37"]
+    }
+    - {
+      startTime: "2019-11-24T12:00:00-04:00",
+      endTime: "2019-11-24T12:30:00-04:00",
+      sessionIds: ["011", "013", "666"]
+    }
+    - {
+      startTime: "2019-11-24T12:30:00-04:00",
+      endTime: "2019-11-24T13:00:00-04:00",
+      sessionIds: ["057", "016", "030"]
+    }
+    # Lunch
+    - {
+      startTime: "2019-11-24T13:00:00-04:00",
+      endTime: "2019-11-24T14:00:00-04:00",
+      sessionIds: ["503"]
+    }
+    - {
+      startTime: "2019-11-24T14:00:00-04:00",
+      endTime: "2019-11-24T14:30:00-04:00",
       sessionIds: ["031"]
+    }
+    - {
+      startTime: "2019-11-24T14:30:00-04:00",
+      endTime: "2019-11-24T15:00:00-04:00",
+      sessionIds: ["031"]
+    }
+    - {
+      startTime: "2019-11-24T15:00:00-04:00",
+      endTime: "2019-11-24T15:30:00-04:00",
+      sessionIds: ["031", "043"]
+    }
+    # Coeffe Break
+    - {
+      startTime: "2019-11-24T15:30:00-04:00",
+      endTime: "2019-11-24T16:00:00-04:00",
+      sessionIds: ["307"]
+    }
+    # Closing Ceremony
+    - {
+      startTime: "2019-11-24T16:00:00-04:00",
+      endTime: "2019-11-24T17:30:00-04:00",
+      sessionIds: ["307"]
+    }
+    # FootBall
+    - {
+      startTime: "2019-11-24T17:30:00-04:00",
+      endTime: "2019-11-24T18:30:00-04:00",
+      sessionIds: ["307"]
     }
