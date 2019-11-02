@@ -1,12 +1,19 @@
 -
+  id: "0"
+  name: "Ministry"
+  surname: "of Digital Economy (TBC)"
+  company: 
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
   id: "1"
   name: "Vivien"
   surname: "Deperday"
   company: "GFDRR"
   title: ""
   bio: 
-  thumbnailUrl: SusanBennett.jpg
-  rockstar: true
+  thumbnailUrl: dummu.png
   social:
     - {name: "site", link: "https://www.gfdrr.org/"}
     - {name: "twitter", link: "https://twitter.com/vdeparday"}
@@ -15,10 +22,9 @@
   name: "Ibrahima"
   surname: "Guimba"
   title: "Conseiller spécial du président et Ministre ICT du Niger"
-  company: ""
+  company: "Niger"
   bio: 
-  thumbnailUrl: CraigClayton.jpg
-  rockstar: true
+  thumbnailUrl: dummu.png
   social:
     - {name: "twitter", link: "https://twitter.com/thedevme"}
 -
@@ -28,8 +34,7 @@
   company: "Pivotal Labs"
   title: "Jokko Labs Founder and Digital Africa President "
   bio: 
-  thumbnailUrl: SeanOlszewski.jpg
-  rockstar: true
+  thumbnailUrl: dummu.png
   social:
     - {name: "twitter", link: "https://twitter.com/__chefski__"}
     - {name: "github", link: "https://github.com/seanrolszewski"}
@@ -40,8 +45,7 @@
   company: "Chewy"
   title: "Chief Web Advocate at World Wide Web Foundation"
   bio: 
-  thumbnailUrl: MattDias.jpg
-  rockstar: true
+  thumbnailUrl: dummu.png
   social:
     - {name: "twitter", link: "https://twitter.com/mdiasdev"}
     - {name: "github", link: "https://github.com/mdiasdev"}
@@ -51,11 +55,10 @@
   surname: "Youzan"
   title: "Directeur du Lab Innovation Afrique chez Société Générale Société Général (TBC)"
   bio: 
-  thumbnailUrl: AlexBush.jpg
+  thumbnailUrl: dummu.png
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/fyouzan"}
-   
+    - {name: "twitter", link: "https://twitter.com/fyouzan"}  
 -
   id: "6"
   name: "Grace"
@@ -63,7 +66,7 @@
   title: ""
   company: "GFDRR"
   bio:    
-  thumbnailUrl: AgnesVasarhelyi.jpg
+  thumbnailUrl: dummu.png
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/DohertyGrace"}
@@ -74,8 +77,7 @@
   title: ""
   company: "GFDRR"
   bio: 
-  thumbnailUrl: MartinMitrevski.jpg
-  rockstar: true
+  thumbnailUrl: dummu.png
   social:
     - {name: "twitter", link: "https://twitter.com/mitrevski"}
 -
@@ -85,9 +87,247 @@
   title: "Founder & Lead Developer"
   company: "Apperto"
   bio: 
-  thumbnailUrl: SarpErdag.jpg
+  thumbnailUrl: dummu.png
+-
+  id: "9"
+  name: "Ifeatu"
+  surname: "Enedah"
+  Title: ""
+  company: "Brains and Hammer, Nigeria"
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "10"
+  name: "Nombré"
+  surname: "Apollinaire"
+  title: ""
+  company: "ILRI, Burkina Faso"
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "11"
+  name: "Ingrid Martha"
+  surname: "Kintu"
+  title: ""
+  company: "Makarere University, Uganda"
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "12"
+  name: "Guy Pacome"
+  surname: "Adingra Yao"
+  title: ""
+  company: "OSM Cote d Ivore, Cote d Ivoire"
+  bio: 
+  thumbnailUrl: GuyPacomeAdingra.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/pacomadingrah"}
+-
+  id: "13"
+  name: "ABEDJE NESIT"
+  surname: "BÉRENGER"
+  title: ""
+  company: "Development Gateway, Cote d ivoire"
+  bio: 
+  thumbnailUrl: NesitAbedje.JPG
+-
+  id: "14"
+  name: "Nako Kofele"
+  surname: "Martin Alain"
+  title: ""
+  company: "Expanding Horizon, Cameroon"
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "15"
+  name: "Eyongetta"
+  surname: "Njieassam"
+  title: ""
+  company: "GYSSL, Cameroon"
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "16"
+  name: "Benard"
+  surname: "Kulohoma"
+  title: ""
+  company: "University of Nairobi, Kenya"
+  bio: 
+  thumbnailUrl: BernardKoluhoma.jpg
+-
+  id: "17"
+  name: "Claire"
+  surname: "Halleux"
+  title: ""
+  company: "World Resource Institute, DRC"
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "18"
+  name: "Enock Seth"
+  surname: "Nyamador"
+  company: "Mawutor Donkor"
+  title: ""
+  bio: 
+  thumbnailUrl: EnockSethNyamador.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/sarperdag/"}
-
-  
+    - {name: "twitter", link: "https://twitter.com/Enock4seth"}
+    - {name: "github", link: "https://github.com/enockseth"}
+-
+  id: "19"
+  name: "BARRY Mamadou"
+  surname: "Bella"
+  company: "GeoSynapse, Guinee"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+  rockstar: true
+ 
+-
+  id: "20"
+  name: "Hellen"
+  surname: "Dailofa"
+  company: " Youthmapper, Zambia"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/Enock4seth"}
+    - {name: "github", link: "https://github.com/enockseth"}
+-
+  id: "21"
+  name: "AKOUETE"
+  surname: "Ata Franck"
+  company: "OSM Togo, Togo"
+  title: ""
+  bio: 
+  thumbnailUrl: FrankAkoete.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/Franck_Akouete"}
+-
+  id: "22"
+  name: "Neema"
+  surname: "Meremo"
+  company: "Girl Rising Tanzania, Tanzania"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/NeemaMeremo"}
+-
+  id: "23"
+  name: "Astou Nathalie"
+  surname: "SIDIBE "
+  company: "OSM Mali, Mali"
+  title: ""
+  bio: 
+  thumbnailUrl: NathalieSIDIBE.jpg
+ 
+  social:
+    - {name: "twitter", link: "https://twitter.com/Honorable_Nath"}
+-
+  id: "24"
+  name: "Michael"
+  surname: "Batame"
+  company: "Youthmapper, Ghana"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-  
+  id: "25"
+  name: "Sally"
+  surname: "Musungu "
+  company: "Imperial College, United Kingdom"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "26"
+  name: "Justus"
+  surname: "Muhando "
+  company: "Spatial Collectives, Kenya"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/SpatialCollect"}
+-
+  id: "27"
+  name: "Michael"
+  surname: "Diala"
+  company: "UN SDSN, Nigeria"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "28"
+  name: "Steven"
+  surname: "Mather"
+  company: ""
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "29"
+  name: "Caroline"
+  surname: "Gevaert"
+  company: ""
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "30"
+  name: "Cristiano "
+  surname: "Giovando"
+  company: "GFDRR"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/giovand"}
+-
+  id: "31"
+  name: "Ernest"
+  surname: "Ruzindana"
+  company: "Youthmapper of Uni Rwanda, Rwanda "
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ruzindanaernes5"}
+-
+  id: "32"
+  name: "Msilikale"
+  surname: "Msilanga"
+  company: " University of Turku, Tanzania"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/msilikale05"}
+-
+  id: "33"
+  name: "Presenter"
+  surname: "Name"
+  company: " Organisation"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "34"
+  name: "David"
+  surname: "Williams"
+  company: ""
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "35"
+  name: "Alex"
+  surname: "Duclaux"
+  company: "SIGE, Morrocco"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+ 
