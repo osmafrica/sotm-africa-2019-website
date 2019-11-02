@@ -8,42 +8,52 @@
     - {title: "Salle 3", color: "#90be4e"}
     - {title: "Salle 4", color: "#90be4e"}
     - {title: "Salle 5", color: "#90be4e"}
-    - {title: "Salle 5", color: "#90be4e"}
+    - {title: "Outdoor", color: "#90be4e"}
   timeslots:
     - {
       startTime: "22019-11-22T08:00:00-04:00",
       endTime: "2019-11-22T09:00:00-04:00",
-      sessionIds: ["000"]
+      sessionIds: ["001"]
     }
     - {
       startTime: "2019-11-22T09:00:00-04:00",
       endTime: "2019-11-22T09:30:00-04:00",
-      sessionIds: ["001"]
+      sessionIds: ["004"]
     }
     - {
       startTime: "2019-11-22T09:30:00-04:00",
       endTime: "2019-11-22T10:30:00-04:00",
-      sessionIds: ["004", "022", "666"]
+      sessionIds: ["005"]
     }
     - {
       startTime: "2019-11-22T11:00:00-04:00",
       endTime: "2019-11-22T12:30:00-04:00",
-      sessionIds: ["503"]
+      sessionIds: ["006", "007", "008", "009", "010", "011", "012"]
     }
     - {
       startTime: "2019-11-22T12:30:00-04:00",
       endTime: "2019-11-22T14:00:00-04:00",
-      sessionIds: ["503"]
+      sessionIds: ["003"]
     }
     - {
       startTime: "2019-11-22T14:00:00-04:00",
       endTime: "2019-11-22T15:30:00-04:00",
-      sessionIds: ["009", "008", "1511"]
+      sessionIds: ["013", "014", "015", "016", "017","018"]
+    }
+    - {
+      startTime: "2019-11-22T15:30:00-04:00",
+      endTime: "2019-11-22T16:00:00-04:00",
+      sessionIds: ["002"]
     }
     - {
       startTime: "2019-11-22T16:00:00-04:00",
       endTime: "2019-11-22T17:30:00-04:00",
-      sessionIds: ["020", "024", "666"]
+      sessionIds: ["019"]
+    }
+    - {
+      startTime: "2019-11-22T17:30:00-04:00",
+      endTime: "2019-11-22T19:00:00-04:00",
+      sessionIds: ["020"]
     }
 
 # Day 2
@@ -60,87 +70,87 @@
     - {
       startTime: "2019-11-23T08:30:00-04:00",
       endTime: "2019-11-23T09:20:00-04:00",
-      sessionIds: ["000"]
+      sessionIds: ["001"]
     }
     - {
       startTime: "2019-11-23T09:30:00-04:00",
       endTime: "2019-11-23T10:00:00-04:00",
       # keynote
-      sessionIds: ["019"]
+      sessionIds: ["021"]
     }
     - {
       startTime: "2019-11-23T10:00:00-04:00",
       endTime: "2019-11-23T10:30:00-04:00",
-      sessionIds: ["015", "014", "666"]
+      sessionIds: ["022", "023", "024", "025", "026","027"]
     }
     - {
       startTime: "2019-11-23T10:30:00-04:00",
       endTime: "2019-11-23T11:00:00-04:00",
-      sessionIds: ["503"]
+      sessionIds: ["027", "028","029"]
     }
     - {
       startTime: "2019-11-23T11:00:00-04:00",
       endTime: "2019-11-23T00:11:30-04:00",
-      sessionIds: ["012", "017", "029"]
+      sessionIds: []
     }
     - {
       startTime: "2019-11-23T11:30:00-04:00",
       endTime: "2019-11-23T12:00:00-04:00",
-      sessionIds: ["011", "013", "666"]
+      sessionIds: []
     }
     - {
       startTime: "2019-11-23T12:00:00-04:00",
       endTime: "2019-11-23T12:30:00-04:00",
-      sessionIds: ["057", "016", "030"]
+      sessionIds: []
     }
     - {
       startTime: "2019-11-23T12:30:00-04:00",
       endTime: "2019-11-23T13:00:00-04:00",
-      sessionIds: ["018"]
+      sessionIds: []
     }
     # Lunch
     - {
       startTime: "2019-11-23T13:00:00-04:00",
       endTime: "2019-11-23T14:00:00-04:00",
-      sessionIds: ["503"]
+      sessionIds: ["002"]
     }
     - {
       startTime: "2019-11-23T14:00:00-04:00",
       endTime: "2019-11-23T14:30:00-04:00",
-      sessionIds: ["1"]
+      sessionIds: []
     }
     - {
       startTime: "2019-11-23T14:30:00-04:00",
       endTime: "2019-11-23T15:00:00-04:00",
-      sessionIds: ["1"]
+      sessionIds: []
     }
     - {
       startTime: "2019-11-23T15:00:00-04:00",
       endTime: "2019-11-23T15:30:00-04:00",
-      sessionIds: ["1"]
+      sessionIds: []
     }
     # Coeffe Break
     - {
       startTime: "2019-11-23T15:30:00-04:00",
       endTime: "2019-11-23T16:00:00-04:00",
-      sessionIds: ["307"]
+      sessionIds: ["002"]
     }
     # Mapathon
     - {
       startTime: "2019-11-23T16:00:00-04:00",
       endTime: "2019-11-23T17:00:00-04:00",
-      sessionIds: ["337"]
+      sessionIds: []
     }
     - {
       startTime: "2019-11-23T17:00:00-04:00",
       endTime: "2019-11-23T17:30:00-04:00",
-      sessionIds: ["407"]
+      sessionIds: []
     }
     # Social event
     - {
       startTime: "2019-11-23T17:30:00-04:00",
       endTime: "2019-11-23T18:30:00-04:00",
-      sessionIds: ["444"]
+      sessionIds: []
     }
 
 # Day 3
@@ -158,54 +168,54 @@
     - {
       startTime: "2019-11-24T08:30:00-04:00",
       endTime: "2019-11-24T09:30:00-04:00",
-      sessionIds: ["000"]
+      sessionIds: ["001"]
     }
     - {
       startTime: "2019-11-24T09:30:00-04:00",
       endTime: "2019-11-24T10:00:00-04:00",
-      sessionIds: ["019", "056", "021"]
+      sessionIds: []
     }
     - {
       startTime: "2019-11-24T10:00:00-04:00",
       endTime: "2019-11-24T11:00:00-04:00",
-      sessionIds: ["015", "014", "666"]
+      sessionIds: []
     }
     # Coeffe Break
     - {
       startTime: "2019-11-24T11:00:00-04:00",
       endTime: "2019-11-24T11:30:00-04:00",
-      sessionIds: ["307"]
+      sessionIds: ["002"]
     }
     - {
       startTime: "2019-11-24T11:30:00-04:00",
       endTime: "2019-11-24T12:00:00-04:00",
-      sessionIds: ["37"]
+      sessionIds: []
     }
     - {
       startTime: "2019-11-24T12:00:00-04:00",
       endTime: "2019-11-24T12:30:00-04:00",
-      sessionIds: ["011", "013", "666"]
+      sessionIds: []
     }
     - {
       startTime: "2019-11-24T12:30:00-04:00",
       endTime: "2019-11-24T13:00:00-04:00",
-      sessionIds: ["057", "016", "030"]
+      sessionIds: []
     }
     # Lunch
     - {
       startTime: "2019-11-24T13:00:00-04:00",
       endTime: "2019-11-24T14:00:00-04:00",
-      sessionIds: ["503"]
+      sessionIds: ["003"]
     }
     - {
       startTime: "2019-11-24T14:00:00-04:00",
       endTime: "2019-11-24T14:30:00-04:00",
-      sessionIds: ["031"]
+      sessionIds: []
     }
     - {
       startTime: "2019-11-24T14:30:00-04:00",
       endTime: "2019-11-24T15:00:00-04:00",
-      sessionIds: ["031"]
+      sessionIds: []
     }
     - {
       startTime: "2019-11-24T15:00:00-04:00",
@@ -216,17 +226,17 @@
     - {
       startTime: "2019-11-24T15:30:00-04:00",
       endTime: "2019-11-24T16:00:00-04:00",
-      sessionIds: ["307"]
+      sessionIds: ["002"]
     }
     # Closing Ceremony
     - {
       startTime: "2019-11-24T16:00:00-04:00",
       endTime: "2019-11-24T17:30:00-04:00",
-      sessionIds: ["307"]
+      sessionIds: []
     }
     # FootBall
     - {
       startTime: "2019-11-24T17:30:00-04:00",
       endTime: "2019-11-24T18:30:00-04:00",
-      sessionIds: ["307"]
+      sessionIds: []
     }
