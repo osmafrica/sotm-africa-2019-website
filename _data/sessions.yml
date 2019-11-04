@@ -235,7 +235,6 @@
       - Directeur régional pour le dévelopemment durable en Afrique, Banque Mondiale
       - Regional Director for Sustainable Development for Africa, World Bank
       - Gouverneur Maire d'Abidjan (TBC)
-   
   subtype:
   speakers: []
 -
@@ -252,3 +251,118 @@
   description: 
   speakers: []
   subtype: 
+-
+  id: "022"
+  title: "Workshop: Machine Learning Tools to Support Mapping for Resilience and Disaster Risk Management"
+  place: "AMPHITHÉÂTRE"
+  description: 
+  speakers: ["36"]
+  subtype: 
+-
+  id: "023"
+  title: "The Red Cross and Open Data for Community Epidemic Preparedness"
+  place: "CAVALLY"
+  description: 
+  speakers: ["37"]
+  subtype: 
+-
+  id: "024"
+  title: "How to Build from scratch a free and open data Infrastructure across African countries."
+  place: "COMOE"
+  description: 
+  speakers: ["39"]
+  subtype: 
+-
+  id: "025"
+  title: "Web Mapping and Geo-way Finder System of University of Port Harcourt Campus, Nigeria"
+  place: "EBRIÉ"
+  description: 
+  speakers: ["40"]
+  subtype: 
+-
+  id: "026"
+  title: "Small Group Disussion"
+  place: "ABISSA"
+  description: |
+    Mapping for Land tenancy in Africa
+      - Samson Ngumenawe, MapUganda, Uganda
+      - Jaisen Nedmpala, Mahatma Ghandi University, India
+      - Tapuwa Nzara, Zambia Land Aliance, Zambia
+      - Farirai Mageza, Youth Agrarian Society, Zimbabwe
+  subtype:
+  speakers: ["41", "42", "43", "44"]
+-
+  id: "027"
+  title: "Workshop: OSM for Transport Technical Session(AFD, France)"
+  place: "GRAND-BASSAM"
+  description: 
+  subtype:
+  speakers: []
+-
+  id: "028"
+  title: "Mapping in a complex humanitarian crisis; the challenges and success – A case study of Boko Haram crises in Northeast Nigeria"
+  place: "CAVALLY"
+  description: 
+  speakers: ["38"]
+  subtype: 
+-
+  id: "029"
+  title: "Using street-level imagery in the fight against illegal waste dumping: Lessons from Uganda"
+  place: "COMOE"
+  description: 
+  subtype:
+  speakers: ["45"]
+-
+  id: "030"
+  title: "Detecting, mapping and monitoring of seasonal changes of shallow water ponds using SAR data with Deep Learning"
+  place: "EBRIÉ"
+  description: 
+  subtype:
+  speakers: ["46"]
+-
+  id: "031"
+  title: "Using Docker to fetch OSM Data and Upload in PostGis Database (Docker-OSM)"
+  place: "ABISSA"
+  description: 
+  subtype:
+  speakers: ["47"]
+-
+  id: "034"
+  title: "Panel: Sustainability and OSM in Africa"
+  place: "AMPHITHÉÂTRE"
+  description: |
+    - Panelist 1  (Erica Hagen, Map Kibera Trust, USA)
+    - Panelist 2  (Presenter name, organization, country)
+  subtype:
+  speakers: ["48", "49"]
+-
+  id: "035"
+  title: "Mapping Drinking water source in Democratic Republic of the Congo for a more efficient water supply"
+  place: "CAVALLY"
+  description: 
+  subtype:
+  speakers: ["50"]
+-
+  id: "036"
+  title: "Understanding geographical access to primary healthcare in Ifanadiana, Madagascar"
+  place: "COMOE"
+  description: 
+  subtype:
+  speakers: ["51"]
+-
+  id: "037"
+  title: "How to Iinvolve Africa Openstreetmap French community"
+  place: "EBRIÉ"
+  description: 
+  subtype:
+  speakers: ["52"]
+-
+  id: "038"
+  title: "Reclaim the streets"
+  place: "ABISSA"
+  description: 
+  subtype:
+  speakers: ["53"]
+
+
+
