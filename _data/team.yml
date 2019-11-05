@@ -27,7 +27,7 @@
   id: "2"
   name: "Geoffrey"
   surname: "Kateregga"
-  title: "Communications Committee"
+  title: "Communications and Tech Committee"
   thumbnailUrl: GeoffreyKateregga.jpg
   type: committee
   bio: |
@@ -35,3 +35,15 @@
   social:
     - {name: "twitter", link: "https://twitter.com/kateregga1"}
     - {name: "github", link: "https://github.com/kateregga1"}
+-
+  id: "3"
+  name: "Faneva"
+  surname: "Andriamiadantsoa"
+  title: "Communications and Tech Committee"
+  thumbnailUrl: FanevaAndriamiadantsoa.jpg
+  type: committee
+  bio: |
+    GIS Developer
+  social:
+    - {name: "twitter", link: "https://twitter.com/fanevanjanahry"}
+    - {name: "github", link: "https://github.com/Fanevanjanahary"}  
