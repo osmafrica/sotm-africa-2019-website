@@ -192,9 +192,6 @@
   title: ""
   bio: 
   thumbnailUrl: dummu.png
-  social:
-    - {name: "twitter", link: "https://twitter.com/Enock4seth"}
-    - {name: "github", link: "https://github.com/enockseth"}
 -
   id: "21"
   name: "AKOUETE"
@@ -330,4 +327,157 @@
   title: ""
   bio: 
   thumbnailUrl: dummu.png
- 
+-
+  id: "36"
+  name: "Caroline"
+  surname: "Gevaert"
+  company: "Worldbank"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "37"
+  name: "Jennifer"
+  surname: "Duong"
+  company: "American RedCross, USA"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png 
+-
+  id: "38"
+  name: "Bethel Ugochukwu"
+  surname: "Ukazu"
+  company: "IOM, Nigeria"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "39"
+  name: "Willy Fracnk"
+  surname: "SOB"
+  company: "OSM Cameroon, Cameroon"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "40"
+  name: "Ikeogu Emmanuel"
+  surname: "Chidera"
+  company: "Youthmapper, Nigeria"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "41"
+  name: "Samson"
+  surname: "Ngumenawe"
+  company: "MapUganda, Uganda"
+  title: ""
+  bio: 
+  thumbnailUrl: SamsonNgumenawe.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/NGUMENAWESAMSON"}
+-
+  id: "42"
+  name: "Jaisen"
+  surname: "Nedmpala"
+  company: "Mahatma Ghandi University, India"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "43"
+  name: "Tapuwa"
+  surname: "Nzara"
+  company: "Zambia Land Aliance, Zambia"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "44"
+  name: "TapuFarirai"
+  surname: "Mageza"
+  company: "Youth Agrarian Society, Zimbabwewa"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "45"
+  name: "Henry"
+  surname: "Sseruwagi"
+  company: "Uganda"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "46"
+  name: "Linda"
+  surname: "Ochwada"
+  company: "Afro-AI Consult, Germany"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "47"
+  name: "Faneva"
+  surname: "Andriamiadantsoa"
+  company: "Madagascar"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/fanevanjanahry"}
+    - {name: "github", link: "https://github.com/Fanevanjanahary"}  
+-
+  id: "48"
+  name: "Erica"
+  surname: "Hagen"
+  company: "Map Kibera Trust, USA"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "49"
+  name: "Presenter "
+  surname: "name"
+  company: "organization, country"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "50"
+  name: "Simbeko"
+  surname: "Guy"
+  company: "Catholic University, Bukavu, DRC"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "51"
+  name: "Felana Angella"
+  surname: "IHANTAMALALA H."
+  company: "Madagascar"
+  title: ""
+  bio: 
+  thumbnailUrl: FelanaIHANTAMALALA.JPG
+-
+  id: "52"
+  name: "Kokou Elolo"
+  surname: "AMEGAYIBO"
+  company: "OSM Togo, Togo"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/AKEAmazan"}
+    - {name: "github", link: "https://github.com/AKEAmazan"}
+-
+  id: "53"
+  name: "Nicolas"
+  surname: "Chavent"
+  company: "Les Libres Geographes, France"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/nicolas_chavent"}
