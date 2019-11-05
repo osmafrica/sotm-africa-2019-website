@@ -424,7 +424,7 @@
   company: "Madagascar"
   title: ""
   bio: 
-  thumbnailUrl: dummu.png
+  thumbnailUrl: FanevaAndriamiadantsoa.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/fanevanjanahry"}
     - {name: "github", link: "https://github.com/Fanevanjanahary"}  
@@ -467,7 +467,7 @@
   company: "OSM Togo, Togo"
   title: ""
   bio: 
-  thumbnailUrl: dummu.png
+  thumbnailUrl: AKE.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/AKEAmazan"}
     - {name: "github", link: "https://github.com/AKEAmazan"}
@@ -481,3 +481,115 @@
   thumbnailUrl: dummu.png
   social:
     - {name: "twitter", link: "https://twitter.com/nicolas_chavent"}
+-
+  id: "54"
+  name: "Robert C."
+  surname: "Danziger"
+  company: "LIEI-Larabanga, Germany"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "55"
+  name: "Gertrude"
+  surname: "Namitala"
+  company: "OSM Zambia, Zambia"
+  title: ""
+  bio: 
+  thumbnailUrl: GertrudeNamitala.jpeg
+  social:
+    - {name: "twitter", link: "https://twitter.com/TrudyHopeB"}
+-
+  id: "56"
+  name: "Bama"
+  surname: "Emmanuel"
+  company: "Data Transport, Mali"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/EmmanuelBama"}
+-
+  id: "57"
+  name: "Zacharia"
+  surname: "Muindi"
+  company: "Map Kibera, Kenya"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "58"
+  name: "George"
+  surname: "Madoda"
+  company: "AId for Trade,  Tanzania"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "59"
+  name: "Abubarkari"
+  surname: "Abusco Seidu"
+  company: "LECLARA Larabanga (GH), Ghana"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "60"
+  name: "Kpogbe"
+  surname: "Luc"
+  company: "OSM Benin, Benin"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "61"
+  name: "Severin"
+  surname: "Menard"
+  company: "Les Libres Geographes, France"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/SeverinGeo"}
+-
+  id: "62"
+  name: "Sougrinoma Kisito"
+  surname: "GAMENE"
+  company: "Association Quartier Général, Burkina Faso"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "63"
+  name: "Esaie"
+  surname: "Dufitimana"
+  company: "Youthmapper, Rwanda"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "64"
+  name: "Justin"
+  surname: "SAUNDERS"
+  company: "Africaabees, Malawi"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "65"
+  name: "Kiggudde"
+  surname: "Deogratius"
+  company: "MapUganda, Uganda"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/KigguddeD"}
+-
+  id: "66"
+  name: "COULIBALY"
+  surname: "NIGNO ZIE"
+  company: "Youthmapper, Ivory Coast"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
