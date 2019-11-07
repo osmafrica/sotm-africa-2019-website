@@ -124,7 +124,7 @@
 
       - Bridging a geospatial gender gap through Mapping  (Hellen Dailofa , Youthmapper, Zambia)
 
-      - l’initiative Girlsmap au Togo et en Afrique  (AKOUETE Ata Franck, OSM Togo, Togo)
+      - L’initiative Girlsmap au Togo et en Afrique  (AKOUETE Ata Franck, OSM Togo, Togo)
 
     Empowering rural disadvantaged girls through mapping and digital skills (Neema Meremo, Girl Rising Tanzania, Tanzania)
 
@@ -363,6 +363,144 @@
   description: 
   subtype:
   speakers: ["53"]
-
-
-
+-
+  id: "039"
+  title: "Supporting Community-Run Tourism in Larabanga, Ghana: Information Infrastructure"
+  place: "AMPHITHÉÂTRE"
+  description: 
+  subtype:
+  speakers: ["54"]
+-
+  id: "040"
+  title: "Using OSM to improve WASH in Africa"
+  place: "CAVALLY"
+  description: 
+  subtype:
+  speakers: ["55"]
+-
+  id: "041"
+  title: "Ebola fighting(s)"
+  place: "COMOE"
+  description: 
+  subtype:
+  speakers: ["17"]
+-
+  id: "042"
+  title: 
+  place: "EBRIÉ"
+  description: 
+  subtype:
+  speakers: []
+-
+  id: "043"
+  title: "WatriFeed, GTFS Collaborative Tools"
+  place: "ABISSA"
+  description: 
+  subtype:
+  speakers: ["56"]
+-
+  id: "044"
+  title: "Small Group DIscussion OSM and Governance"
+  place: "GRAND-BASSAM"
+  description: |
+    - Zacharia Muindi, Map Kibera, Kenya
+    - Cristiano Giovando, World Bank
+    - George Madoda, AId for Trade,  Tanzania
+  subtype:
+  speakers: ["57", "30", "58"]
+-
+  id: "045"
+  title: "Mapping for Community-Run Tourism: Larabanga How To"
+  place: "AMPHITHÉÂTRE"
+  description: 
+  subtype:
+  speakers: ["59"]
+-
+  id: "046"
+  title: "Water Points Mapping In The Rural Areas"
+  place: "CAVALLY"
+  description: 
+  subtype:
+  speakers: ["23"]
+-
+  id: "047"
+  title: "OSM Benin mapping experience with HOT Microgrant"                                  
+  place: "COMOE"
+  description: 
+  subtype:
+  speakers: ["60"]
+-
+  id: "048"
+  title: "OSMF local chapters in countries of the Global South what can we learn from OSM associations dynamics in French-speaking southern countries of Africa and the Caribbean ?"                                  
+  place: "EBRIÉ"
+  description: 
+  subtype:
+  speakers: ["61"]
+-
+  id: "049"
+  title: "Apport de solution pour une bonne structuration des communautés ouest Africaines"                              
+  place: "ABISSA"
+  description: 
+  subtype:
+  speakers: ["62"]
+-
+  id: "050"
+  title: "Workshop: Downloading, Visualizing and Analyzing OSM data with Python"                          
+  place: "AMPHITHÉÂTRE"
+  description: 
+  subtype:
+  speakers: ["63"]
+-
+  id: "051"
+  title: "Lightning talks: Diversity and inclusion "             
+  place: "CAVALLY"
+  description: |
+    - Implication des femmes et jeunes filles a la production des données ouvertes à Boke (BARRY Mamadou Bella, Geosynapsee, Guinee)
+    - Bridging a geospatial gender gap through Mapping.(Hellen Dailofa , Youthmapper, Zambia)
+    - L’initiative Girlsmap au Togo et en Afrique (AKOUETE Ata Franck, OSM Togo, Togo)
+  subtype:
+  speakers: ["19", "20", "21"]
+-
+  id: "052"
+  title: "Lightning talks : Drones"            
+  place: "COMOE"
+  description: |
+    - Africa Bees - Geonode business portal for Drone Mapping in Africa (Justin SAUNDERS, Africaabees, Malawi)
+    - A Drone Journey in Uganda (Kiggudde Deogratius, MapUganda, Uganda)
+  subtype:
+  speakers: ["64", "65"]
+-
+  id: "053"
+  title: "Workshop:OSGeo 101 and OSGeoLive Hands on"            
+  place: "EBRIÉ"
+  description:
+  subtype:
+  speakers: ["18"]
+-
+  id: "054"
+  title: "WB SIDE EVENT UR - OPEN CITIES AFRICA"            
+  place: "ABISSA"
+  description:
+  subtype:
+  speakers: []
+-
+  id: "055"
+  title: ""            
+  place: "AMPHITHÉÂTRE"
+  description:
+  subtype:
+  speakers: []
+-
+  id: "056"
+  title: "Drone et agrofesterie pour la résilience des paysans au changement climatique"          
+  place: "COMOE"
+  description:
+  subtype:
+  speakers: ["66"]
+-
+  id: "057"
+  title: "Drone et agrofesterie pour la résilience des paysans au changement climatique"          
+  place: "COMOE"
+  description:
+  subtype:
+  speakers: ["66"]
