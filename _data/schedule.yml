@@ -158,11 +158,9 @@
   date: "2019-11-24T00:00:00-04:00"
   tracks:
     - {title: "AMPHITHÉÂTRE", color: "#fbac3f"}
-    - {title: "CAVALLY", color: "#03a9f4"}
-    - {title: "COMOE", color: "#90be4e"}
-    - {title: "EBRIÉ", color: "#90be4e"}
-    - {title: "ABISSA", color: "#90be4e"}
+    - {title: "ABISSA", color: "#03a9f4"}
     - {title: "GRAND-BASSAM", color: "#90be4e"}
+    - {title: "COMOE", color: "#90be4e"}
 
   timeslots:
     - {
@@ -172,13 +170,8 @@
     }
     - {
       startTime: "2019-11-24T09:30:00-04:00",
-      endTime: "2019-11-24T10:00:00-04:00",
-      sessionIds: []
-    }
-    - {
-      startTime: "2019-11-24T10:00:00-04:00",
       endTime: "2019-11-24T11:00:00-04:00",
-      sessionIds: []
+      sessionIds: ["057", "058", "059", "060"]
     }
     # Coeffe Break
     - {
@@ -189,17 +182,17 @@
     - {
       startTime: "2019-11-24T11:30:00-04:00",
       endTime: "2019-11-24T12:00:00-04:00",
-      sessionIds: []
+      sessionIds: ["061", "062", "063", "064"]
     }
     - {
       startTime: "2019-11-24T12:00:00-04:00",
       endTime: "2019-11-24T12:30:00-04:00",
-      sessionIds: []
+      sessionIds: ["065", "066", "067", "068"]
     }
     - {
       startTime: "2019-11-24T12:30:00-04:00",
       endTime: "2019-11-24T13:00:00-04:00",
-      sessionIds: []
+      sessionIds: ["069","070", "071", "072"]
     }
     # Lunch
     - {
@@ -210,17 +203,17 @@
     - {
       startTime: "2019-11-24T14:00:00-04:00",
       endTime: "2019-11-24T14:30:00-04:00",
-      sessionIds: []
+      sessionIds: ["073", "074", "075", "076"]
     }
     - {
       startTime: "2019-11-24T14:30:00-04:00",
       endTime: "2019-11-24T15:00:00-04:00",
-      sessionIds: []
+      sessionIds: ["077", "078", "079", "080"]
     }
     - {
       startTime: "2019-11-24T15:00:00-04:00",
       endTime: "2019-11-24T15:30:00-04:00",
-      sessionIds: ["031", "043"]
+      sessionIds: ["081", "082", "083", "084"]
     }
     # Coeffe Break
     - {
@@ -232,11 +225,11 @@
     - {
       startTime: "2019-11-24T16:00:00-04:00",
       endTime: "2019-11-24T17:30:00-04:00",
-      sessionIds: []
+      sessionIds: ["085"]
     }
     # FootBall
     - {
       startTime: "2019-11-24T17:30:00-04:00",
       endTime: "2019-11-24T18:30:00-04:00",
-      sessionIds: []
+      sessionIds: ["086"]
     }
