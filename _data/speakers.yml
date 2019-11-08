@@ -395,7 +395,7 @@
   thumbnailUrl: dummu.png
 -
   id: "44"
-  name: "TapuFarirai"
+  name: "Farirai"
   surname: "Mageza"
   company: "Youth Agrarian Society, Zimbabwewa"
   title: ""
@@ -638,6 +638,78 @@
   name: "Linda Monje"
   surname: "Kadenge"
   company: "University of Nairobi, Kenya"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "73"
+  name: "Judith"
+  surname: "Atakunda"
+  company: "Landnet, Uganda"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "74"
+  name: "Marcel SHABANI"
+  surname: "BAGUMA"
+  company: "OSM DRC, DRC"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "75"
+  name: "Tino Raphaël Nabib"
+  surname: "TOUPANE"
+  company: "Geosynapse Guinée , Guinee"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "76"
+  name: "Abdallah"
+  surname: "Azibert"
+  company: "Wikimedia, Tchad"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "77"
+  name: "Alban"
+  surname: "Vivert"
+  company: "Nomad Maps"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "78"
+  name: "Dorica Amos"
+  surname: "Mugusi"
+  company: "HOT, Tanzania"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "79"
+  name: "Christine "
+  surname: "Mhone"
+  company: "OSM Malawi, Malawi"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "80"
+  name: "Marie Brigitte"
+  surname: "MAKUATE"
+  company: "AFRIGIST, Cameroon"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "81"
+  name: "Dennis"
+  surname: "Irorere"
+  company: "FUTA, Nigeria"
   title: ""
   bio: 
   thumbnailUrl: dummu.png
