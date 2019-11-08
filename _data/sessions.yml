@@ -564,6 +564,7 @@
   place: "AMPHITHÉÂTRE"
   description: |
     CarteInnov is a project to map digital stakeholders in the French-speaking world, whose data is hosted in OSM and edited with MapContrib. Active members of local OSM communities ensure both field mapping and project promotion        "Launched in 2016 in 7 seven French-speaking by Organisation internationale de la Francophonie in West African countries, the CarteInnov project involves now 16 countries also from Central Africa (Gabon, Madagascar, Democratic Republic of Congo, Congo and Chad) and the Caribbean (Haiti).
+    
     CarteInnov is distinguished by:
       - its anchoring in free software solutions and open data OpenStreetMap that allow the digital stakeholderrs to edit and reuse the data
       - its supply from the field via national referents, active members of the OpenStreetMap community in their country, who ensure both the supply of data collected in the field to the map and the promotion of the project
@@ -628,104 +629,115 @@
   # ------- 14:00 to 14:30 -------
 -
   id: "073"
-  title: "MapUganda"
+  title: "Experiences from multi-years of support actions to ground OpenStreetMap in French-speaking countries of Africa and the Caribbean"
   place: "AMPHITHÉÂTRE"
   description: |
-    Cet atelier vise à former les participants sur les techniques de collecte de données avec un fieldpapers, leur numérisation sur JOSM et leur récupération sur la plateforme overpass-turbo.        Les données géographiques sont d’une importance capitale surtout lorsqu’il s’agit de répondre à une crise humanitaire. Ainsi, la base de toute analyse spatiale d’un phénomène ou d’une épidémie est la disponibilité d’une information géographique précise et de qualité. Cependant le plus grand souci des agents de collecte, c’est la disponibilité de l’outil de collecte approprié. Les GPS et les smartphones de qualité peuvent être utiles mais sont chers et deviennent inefficaces lorsque la zone de collecte est vaste et surtout dans nos pays en voie de développement où la plupart des zones rurales n’ont pas accès à l’électricité. Les fieldpapers constituent de nos jours une alternative de choix pour répondre aux problèmes énergétiques et de cherté des outils de collecte que connaissent les agents de collecte. A travers cet atelier, les participants seront ouillés et pourront mieux répondre aux collectes de données et impacter ainsi les vies des populations en situation d'urgence. 
-  speakers: ["67"]
--
-  id: "074"
-  title: "Workshop:Prise en main du fieldpaper pour la collecte de données"
-  place: "ABISSA"
-  description: |
-    In this workshop, Intel will highlight several deep learning and geo-spatial imagery problems that humanitarian aid organizations face on a daily basis as they seek to intervene and assist in disaster areas across the globe. Participants will be exposed to the challenges of applying deep learning to satellite imagery, and participate in hands-on workshop to train and evaluate a convolutional network on data collected from Northern Uganda, as part of a collaboration with the Red Cross.
-  subtype:
-  speakers: ["21"]
--
-  id: "075"
-  title: "Workshop: OSM Governnance"
-  place: "GRAND-BASSAM"
-  description: 
-  subtype:
+    This talk will present the rise of active, self-standing grassroots communities in Haiti, Western and Central Africa since 2010 resulting from a unique set of continued support actions replicable in other territories        "This talk will produce a narrative about how since 2010, OpenStreetMap communities emerged in Haiti and expanded to Africa after 2012 partly as the result of a combined set of many support actions spanning technical and organizational OSM training, voluntary and professional OSM mapping projects, OSM local and international volunteering programs, documentation as well as preparedness and crisis mapping work. 
+    Tied to the overall support of the global OSM community and the commitment of Haitian and African mappers, these actions allowed the OSM project to come forth in the form of a network of organized and self-standing communities in Haiti, Western and Central Africa cognizant of and active with OpenStreetMap, open data and free geomatics. 
+    As one can read, the 2019 SotM Africa's theme is clearly at the heart of the experience related in this talk."
   speakers: ["53"]
 -
+  id: "074"
+  title: "If you can’t save it, don’t kill it!"                   
+  place: "ABISSA"
+  description: |
+     This talk takes an in depth insight into bad and good practices in OpenStreetMap; focusing on both the community and the data. 
+  subtype:
+  speakers: ["18"]
+-
+  id: "075"
+  title: "Mapathon Mapathon Mapathon"
+  place: "GRAND-BASSAM"
+  description: |
+    Who benefits from the mapathons: between (over)communication and (over)attribution, critical feedback on the inflation of a form of action oversold in the field of humanitarian action and development aid. Really for the benefit of OSM?        It would be possible to multiply the subtitles for this workshop, like "Mapathon, mapathon, mapathon!" which questions the almost mandatory use taken by this form of collective OSM contribution for humanitarian and development aid stakeholders in the southern territories. "Mapathons in the "south" for what?", "A mapathon doesn't make a summer", or "Who benefits from mapathons?"... This presentation will aim to open a discussion about the inflation of one specific OSM contribution, to identify the diversity of its practices, the logics of communication, attribution, the quality issues of the data produced, and list the conditions for a mapathon to actually benefit the OSM project in the southern countries.
+  subtype:
+  speakers: ["61"]
+-
   id: "076"
-  title: "Small Group DIscussion OSM and Governance"
+  title: "Open Land Data for Research and Development: A case of Uganda"
   place: "COMOE"
   description: |
-    - Zacharia Muindi, Map Kibera, Kenya
-    - Cristiano Giovando, World Bank
-    - George Madoda, AId for Trade, Tanzania
+    Land data is often inaccessible. Without information, researchers and students in the land administration sector cannot experiment on factual data for development of new applications and services as well as inform policies.  This calls for openness about land administration data. 
   subtype:
-  speakers: ["57", "30", "58"]
+  speakers: ["73"]
 
 # ------- 14:30 to 15:00 -------
 -
   id: "077"
-  title: "MapUganda"
+  title: "Lightning talks: Community"
   place: "AMPHITHÉÂTRE"
-  description: |
-    Cet atelier vise à former les participants sur les techniques de collecte de données avec un fieldpapers, leur numérisation sur JOSM et leur récupération sur la plateforme overpass-turbo.        Les données géographiques sont d’une importance capitale surtout lorsqu’il s’agit de répondre à une crise humanitaire. Ainsi, la base de toute analyse spatiale d’un phénomène ou d’une épidémie est la disponibilité d’une information géographique précise et de qualité. Cependant le plus grand souci des agents de collecte, c’est la disponibilité de l’outil de collecte approprié. Les GPS et les smartphones de qualité peuvent être utiles mais sont chers et deviennent inefficaces lorsque la zone de collecte est vaste et surtout dans nos pays en voie de développement où la plupart des zones rurales n’ont pas accès à l’électricité. Les fieldpapers constituent de nos jours une alternative de choix pour répondre aux problèmes énergétiques et de cherté des outils de collecte que connaissent les agents de collecte. A travers cet atelier, les participants seront ouillés et pourront mieux répondre aux collectes de données et impacter ainsi les vies des populations en situation d'urgence. 
-  speakers: ["67"]
+  description: |   
+    - Impact of OSM to Eastern Community of DRCongo: 
+      - OSM Digitalization of Eeastern of DRCongo (Marcel SHABANI BAGUMA, OSM DRC, DRC)
+    - La contribution communautaire à la production des données ouvertes sur OSM: le cas du projet 2cities Boké-kamsar en Guinée 
+      -  Le projet 2cities est une initiative du département d’état des États Unis d’Amérique. Il vise à contribuer à la production des données géographiques et le renforcement des capacités des acteurs locaux pour aider à la gouvernance des villes secondaires. Le présentation montera le rôle des acteurs.        Le projet 2cities vise à aider à la gouvernance des villes secondaires en mettant à disposition des donnés ouvertes et en renforçant les capacités des acteurs locaux. Une meilleure planification de la ville en utilisant les données géographiques permet d’inscrire la croissance des villes dans la durabilité et améliorer ainsi les conditions de vie des populations.
+        (TOUPANE Tino Raphaël Nabib , Geosynapse Guinée , Guinee)
+    - Les mouvements du libre, quels défis pour l'Afrique ? Cas de open Street Maps et Wikimedia (Abdallah Azibert, Wikimedia, Tchad)
+  speakers: ["74", "75", "76"]
 -
   id: "078"
-  title: "Workshop:Prise en main du fieldpaper pour la collecte de données"
+  title: "Nomad Maps: meet the Andean communities of OpenStreetMap... by bike! - The documentary film"
   place: "ABISSA"
   description: |
-    In this workshop, Intel will highlight several deep learning and geo-spatial imagery problems that humanitarian aid organizations face on a daily basis as they seek to intervene and assist in disaster areas across the globe. Participants will be exposed to the challenges of applying deep learning to satellite imagery, and participate in hands-on workshop to train and evaluate a convolutional network on data collected from Northern Uganda, as part of a collaboration with the Red Cross.
+    Here is the Nomad Maps documentary: 5 months, 5200 kilometers across the Andes in South America, all by bike, to meet the actors and projects of the OSM mapping communities of Colombia, Ecuador and Peru. An alternative way to see the uses of the OSM and the projects of these countries! The screening of this documentary film at SOTM Africa is a way to create a link. An additional link between the OSM communities of Africa, South America where the film was shot, and Europe with its director and cyclist Alban Vivert. The film is made up of seven interviews with Latin American contributors who have decided to dedicate part of their time to the OpenStreetMap project. The objective of these interviews is to find out where their motivation to map on OSM comes from, why they do so and to what degree this has changed their lives or the lives of others who benefit from this map.
   subtype:
-  speakers: ["21"]
+  speakers: ["77"]
 -
   id: "079"
-  title: "Workshop: OSM Governnance"
+  title: "Achieving Sustainable Development Goals(SDGs) by mapping;A case of Tanzania"
   place: "GRAND-BASSAM"
-  description: 
+  description: |
+    As our government is struggling to achieve the SDGs, Humanitarian OpenSteetMap Team(Tanzania) is also contributing to achieve through mapping. We are helping to make cities safe and resilient but also to reduce poverty, ensure healthy live and giving people access to electricity through mapping.
   subtype:
-  speakers: ["53"]
+  speakers: ["78"]
 -
   id: "080"
-  title: "Small Group DIscussion OSM and Governance"
+  title: "Small Group Disussion Mapping for Land tenancy in Africa"
   place: "COMOE"
   description: |
-    - Zacharia Muindi, Map Kibera, Kenya
-    - Cristiano Giovando, World Bank
-    - George Madoda, AId for Trade, Tanzania
+    - Farirai Mageza, Youth Agrarian Society, Zimbabwe
+    - Tapuwa Nzara, Zambia Land Aliance, Zambia
   subtype:
-  speakers: ["57", "30", "58"]
+  speakers: ["44", "43"]
 
 # ------- 15:00 to 15:30 -------
 -
   id: "081"
-  title: "MapUganda"
+  title: "Small Group Discussion YouthMappers in Africa: Regional ambassadors"
   place: "AMPHITHÉÂTRE"
-  description: |
-    Cet atelier vise à former les participants sur les techniques de collecte de données avec un fieldpapers, leur numérisation sur JOSM et leur récupération sur la plateforme overpass-turbo.        Les données géographiques sont d’une importance capitale surtout lorsqu’il s’agit de répondre à une crise humanitaire. Ainsi, la base de toute analyse spatiale d’un phénomène ou d’une épidémie est la disponibilité d’une information géographique précise et de qualité. Cependant le plus grand souci des agents de collecte, c’est la disponibilité de l’outil de collecte approprié. Les GPS et les smartphones de qualité peuvent être utiles mais sont chers et deviennent inefficaces lorsque la zone de collecte est vaste et surtout dans nos pays en voie de développement où la plupart des zones rurales n’ont pas accès à l’électricité. Les fieldpapers constituent de nos jours une alternative de choix pour répondre aux problèmes énergétiques et de cherté des outils de collecte que connaissent les agents de collecte. A travers cet atelier, les participants seront ouillés et pourront mieux répondre aux collectes de données et impacter ainsi les vies des populations en situation d'urgence. 
-  speakers: ["67"]
+  description: 
+  speakers: []
 -
   id: "082"
-  title: "Workshop:Prise en main du fieldpaper pour la collecte de données"
+  title: "Malawi Mappers mobilize to improve Open Geospatial Data"
   place: "ABISSA"
-  description: |
-    In this workshop, Intel will highlight several deep learning and geo-spatial imagery problems that humanitarian aid organizations face on a daily basis as they seek to intervene and assist in disaster areas across the globe. Participants will be exposed to the challenges of applying deep learning to satellite imagery, and participate in hands-on workshop to train and evaluate a convolutional network on data collected from Northern Uganda, as part of a collaboration with the Red Cross.
+  description: 
   subtype:
-  speakers: ["21"]
+  speakers: ["79"]
 -
   id: "083"
   title: "Workshop: OSM Governnance"
   place: "GRAND-BASSAM"
-  description: 
+  description: |
+    - Use of Remote Sensing in Agriculture (MAKUATE Marie Brigitte, AFRIGIST, Cameroon)   
+
+      In this work, we will use OpenStreetMap (OSM) Base Map and OSM data obtained by OSM website download area and GIS tools to make inventories on areas of rice cultivation in the community of Yagoua in Cameroon and subsequently identify favourable areas for rice growing from multi-criteria analyses.        L’utilisation  des données de télédétection en agriculture est une bonne technique qui peut transformer des vies. En  effet, le 2eme objectif du développement durable vise à: Éliminer la faim, assurer la sécurité alimentaire, améliorer la nutrition et promouvoir l'agriculture durable. Ceci explique le lien entre la ma thématique et le thème de la conférence.
+
+    - Farmsense (Dennis Irorere, FUTA, Nigeria)
+      
+      There is a growing recognition of the importance of data in achieving sustainable development. Without accurate and reliable data from a variety of sources, analysing the needs of a State and assessing the best measures to ensure sustainable development will be extremely challenging. Population growth, high unemployment rates and diminishing land availability necessitate increasingly sophisticated mechanisms for analysing demographic conditions. In this context, the coalition of geospatial data to aid in social and economic planning for development and to help inform decision making that will increase opportunities for creating jobs and attracting investment is essential.
+
+      The FarmSense portal is an open source, public data repository for agricultural related geospatial reference datasets. Which was established to help meet the need of data for improved decision making. 
   subtype:
-  speakers: ["53"]
+  speakers: ["80", "81"]
 -
   id: "084"
-  title: "Small Group DIscussion OSM and Governance"
+  title: "Mapping recent landuse changes"
   place: "COMOE"
   description: |
-    - Zacharia Muindi, Map Kibera, Kenya
-    - Cristiano Giovando, World Bank
-    - George Madoda, AId for Trade, Tanzania
+    How to make the best use of LandSat and Sentinel free imagery resources while mapping recent landuse changes in OSM? We'll talk about SDG 15, logging roads, artisanal mining sites, protected areas, industrial agriculture, deforestation and more.        This session will explain how satellite data, crowdmapping and AI can support the sustainable management of natural resources. Examples of how OSM data has helped environment actors and administrations in Central Africa will be presented.
   subtype:
-  speakers: ["57", "30", "58"]
+  speakers: ["17"]
 -
   id: "085"
   title: "Closing ceremony"
