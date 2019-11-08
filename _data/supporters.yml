@@ -1,9 +1,9 @@
 -
-  group: "Bronze Sponsors"
+  group: "Supporters"
   elements:
-    - {name: "Kaart", description: "Bronze Sponsor", link: "https://kaartgroup.com/", imageUrl: "kaart.png"}
--
-  group: "Lanyard Supporters"
-  elements:
-    - {name: "Sige", description: "Supporter", link: "http://www.sige.ma/", imageUrl: ""}
-    - {name: "Africa Bees", description: "Supporter", link: "http://www.africabees.com/", imageUrl: ""}
+    - {name: "Sige", description: "Supporter", link: "http://www.sige.ma/", imageUrl: "sige.png"}
+    - {name: "Africa Bees", description: "Supporter", link: "http://www.africabees.com/", imageUrl: "africa_bees.png"}
+    - {name: "OSM France", description: "Supporter", link: "http://openstreetmap.fr/"}
+    - {name: "OSM Foundation", description: "Supporter", link: "https://wiki.osmfoundation.org/wiki/Main_Page"}
+    - {name: "AfroAI", description: "Supporter", link: "https://afroai.de/"}
+    - {name: "OSGeo", description: "Supporter", link: "https://www.osgeo.org/", imageUrl: "osgeo.png"}

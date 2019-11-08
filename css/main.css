@@ -4168,6 +4168,14 @@ nav li a:hover {
     filter: grayscale(0)
 }
 
+.supporters li a {
+    font-size: 18px;
+    font-display: bold;
+    display: inline;
+    width: auto;
+    height: auto;
+}
+
 .subscribe .button,
 .subscribe .email {
     width: 100%;

@@ -9,7 +9,8 @@
                 {% for element in supporter.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/supporters/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        <!-- <img src="{{ site.baseurl }}/img/supporters/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}"> -->
+                         {{ element.name }}
                     </a>
                 </li>
                 {% endfor %}
