@@ -398,16 +398,7 @@
   description: 
   subtype:
   speakers: ["56"]
--
-  id: "044"
-  title: "Small Group DIscussion OSM and Governance"
-  place: "GRAND-BASSAM"
-  description: |
-    - Zacharia Muindi, Map Kibera, Kenya
-    - Cristiano Giovando, World Bank
-    - George Madoda, AId for Trade,  Tanzania
-  subtype:
-  speakers: ["57", "30", "58"]
+
 -
   id: "045"
   title: "Mapping for Community-Run Tourism: Larabanga How To"
@@ -497,10 +488,255 @@
   description:
   subtype:
   speakers: ["66"]
+
+# =======  DAY 3 =======
+# ------- 09:30 to 11:00 -------
 -
   id: "057"
-  title: "Drone et agrofesterie pour la résilience des paysans au changement climatique"          
+  title: "Workshop: Deep Learning Applications for Humanitarian Use Cases"
+  place: "AMPHITHÉÂTRE"
+  description: |
+    In this workshop, Intel will highlight several deep learning and geo-spatial imagery problems that humanitarian aid organizations face on a daily basis as they seek to intervene and assist in disaster areas across the globe. Participants will be exposed to the challenges of applying deep learning to satellite imagery, and participate in hands-on workshop to train and evaluate a convolutional network on data collected from Northern Uganda, as part of a collaboration with the Red Cross.
+  speakers: ["67"]
+-
+  id: "058"
+  title: "Workshop:Prise en main du fieldpaper pour la collecte de données"
+  place: "ABISSA"
+  description: |
+    Cet atelier vise à former les participants sur les techniques de collecte de données avec un fieldpapers, leur numérisation sur JOSM et leur récupération sur la plateforme overpass-turbo.        Les données géographiques sont d’une importance capitale surtout lorsqu’il s’agit de répondre à une crise humanitaire. Ainsi, la base de toute analyse spatiale d’un phénomène ou d’une épidémie est la disponibilité d’une information géographique précise et de qualité. Cependant le plus grand souci des agents de collecte, c’est la disponibilité de l’outil de collecte approprié. Les GPS et les smartphones de qualité peuvent être utiles mais sont chers et deviennent inefficaces lorsque la zone de collecte est vaste et surtout dans nos pays en voie de développement où la plupart des zones rurales n’ont pas accès à l’électricité. Les fieldpapers constituent de nos jours une alternative de choix pour répondre aux problèmes énergétiques et de cherté des outils de collecte que connaissent les agents de collecte. A travers cet atelier, les participants seront ouillés et pourront mieux répondre aux collectes de données et impacter ainsi les vies des populations en situation d'urgence. 
+  subtype:
+  speakers: ["21"]
+-
+  id: "059"
+  title: "Workshop: OSM Governnance"
+  place: "GRAND-BASSAM"
+  description: 
+  subtype:
+  speakers: ["53"]
+-
+  id: "060"
+  title: "Small Group DIscussion OSM and Governance"
   place: "COMOE"
-  description:
+  description: |
+    - Zacharia Muindi, Map Kibera, Kenya
+    - Cristiano Giovando, World Bank
+    - George Madoda, AId for Trade, Tanzania
+  subtype:
+  speakers: ["57", "30", "58"]
+
+# ------- 11:30 to 12:00 -------
+-
+  id: "061"
+  title: "MapUganda"
+  place: "AMPHITHÉÂTRE"
+  description: |
+     This session will focus on the work MapUganda, the OSM local community in Uganda has done to promote the use of OSM. Looking at projects like clean streets, OpenMapping program, Uganda Flying labs.
+  speakers: ["65"]
+-
+  id: "062"
+  title: "Le Projet MAP & JERRY"
+  place: "ABISSA"
+  description: |
+    MAP & JERRY est un projet dont l’une des composantes est consacrée à la cartographie participative de Ladji par ses habitants, avec le soutien de l’IRD et du collectif OpenStreetMap Bénin.	Ladji, comme plusieurs quartiers de la ville de cotonou est un quartier précaire dont l'existence de la population ne figure même pas sur la carte. Ce projet à permis non seulement de ressortir leur existence mais egalement de contribuer à l'épenouissement de la vie des jeunes habitants.
+  subtype:
+  speakers: ["68"]
+-
+  id: "063"
+  title: "Map Kibera: learnings over a decade of slum mapping"
+  place: "GRAND-BASSAM"
+  description: |
+    "Map Kibera began 10 years ago, when young people from the Kibera slum of Nairobi put their community on OpenStreetMap. This session will discuss Map Kibera’s work over the past decade: where we started, obstacles and challenges along the way, accomplishments, and our vision for the future. 	For ten years, Map Kibera has worked with slumdwellers and other citizens to map their communities, and use open information for action and policy change. We always empower citizens to map their own communities, using OSM, discuss what they find, and engage policy makers and media to create local change. We have worked with themes like education, health and water to create maps that bring better services to slums like Kibera. Transforming lives by supporting community-driven mapping and use of open data has been our primary mission. Individual mappers trained in 2009 now lead the organization and train others throughout Kenya and beyond."
+  subtype:
+  speakers: ["48"]
+-
+  id: "064"
+  title: Africa Bees - Geonode business portal for Drone Mapping in Africa"
+  place: "COMOE"
+  description: |
+    The power of drones and the demand for more detailed mapping in Africa has boomed in many sectors such as development, construction, flood prevention, humanitarian response and environmental safe guarding.  At Africa Bees we empower local pilots to use drones for the collection of geospatial data.        By recruiting and enabling pilots in Africa to use or own their own drones for the purpose of mapping we believe that the work can be carried our in-country at considerably lower costs yet retain the high levels of accuracy to produce engineering acceptable 3D topographic mapping. In addition the access to an open source geonode portal enables a community to share the geospatial data freely.
+  subtype:
+  speakers: ["64"]
+
+  # ------- 12:00 to 12:30 -------
+-
+  id: "065"
+  title: "CarteInnov: the map of digital innovation stakeholders in French speaking South Countries"                                          
+  place: "AMPHITHÉÂTRE"
+  description: |
+    CarteInnov is a project to map digital stakeholders in the French-speaking world, whose data is hosted in OSM and edited with MapContrib. Active members of local OSM communities ensure both field mapping and project promotion        "Launched in 2016 in 7 seven French-speaking by Organisation internationale de la Francophonie in West African countries, the CarteInnov project involves now 16 countries also from Central Africa (Gabon, Madagascar, Democratic Republic of Congo, Congo and Chad) and the Caribbean (Haiti).
+    CarteInnov is distinguished by:
+      - its anchoring in free software solutions and open data OpenStreetMap that allow the digital stakeholderrs to edit and reuse the data
+      - its supply from the field via national referents, active members of the OpenStreetMap community in their country, who ensure both the supply of data collected in the field to the map and the promotion of the project
+      https://carteinnov.francophonelibre.org/" 
+  speakers: ["61"]
+-
+  id: "066"
+  title: "Système de transport et de déplacement cas du Togo"
+  place: "ABISSA"
+  description: |
+    Le projet a pour but de soulever, le problème auquel tout étranger est confronté une fois qu'il arrive dans un autre localité. Le projet permettra de connaître les moyens de transport qui existe dans une localité, les différentes gares, le coût des trajets et l’état de la route
+  subtype:
+  speakers: ["69"]
+-
+  id: "067"
+  title: "Animation of the life of the OSM community and its efforts in contributing to the achievement of sustainable development goals in Niger."
+  place: "GRAND-BASSAM"
+  description: |
+    This session is a presentation of the OSM Niger community's contribution efforts in these activities of awareness raising, animation, capacity building, advocacy and project implementation contributing to the achievement of sustainable development goals.
+  subtype:
+  speakers: ["70"]
+-
+  id: "068"
+  title: "Drone et agrofesterie pour la résilience des paysans au changement climatique "                                                      
+  place: "COMOE"
+  description: |
+    Dans le cadre d'un stage de recherche  à NITIDÆ et conformément aux objectifs REDD+, une étude est effectuée sur des parcelles agroforestières à base de cacao  biologique dont on estime le taux de couverture arboré par drone ce qui déclenche un prime agroforestière versée aux planteurs.
   subtype:
   speakers: ["66"]
+
+# ------- 12:30 to 13:00 -------
+-
+  id: "069"
+  title: "Mapping Throughout Africa"
+  place: "AMPHITHÉÂTRE"
+  description: |
+     We plan to talk about Apple's work mapping on OpenStreetMap throughout Africa, including how we’ve worked with the local community, what we've mapped, where we’ve mapped, what our procedures are and what tools and techniques we use, such as Atlas, MapRoulette and more.         "With a more complete and accurate road network, more local organizations, local businesses, governments and humanitarian organizations can use OSM and use it more effectively. Better road coverage ensures that remote areas are on the map, and that dense urban areas are properly reflected in maps. We use a variety of tools and plan to share how they work and how anyone can use them. More widespread tools and programs for finding and fixing map data issues also will let anyone else contribute and improve the map too for whatever their interest or purpose may be. We have also helped improve water features and coastlines in many areas, which can be important for flood and disaster preparedness, agriculture, transport and more.
+  speakers: ["71"]
+-
+  id: "070"
+  title: "GPS on Public Transport,Passenger Perspective "
+  place: "ABISSA"
+  description: 
+  subtype:
+  speakers: ["72"]
+-
+  id: "071"
+  title: "State of The Map Bénin : From 2013 to 2019"
+  place: "GRAND-BASSAM"
+  description: |
+    Il s'agira de présenter l'état de la carte du Bénin depuis l’année 2013 à ce jour grâce à l'effort de cartographie de la communauté osm Bénin à travers ses différentes activités ainsi que les projets auxquels elle apporté son appui        OSM Benin appui plusieurs projets de cartographie qui s'inscrivent dans l'aide à l'amélioration des conditions de vie des populations notamment dans le domaine de la santé, la prévention des risques et catastrophes ainsi que l’aide aux collectivités territoriales.. C’est ainsi que des quartiers dont les populations sont souvent marginalisée ou pas prises dans les plans de développement communaux.
+  subtype:
+  speakers: ["70"]
+-
+  id: "072"
+  title: "Using street-level imagery in the fight against illegal waste dumping: Lessons from Uganda"
+  place: "COMOE"
+  description: 
+  subtype:
+  speakers: ["45"]
+
+  # ------- 14:00 to 14:30 -------
+-
+  id: "073"
+  title: "MapUganda"
+  place: "AMPHITHÉÂTRE"
+  description: |
+    Cet atelier vise à former les participants sur les techniques de collecte de données avec un fieldpapers, leur numérisation sur JOSM et leur récupération sur la plateforme overpass-turbo.        Les données géographiques sont d’une importance capitale surtout lorsqu’il s’agit de répondre à une crise humanitaire. Ainsi, la base de toute analyse spatiale d’un phénomène ou d’une épidémie est la disponibilité d’une information géographique précise et de qualité. Cependant le plus grand souci des agents de collecte, c’est la disponibilité de l’outil de collecte approprié. Les GPS et les smartphones de qualité peuvent être utiles mais sont chers et deviennent inefficaces lorsque la zone de collecte est vaste et surtout dans nos pays en voie de développement où la plupart des zones rurales n’ont pas accès à l’électricité. Les fieldpapers constituent de nos jours une alternative de choix pour répondre aux problèmes énergétiques et de cherté des outils de collecte que connaissent les agents de collecte. A travers cet atelier, les participants seront ouillés et pourront mieux répondre aux collectes de données et impacter ainsi les vies des populations en situation d'urgence. 
+  speakers: ["67"]
+-
+  id: "074"
+  title: "Workshop:Prise en main du fieldpaper pour la collecte de données"
+  place: "ABISSA"
+  description: |
+    In this workshop, Intel will highlight several deep learning and geo-spatial imagery problems that humanitarian aid organizations face on a daily basis as they seek to intervene and assist in disaster areas across the globe. Participants will be exposed to the challenges of applying deep learning to satellite imagery, and participate in hands-on workshop to train and evaluate a convolutional network on data collected from Northern Uganda, as part of a collaboration with the Red Cross.
+  subtype:
+  speakers: ["21"]
+-
+  id: "075"
+  title: "Workshop: OSM Governnance"
+  place: "GRAND-BASSAM"
+  description: 
+  subtype:
+  speakers: ["53"]
+-
+  id: "076"
+  title: "Small Group DIscussion OSM and Governance"
+  place: "COMOE"
+  description: |
+    - Zacharia Muindi, Map Kibera, Kenya
+    - Cristiano Giovando, World Bank
+    - George Madoda, AId for Trade, Tanzania
+  subtype:
+  speakers: ["57", "30", "58"]
+
+# ------- 14:30 to 15:00 -------
+-
+  id: "077"
+  title: "MapUganda"
+  place: "AMPHITHÉÂTRE"
+  description: |
+    Cet atelier vise à former les participants sur les techniques de collecte de données avec un fieldpapers, leur numérisation sur JOSM et leur récupération sur la plateforme overpass-turbo.        Les données géographiques sont d’une importance capitale surtout lorsqu’il s’agit de répondre à une crise humanitaire. Ainsi, la base de toute analyse spatiale d’un phénomène ou d’une épidémie est la disponibilité d’une information géographique précise et de qualité. Cependant le plus grand souci des agents de collecte, c’est la disponibilité de l’outil de collecte approprié. Les GPS et les smartphones de qualité peuvent être utiles mais sont chers et deviennent inefficaces lorsque la zone de collecte est vaste et surtout dans nos pays en voie de développement où la plupart des zones rurales n’ont pas accès à l’électricité. Les fieldpapers constituent de nos jours une alternative de choix pour répondre aux problèmes énergétiques et de cherté des outils de collecte que connaissent les agents de collecte. A travers cet atelier, les participants seront ouillés et pourront mieux répondre aux collectes de données et impacter ainsi les vies des populations en situation d'urgence. 
+  speakers: ["67"]
+-
+  id: "078"
+  title: "Workshop:Prise en main du fieldpaper pour la collecte de données"
+  place: "ABISSA"
+  description: |
+    In this workshop, Intel will highlight several deep learning and geo-spatial imagery problems that humanitarian aid organizations face on a daily basis as they seek to intervene and assist in disaster areas across the globe. Participants will be exposed to the challenges of applying deep learning to satellite imagery, and participate in hands-on workshop to train and evaluate a convolutional network on data collected from Northern Uganda, as part of a collaboration with the Red Cross.
+  subtype:
+  speakers: ["21"]
+-
+  id: "079"
+  title: "Workshop: OSM Governnance"
+  place: "GRAND-BASSAM"
+  description: 
+  subtype:
+  speakers: ["53"]
+-
+  id: "080"
+  title: "Small Group DIscussion OSM and Governance"
+  place: "COMOE"
+  description: |
+    - Zacharia Muindi, Map Kibera, Kenya
+    - Cristiano Giovando, World Bank
+    - George Madoda, AId for Trade, Tanzania
+  subtype:
+  speakers: ["57", "30", "58"]
+
+# ------- 15:00 to 15:30 -------
+-
+  id: "081"
+  title: "MapUganda"
+  place: "AMPHITHÉÂTRE"
+  description: |
+    Cet atelier vise à former les participants sur les techniques de collecte de données avec un fieldpapers, leur numérisation sur JOSM et leur récupération sur la plateforme overpass-turbo.        Les données géographiques sont d’une importance capitale surtout lorsqu’il s’agit de répondre à une crise humanitaire. Ainsi, la base de toute analyse spatiale d’un phénomène ou d’une épidémie est la disponibilité d’une information géographique précise et de qualité. Cependant le plus grand souci des agents de collecte, c’est la disponibilité de l’outil de collecte approprié. Les GPS et les smartphones de qualité peuvent être utiles mais sont chers et deviennent inefficaces lorsque la zone de collecte est vaste et surtout dans nos pays en voie de développement où la plupart des zones rurales n’ont pas accès à l’électricité. Les fieldpapers constituent de nos jours une alternative de choix pour répondre aux problèmes énergétiques et de cherté des outils de collecte que connaissent les agents de collecte. A travers cet atelier, les participants seront ouillés et pourront mieux répondre aux collectes de données et impacter ainsi les vies des populations en situation d'urgence. 
+  speakers: ["67"]
+-
+  id: "082"
+  title: "Workshop:Prise en main du fieldpaper pour la collecte de données"
+  place: "ABISSA"
+  description: |
+    In this workshop, Intel will highlight several deep learning and geo-spatial imagery problems that humanitarian aid organizations face on a daily basis as they seek to intervene and assist in disaster areas across the globe. Participants will be exposed to the challenges of applying deep learning to satellite imagery, and participate in hands-on workshop to train and evaluate a convolutional network on data collected from Northern Uganda, as part of a collaboration with the Red Cross.
+  subtype:
+  speakers: ["21"]
+-
+  id: "083"
+  title: "Workshop: OSM Governnance"
+  place: "GRAND-BASSAM"
+  description: 
+  subtype:
+  speakers: ["53"]
+-
+  id: "084"
+  title: "Small Group DIscussion OSM and Governance"
+  place: "COMOE"
+  description: |
+    - Zacharia Muindi, Map Kibera, Kenya
+    - Cristiano Giovando, World Bank
+    - George Madoda, AId for Trade, Tanzania
+  subtype:
+  speakers: ["57", "30", "58"]
+-
+  id: "085"
+  title: "Closing ceremony"
+  place: 
+  description: 
+  subtype:
+  speakers: []
+-
+  id: "086"
+  title: "Football MatchOSM Ivory Coast Vs Rest of the World"
+  place: 
+  description: 
+  subtype:
+  speakers: []
