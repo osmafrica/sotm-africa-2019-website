@@ -7,7 +7,6 @@
   group: "Platinum Sponsors"
   elements:
      - {name: "Facebook", description: "Sponsor", link: "https://www.facebook.com/", imageUrl: "Facebook-06-2015-White-on-Blue.png"}
-     - {name: "AFD", description: "Sponsor", link: "https://www.afd.fr/en", imageUrl: "afd.png"}
 -
   group: "Gold Sponsors"
   elements:
@@ -19,3 +18,8 @@
     - {name: "Mapillary", description: "Mapillary", link: "https://mapillary.com", imageUrl: "mapillary.png"}
     - {name: "Youthmappers", description: "Youthmappers", link: "https://www.youthmappers.org/", imageUrl: "youthmappers.jpg"}
     - {name: "Mapbox", description: "Mapbox", link: "https:https://www.mapbox.com/", imageUrl: "mapbox-logo-color.png"}
+-
+  group: "Bronze Sponsors"
+  elements:
+    - {name: "Kaart", description: "Bronze Sponsor", link: "https://kaartgroup.com/", imageUrl: "kaart.svg"}
+    - {name: "CAFDO", description: "Bronze Sponsor", link: "https://cafdo.africa/", imageUrl: "cafdo.jpg"}
