@@ -67,8 +67,11 @@ eventDate: "Abidjan | Grand-Bassam, Ivory Coast | 22-24 November 2019 | Transfor
 typeoutTextValues: '"", "Africa", "Grand-Bassam", "Ivory Coast"'
 typeoutFallback: "Africa"
 heroButtons:
- - {permalink: "/sponsorship", text: "Become a Sponsor"}
- - {permalink: "https://join.osmfoundation.org/?page=CiviCRM&q=civicrm%2Fevent%2Finfo&id=15&reset=1", text: "Buy Tickets"}
+  - {permalink: "/schedule", text: "Program"}
+  - {permalink: "https://join.osmfoundation.org/?page=CiviCRM&q=civicrm%2Fevent%2Finfo&id=15&reset=1", text: "Buy Tickets"}
+  - {permalink: "/sponsorship", text: "Become a Sponsor"}
+
+
 
 # About Block
 aboutTitle: "About SOTM Africa 2019"
@@ -81,7 +84,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "OpenStreetMap and FOSS"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from Africa and beyond"}
  - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "to choose from!"}
