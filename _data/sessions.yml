@@ -1,3 +1,4 @@
+# =======  Common =======
 -
   id: "001"
   title: "Registration"
@@ -21,6 +22,10 @@
   description: ""
   speakers: []
   subtype: meta
+
+
+# =======  DAY 1 =======
+# ------- 09:00 to 09:30 -------
 -
   id: "004"
   title: "Welcoming Remarks and Speech"
@@ -28,30 +33,36 @@
   outcome: 
   subtype: 
   speakers: ["0"]
+
+# ------- 09:30 to 10:30 -------
 -
   id: "005"
   title: "Keynote or panelists"
-  description: "Compétences, innovation, et jeunesse pour construire une société résilience/ Skills, innovation, and youth toward a resilience society"
-  outcome: |
-    - Facilitator: Madame Vallée (Fondation Jeunesse Numérique) (TBC)
+  description: |
+    Compétences, innovation, et jeunesse pour construire une société résilience/ Skills, innovation, and youth toward a resilience society
+    - Keynote: Gael Musquet (HAND, Caribe Wave)
+    - Facilitator: Simeon Ehui
     - Panelist:
       - Ibrahima Guimba (Conseiller spécial du président et Ministre ICT du Niger)
       - Karim Sy - Jokko Labs Founder and Digital Africa President 
       - Nnenna Nwakanma - Chief Web Advocate at World Wide Web Foundation
-      - Florent Youzan - Directeur du Lab Innovation Afrique chez Société Générale Société Général (TBC)
-  speakers: ["2", "3", "4", "5"]
+      
+
+  speakers: ["2", "3", "4"]
 #  video: "https://video-url-goes-here"
+
+# ------- 11:00 to 12:30 -------
 -
   id: "006"
   title: "Un voyage au travers des villes ouvertes (Open Cities): comment 12 villes ont créé les compétences et les données ouvertes pour la résilience urbaine/A Journey through Open Cities: how 12 cities have built skills and open data for urban resilience"
   description: "In 2018, Open Cities Africa was launched and implemented in 12 cities in Sub-Saharan Africa to engage local government, civil society, and the private sector to develop the geospatial information necessary to meet urban resilience, and disaster risk management challenges. In this session, the OpenDRI team from the World Bank, coordinators of the project, will present an overview of the Open Cities methodology, and speak to the importance of open data to support decision making in vulnerable countries. Representatives from each of our 12 cities will present a short ignite talk showcasing their Open Cities journey. Talks will cover the following thematic areas; government stakeholder engagement, educational engagement, community engagement, data for decision making, and the future of the initiative (or, how the project has evolved since inception). Ignite talks will be followed by a short poster session, where conference attendees will have time to engage with city implementation teams to find out more about each individual project."
-  place: "Planary"
+  place: "Salle 1"
   subtype: Session
   speakers: ["6", "7"]
 -
   id: "007"
   title: "Jeunesse, Innovation, et Transport Résilient en Sierra Leone/ Youth, Innovation and Resilient Transport in Sierra Leone"
-  place: "Salle 1"
+  place: "Salle 2"
   description: |
     The session will be composed by local students, stakeholder from Sierra Leone and international expert, to present different activities around youth participation under the context of DRM and Resilient Transport. Format
     Three presentations of 20 min with additional 5 min per question after each session with 
@@ -80,7 +91,7 @@
 -
   id: "008"
   title: "OSM, un médicament efficace pour les applications de santé ?/ OSM, a good medicine for Heath applications ?"
-  place: "Salle 2"
+  place: "Salle 3"
   description: |
     Lightning talks: Health 
       - Mapping Healthcare Facilities in Abuja, Nigeria (Ifeatu Enedah, Brains and Hammer, Nigeria)
@@ -91,7 +102,7 @@
       (Ingrid Martha Kintu, Makarere University, Uganda)
 
     Geomatics in support of the disease elimination process: The case of African Human Trypanosomiasis in Côte d'Ivoire
-      (Adingra Yao Guy Pacome , OSM Cote d Ivore, Cote d Ivoire)
+      (Guy Pacome A., Bamoro C., Aboubacar O., Kouakou C., Debora K., Dr Kaba D., Fabrice C.(IPR/IRD), Dr Lingue K(PNETHA))
 
     Contribution des données OSM pour la lutte contre le VIH sida et utilisation des données OSM dans la plate-forme OpenDCH
         (ABEDJE NESIT BÉRENGER , Development Gateway, Cote d ivoire) 
@@ -100,7 +111,7 @@
 -
   id: "009"
   title: "Les données OSM pour le suivi d'occupation du sol./ OSM data for Landuse applications."
-  place: "Salle 3"
+  place: "Salle 4"
   description: |
     Lightning talks: Agriculture 
       - Open data and agricultural start ups (Nako kofele martin alain, Expanding Horizon, Cameroon) 
@@ -109,43 +120,59 @@
 
       - Community-led data collection using Open Data Kit for surveillance of animal African trypanosomiasis in Shimba hills, Kenya (Benard Kulohoma, University of Nairobi, Kenya)
 
-    Mapping recent landuse changes  (Claire Halleux, World Resource Institute, DRC)
+    Promenade interactive sur les chemins d'Openstreetmap/Take an interactive tour on Openstreetmpa Paths
+    (Alex Duclaux, SIGE, Morrocco)
+
+      Découvrez comment Sige utilise OSM comme basemap dans son application carte interactive et enrichit la base de données pour améliorer l'expérience utilisateur. / Discover how Sige uses OSM as a basemap in its interactive map application and updates the map for a better user experience.
 
     How to plan a mappy and fun road trip (Enock Seth Nyamador, Mawutor Donkor)
+
+      How we traveled across Ghana. Mapping and captured 300GB street-level images and had fun all by ourselves.
   subtype:
-  speakers: ["14", "15", "16", "17", "18"]
+  speakers: ["14", "15", "16", "35", "18"]
 -
   id: "010"
   title: "Gender & Local empowerement"
-  place: "Salle 4"
+  place: "Salle 5"
   description: |
     Lightning talks: Diversity and inclusion   
       - Implication des femmes et jeunes filles a la production des données ouvertes à Boke  (BARRY Mamadou Bella, GeoSynapse, Guinee)
 
-      - Bridging a geospatial gender gap through Mapping  (Hellen Dailofa , Youthmapper, Zambia)
+        C’ est de parler du rôle des Girlsmap dans la production des données ouverte à Boké cela s’intègre dans le renforcement  des capacités des femmes et jeunes filles dans l’usage des technologies de l’information pour le développement en Guinée.ma présentation s’aligne dans le genre. Le lien entre le thème de la conférence et ma présentation est que grâce à ces séance que j’organise des vies ont été transformés d’où aujourd’hui  ces femmes et jeunes filles ont pris confiances en elles car elles  sont d’avantages motivées et impliquées dans la production des données ouverts pour la gestion de la ville  qui contribue au bien d’être de la population.
 
       - L’initiative Girlsmap au Togo et en Afrique  (AKOUETE Ata Franck, OSM Togo, Togo)
 
-    Empowering rural disadvantaged girls through mapping and digital skills (Neema Meremo, Girl Rising Tanzania, Tanzania)
+        Girlsmap est une initiative  lancée en 2018 par OSM Togo en vue  d’accroître via des activités de sensibilisation et de formation la proportion de femmes dans les différentes communautés OSM. Cette présentation est un extrait de cette initiative au Togo et dans d’autres pays d’Afrique. Le nombre de contributeurs OSM augmente chaque année dans le monde. Cependant, l’univers OSM regorge moins de contributrices que de contributeurs dans les différentes communautés pays surtout celles  d’Afrique. C’est pourquoi, OSM Togo, soucieux de réduire la fracture numérique liée au genre dans le monde OSM et d’accroitre le nombre de femmes dans sa communauté a initié en 2018, la première initiative de formation en cartographie numérique OSM qui s’adresse uniquement aux filles. Loin de s’arrêter au Togo, cette initiative est devenue un modèle et a été répliquée par plusieurs pays de la sous-région comme le Benin, la côte d’ivoire, Guinée et se fut annoncée dans d’autres pays comme le Mali ainsi que le Burundi. Cette présentation cadre bien avec le thème de cette conférence car elle permet d’impacter la vie numérique des filles via la cartographie numérique openstreetmap.
 
-    Use of OpenSteetMap for Sustainable Development Actions In Bamako (SIDIBE Astou Nathalie, OSM Mali, Mali)
-  subtype:
-  speakers: ["19", "20", "21", "22", "23"]
+    #LetGirlsMap: Adding perspective to YouthMapping (Confidence Kpodo, UCC YouthMappers, Ghana)
+      - Let Girls Map is a campaign to amplify the voices of female student mappers. It is a way to encourage more diverse contributions into OSM.
+
+    Improving data, developing your skills!  (Claire Halleux, OSM RDC, DRC)
+
+      - In many places with young OSM communities, quality analysis seems to be mainly done through tasking manager remote validators, with still very little local "Data gardening". Why should we care about data quality? And how to do it practically and still have some fun? Quality control is crucial and highly necessary in about all mapping projects that intend to transform lives. If a well-intentioned project produces a very high amount of bad quality data, it can actually do more harm than good. First because the data can simply be unusable by the targeted users (for instance during emergency mapping in activations). Second because it might require much more time to correct it than it would have taken to trace it correctly in the first place. Third because it can also affect the reputation of the database and mappers.
+        
+        But spending time on quality control/analysis and corrections isn't only good for the data, it also helps mappers to develop their own skills. Crowdmapping is sometimes seen as something too easy and simple. This session intends to show you some ways in which you could deepen and broaden your skills. And therefore how mapping can change a little bit of your own life.
+
+  speakers: ["19", "21", "20","17"]
 -
   id: "011"
   title: "Rock around SDG's with OSM"
-  place: "Salle 5"
-  description: |
-    Lightning talks: SDGs    
-      - How gis can be used to achieve the sustainable development goals 2030  (Michael Batame, Youthmapper, Ghana)
-      - SDGs  (Sally Musungu, Imperial College, United Kingdom)
-      - Usability of OpenStreetMap data (Justus Muhando, Spatial Collectives, Kenya)
+  place: "Salle 6"
+  description: |    
+    - Usability of OpenStreetMap data (Justus Muhando, Spatial Collectives, Kenya)
+      Most African countries are facing a similar data problem; unavailable authoritative data sources and high costs of acquisitions of the data. As such, for the past few years, Africa has been an active ground for mapping activities driven by the imperative need for geospatial data for various applications in disaster resilience, community empowerment initiatives, humanitarian efforts, entrepreneurship amongst others. All these applications are in various ways geared towards transforming lives of all actors. However, the impact of transformation is correlated by the quality of volunteered geographic information. For example, incorrectly mapped roads could hamper search and rescue missions in times of disaster. 
+      
+      My proposal aims to evaluate existing volunteered geographic information and comment on its usability for specific applications. Insights from the proposal could also be used to develop local user guidelines to data contribution which would improve data quality.
 
-    Localizing the Global Goals through Citizen Led City Mapping (Michael Diala, UN SDSN, Nigeria)
+    - Localizing the Global Goals through Citizen Led City Mapping (Michael Diala, UN SDSN, Nigeria)
+    
+    - Use of OpenSteetMap for Sustainable Development Actions In Bamako (SIDIBE Astou Nathalie, OSM Mali, Mali)
 
-    Improving data, developing your skills!  (Claire Halleux, OSM RDC, DRC)
+      This session will present the use of OSM data by local authorities in the District of Bamako, The Capital City in Mali, for decision-making to  address problems people are facing in accessing health care sites, education and administrative process in this big city which is also populated over an area of 
+      
+      It will also be a question of presenting the collaborative work bringing together, OSM community, local authorities represented by  the Regional Development Agency and citizens to achieve a common objective, from training, to data collection, editions and data reuse.
   subtype:
-  speakers: ["24", "25", "26", "27", "17"]
+  speakers: ["26", "27", "23"]
 -
   id: "012"
   title: "Open Innovation Demo All Day"
@@ -153,10 +180,12 @@
   description: 
   subtype:
   speakers: ["28"]
+
+# ------- 14:00 to 15:30 ------- 
 -
   id: "013"
   title: "Artificial Intelligence for Mapping and Public Space Management/ Intelligence Artificielle pour la cartographie et la gestion de l'espace public"
-  place: "Plenary"
+  place: "Salle 1"
   description: |
     - DLR
     - Mapillary 
@@ -167,7 +196,7 @@
 -
   id: "014"
   title: "Les drones donnent des ailes - le mouvement drone Africain/ Drones Give me Wings- the African Drone Movement"
-  place: "Salle 1"
+  place: "Salle 2"
   description: |
     - Cote d'Ivoire Flying Labs
     - Senegal Flying Labs
@@ -179,7 +208,7 @@
 -
   id: "014"
   title: "Gestion de l'information - Infrastructure de Données Spatiales, malédiction ou panacée?/ Geographic Information Management - Life and Death of Spatial Data of Infrastructure (SDI)?"
-  place: "Salle 2"
+  place: "Salle 3"
   description: |
     Cabo Verde, Ibadan, Zanzibar, Seychelles, Seychelles (Justin Prosper)
     Explore how countries and cities are managing geographic information for Disaster Risk Management. Speakers will tell us about the challenges of sharing and keeping datasets up to date in fast growing cities. What are the solutions that are implemented ? What is the role of Open data like openstreetmap in Risk identification. Are the traditional SDI fit for purpose ?
@@ -188,35 +217,45 @@
 -
   id: "015"
   title: "C'est un monde de femmes, cartographiez le et c'est le vôtre - Participation des femmes à la technologie de la cartographie numérique/ This is a Woman's World, Map it and it is yours - Women Involvment in Digital Mapping Technology"
-  place: "Salle 3"
+  place: "Salle 4"
   description: |
     Panel: Women Involvement In OpenStreetMap
+
+      This panel aims to present women participation and keys actions  in Communities building around openstreetmap and to discuss about means and strategy to take in account or undertaketo showcase their great.
+      Although they are very underrepresented in OSM World, Women are very engaged to build strong and experienced communities and production of data of quality but their engagement seems to be unknown to the world due to lots of factors related to social, culture and religion.
+      This panel will also be an opportunity to share and learn experiences from each other so that evryone can keep working hard 
+
+    Panelist:
+      - Nathalie Sidibe (OSM Mali)
+      - Fatiman Alher (OSM Niger)
+      - Rita Soma ( OSM Burkina Fasso)
+      - Vivien Deparday(World Bank)
+      - Racky Ly(OSM CI) 
+      - Hawa (OSM Guinée)  
+      - Afoussatou (OSM Togo) 
+
   subtype:
-  speakers: ["30"]
+  speakers: ["23", "85", "86", "1", "87", "88", "89"]
 -
   id: "016"
   title: "OSM and Urban planning"
-  place: "Salle 4"
+  place: "Salle 5"
   description: |
     Lightning talks: Urban planning    
       - Assessment of the open GIS impacts on the sustainable use of public transport for saving time and improving lives  (Ernest Ruzindana, Youthmapper of Uni Rwanda, Rwanda)
+
+      GIS is a step towards improving the transport system by supporting public transport in many parts of the world. The purpose of the session is to highlight the impacts of open GIS on the sustainable use of public transport to save time and improve lives.
+
       - Resilience Academy as a sustainability solution for urban resilience skills development in Tanzania  (Msilikale Msilanga, University of Turku, Tanzania)
-      - Benefits of ODK and QGIS in Institute of Rural Development Planning  (Presenter name, organization, country)
 
-    An Introduction to blockchain technology for the geospatial economy (David Williams, )
+        This talk focuses on the Resilience Academy which represents the commitment of the World Bank to improve Tanzania’s skill base and to maximize the impact and sustainability through the establishment of university partnerships that transfer skills and risk management tools to the next generation. Resilience Academy program which focuses on education to young professional from the universities in order to be able to get the current Data collection knowledges to understand the methods and tools which are used by humanitarian for data collection but also for decision making. This program capacitate the universities through trainings of the trainers and to help develop their university curriculums which consider the current humanitarian tools and knowledges to help transform cities which are resilient.
+
+    An Introduction to blockchain technology for the geospatial economy (David Williams)
+
+      Blockchain concept, so far, has proven to be one disruptive technology that was created by Satoshi Nakamoto after developing a peer-to-peer electronic cash system called Bitcoin. With initial user as seen to be financial industry, the concept and subsequently developed technology have found applications in wide ranging areas. It is disruptive in its virtue by negating the very need of any centralized system by maintaining and protecting a distributed ledger of events. When events are stored in ledger in the form of encrypted blocks, the ledger is called blockchain. The blockchain system runs on participating nodes where each one contains an exact copy of it, verified by block mining. The system runs on a consensus basis where 51% attack is needed to subvert any change. Some of the key benefits of using this technology in Geospatial are (a) data transparency and accountability - preservation and public verification of mapped data, (b) data immutability - protection of data by unique hash fingerprinting, (c) very low or no data exchange cost - very little or no payment for nodes to participate in the network, (d) fast data storage - near realtime storage of data into the blockchain, (e) data security - high data security and anonymity because of the use of advanced cryptographic hash function, like SHA-256, (f) system resilience - no single point of failure because of distributed network, (g) data control - full control and access of data to public, acting as participating node, (h) system trustlessness - safe exchange of data without knowing or trusting other nodes, (i) standard data format - standard data format and protocol by platforms like Ethereum for device interaction etc. Inherently, Volunteered Geographic Information Systems like OpenStreetMap do not provide any tangible economic incentive to participating users to map or curate data. This has been seen with few Crazy Mappers, in scientific jargons, contributing more than 50% of regional data for some countries. Blockchain technology with geospatial, thus, brings in tokenization concept of contributor’s activity as incentivisation model. Tokens earned by contributors etc. could be used to claim value from services using Open-Geospatial data. Although, contributor’s activity and value claim could go ultra complex in real world scenario, conceptually a design is possible to argue. Authors believe that a real-value backed VGI model is necessary to stir momentum among common masses to actively engage in data generation, in order to keep the billion dollar geospatial economy fluid.
   subtype:
-  speakers: ["31", "32", "33", "34"]
--
-  id: "017"
-  title: "An OSM journey"
-  place: "Salle 5"
-  description: |
-    Workshop: Introduction to OSM, editors, tools etc.
+  speakers: ["31", "32", "34"]
 
-    Promenade interactive sur les chemins d'Openstreetmap/Take an interactive tour on Openstreetmpa Paths (Alex Duclaux, SIGE, Morrocco)
-
-  subtype:
-  speakers: ["35"]
 -
   id: "018"
   title: "Open Cities Poster Gallery"
@@ -328,7 +367,7 @@
   speakers: ["48", "49"]
 -
   id: "037"
-  title: "How to Iinvolve Africa Openstreetmap French community"
+  title: "How to Involve Africa Openstreetmap French community"
   place: "ABISSA"
   description: 
   subtype:
