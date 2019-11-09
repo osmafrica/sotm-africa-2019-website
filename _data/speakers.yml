@@ -713,3 +713,29 @@
   title: ""
   bio: 
   thumbnailUrl: dummu.png
+-
+  id: "82"
+  name: "Johanes Petro"
+  surname: "Machela"
+  company: "HotOSM, Tanzania"
+  title: ""
+  bio: 
+  thumbnailUrl: JohanesPetro.JPG
+-
+  id: "83"
+  name: "Tshedy"
+  surname: "Tsobei"
+  company: "OSM Lesotho, Lesotho"
+  title: ""
+  bio: 
+  thumbnailUrl: TshedyTsobei.jpeg
+  social:
+    - {name: "twitter", link: "https://twitter.com/Tshedy4"}
+-
+  id: "84"
+  name: "Julien"
+  surname: "Cour"
+  company: "Immergis Cameroun, Cameroun"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
