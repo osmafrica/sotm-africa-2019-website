@@ -81,14 +81,6 @@
   social:
     - {name: "twitter", link: "https://twitter.com/mitrevski"}
 -
-  id: "8"
-  name: "Xavier"
-  surname: "Espinet"
-  title: "Founder & Lead Developer"
-  company: "Apperto"
-  bio: 
-  thumbnailUrl: dummu.png
--
   id: "9"
   name: "Ifeatu"
   surname: "Enedah"
@@ -166,7 +158,7 @@
   id: "18"
   name: "Enock Seth"
   surname: "Nyamador"
-  company: "Mawutor Donkor"
+  company: "OpenStreetMap Ghana"
   title: ""
   bio: 
   thumbnailUrl: EnockSethNyamador.jpg
@@ -182,8 +174,7 @@
   title: ""
   bio: 
   thumbnailUrl: dummu.png
-  rockstar: true
- 
+  rockstar: 
 -
   id: "20"
   name: "Hellen"

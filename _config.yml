@@ -50,7 +50,7 @@ navigationLinks:
   - {permalink: "/attending", text: "Attending"}
   - {permalink: "/logistics/", text: "Logistics"}
   - {permalink: "/team/", text: "Team"}
- # - {permalink: "/speakers/", text: "Speakers"}
+  - {permalink: "/schedule/", text: "Program"}
   - {permalink: "https://join.osmfoundation.org/?page=CiviCRM&q=civicrm%2Fevent%2Finfo&id=15&reset=1", text: "Tickets"}
   - {permalink: "/#partners", text: "Sponsors"}
   - {permalink: "/faq/", text: "FAQ"}
@@ -63,7 +63,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "her0.jpg"
 heroTitle: "SOTM <typeout> 2019"
-eventDate: "Grand-Bassam, Ivory Coast | 22-24 November 2019 | Transforming lives through mapping"
+eventDate: "Abidjan | Grand-Bassam, Ivory Coast | 22-24 November 2019 | Transforming lives through mapping"
 typeoutTextValues: '"", "Africa", "Grand-Bassam", "Ivory Coast"'
 typeoutFallback: "Africa"
 heroButtons:
@@ -82,9 +82,9 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Swift"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from Boston and beyond"}
- - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "catch the videos later!"} #TODO: tagline appropriate?
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "OpenStreetMap and FOSS"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from Africa and beyond"}
+ - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "to choose from!"}
 
 
 # Latest News Block
