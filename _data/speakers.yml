@@ -177,9 +177,9 @@
   rockstar: 
 -
   id: "20"
-  name: "Hellen"
-  surname: "Dailofa"
-  company: " Youthmapper, Zambia"
+  name: "Confidence"
+  surname: "Kpodo"
+  company: "UCC YouthMappers, Ghana"
   title: ""
   bio: 
   thumbnailUrl: dummu.png
@@ -349,7 +349,11 @@
   company: "OSM Cameroon, Cameroon"
   title: ""
   bio: 
-  thumbnailUrl: dummu.png
+  thumbnailUrl: WillyFranckSOB.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/OSMCameroun"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/willy-franck-sob-b400bb85/"}
+    - {name: "facebook", link: "https://web.facebook.com/people/Willy-Franck-Sob/100014969863518?_rdc=1&_rdr"}
 -
   id: "40"
   name: "Ikeogu Emmanuel"
@@ -695,7 +699,10 @@
   company: "AFRIGIST, Cameroon"
   title: ""
   bio: 
-  thumbnailUrl: dummu.png
+  thumbnailUrl: marie.makuate.jpeg
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/marie.makuate"}
+
 -
   id: "81"
   name: "Dennis"
@@ -727,6 +734,46 @@
   name: "Julien"
   surname: "Cour"
   company: "Immergis Cameroun, Cameroun"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "85"
+  name: "Fatiman"
+  surname: "Alher"
+  company: "OSM Niger"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "86"
+  name: "Rita Soma"
+  surname: "Alher"
+  company: "OSM Burkina Fasso"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "87"
+  name: "Racky"
+  surname: "Ly"
+  company: "OSM CI"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "88"
+  name: "Hawa"
+  surname: 
+  company: "OSM Guinée"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "89"
+  name: "Afoussatou"
+  surname: 
+  company: "OSM Togo"
   title: ""
   bio: 
   thumbnailUrl: dummu.png

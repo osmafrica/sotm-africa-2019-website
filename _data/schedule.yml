@@ -2,12 +2,12 @@
 -
   date: "2019-11-22T00:00:00-04:00"
   tracks:
-    - {title: "Plenary", color: "#fbac3f"}
-    - {title: "Salle 1", color: "#03a9f4"}
-    - {title: "Salle 2", color: "#90be4e"}
-    - {title: "Salle 3", color: "#90be4e"}
-    - {title: "Salle 4", color: "#90be4e"}
-    - {title: "Salle 5", color: "#90be4e"}
+    - {title: "Salle 1 (Room1)", color: "#03a9f4"}
+    - {title: "Salle 2 (Room2)", color: "#90be4e"}
+    - {title: "Salle 3 (Room3)", color: "#90be4e"}
+    - {title: "Salle 4 (Room4)", color: "#90be4e"}
+    - {title: "Salle 5 (Room5)", color: "#90be4e"} 
+    - {title: "Salle 6 (Room6)", color: "#fbac3f"}
     - {title: "Outdoor", color: "#90be4e"}
   timeslots:
     - {
