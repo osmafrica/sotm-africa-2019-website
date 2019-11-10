@@ -282,7 +282,7 @@
   title: "OSM and Urban planning"
   place: "Salle 5"
   description: |
-    Lightning talks: Urban planning    
+    **Lightning talks: Urban planning**
       - Assessment of the open GIS impacts on the sustainable use of public transport for saving time and improving lives  (Ernest Ruzindana, Youthmapper of Uni Rwanda, Rwanda)
 
         GIS is a step towards improving the transport system by supporting public transport in many parts of the world. The purpose of the session is to highlight the impacts of open GIS on the sustainable use of public transport to save time and improve lives.
@@ -293,7 +293,7 @@
 
     _______________________________________________________________________________
 
-    An Introduction to blockchain technology for the geospatial economy (David Williams)
+    **An Introduction to blockchain technology for the geospatial economy (David Williams)**
 
       Blockchain concept, so far, has proven to be one disruptive technology that was created by Satoshi Nakamoto after developing a peer-to-peer electronic cash system called Bitcoin. With initial user as seen to be financial industry, the concept and subsequently developed technology have found applications in wide ranging areas. It is disruptive in its virtue by negating the very need of any centralized system by maintaining and protecting a distributed ledger of events. When events are stored in ledger in the form of encrypted blocks, the ledger is called blockchain. The blockchain system runs on participating nodes where each one contains an exact copy of it, verified by block mining. The system runs on a consensus basis where 51% attack is needed to subvert any change. Some of the key benefits of using this technology in Geospatial are (a) data transparency and accountability - preservation and public verification of mapped data, (b) data immutability - protection of data by unique hash fingerprinting, (c) very low or no data exchange cost - very little or no payment for nodes to participate in the network, (d) fast data storage - near realtime storage of data into the blockchain, (e) data security - high data security and anonymity because of the use of advanced cryptographic hash function, like SHA-256, (f) system resilience - no single point of failure because of distributed network, (g) data control - full control and access of data to public, acting as participating node, (h) system trustlessness - safe exchange of data without knowing or trusting other nodes, (i) standard data format - standard data format and protocol by platforms like Ethereum for device interaction etc. Inherently, Volunteered Geographic Information Systems like OpenStreetMap do not provide any tangible economic incentive to participating users to map or curate data. This has been seen with few Crazy Mappers, in scientific jargons, contributing more than 50% of regional data for some countries. Blockchain technology with geospatial, thus, brings in tokenization concept of contributor’s activity as incentivisation model. Tokens earned by contributors etc. could be used to claim value from services using Open-Geospatial data. Although, contributor’s activity and value claim could go ultra complex in real world scenario, conceptually a design is possible to argue. Authors believe that a real-value backed VGI model is necessary to stir momentum among common masses to actively engage in data generation, in order to keep the billion dollar geospatial economy fluid.
   subtype:
