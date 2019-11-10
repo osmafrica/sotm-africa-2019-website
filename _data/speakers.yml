@@ -688,7 +688,9 @@
   company: "OSM Malawi, Malawi"
   title: ""
   bio: 
-  thumbnailUrl: dummu.png
+  thumbnailUrl: ChristineMhone.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/chris_____e"}
 -
   id: "80"
   name: "Marie Brigitte"
