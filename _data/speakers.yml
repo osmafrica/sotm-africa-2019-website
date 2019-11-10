@@ -10,7 +10,7 @@
   id: "1"
   name: "Vivien"
   surname: "Deperday"
-  company: "GFDRR"
+  company: "GFDRR World Bank"
   title: ""
   bio: 
   thumbnailUrl: dummu.png
@@ -32,12 +32,10 @@
   name: "Karim"
   surname: "Sy"
   company: "Pivotal Labs"
-  title: "Jokko Labs Founder and Digital Africa President "
+  title: "Jokko Labs Founder and Digital Africa President"
   bio: 
   thumbnailUrl: dummu.png
-  social:
-    - {name: "twitter", link: "https://twitter.com/__chefski__"}
-    - {name: "github", link: "https://github.com/seanrolszewski"}
+ 
 -
   id: "4"
   name: "Nnenna"
@@ -47,8 +45,8 @@
   bio: 
   thumbnailUrl: dummu.png
   social:
-    - {name: "twitter", link: "https://twitter.com/mdiasdev"}
-    - {name: "github", link: "https://github.com/mdiasdev"}
+    - {name: "twitter", link: "https://twitter.com/nnenna"}
+
 -
   id: "5"
   name: "Florent"
@@ -64,7 +62,7 @@
   name: "Grace"
   surname: "Doherty"
   title: ""
-  company: "GFDRR"
+  company: "GFDRR World Bank"
   bio:    
   thumbnailUrl: dummu.png
   rockstar: true
@@ -75,11 +73,10 @@
   name: "Nuala"
   surname: "Cowan"
   title: ""
-  company: "GFDRR"
+  company: "GFDRR  World Bank"
   bio: 
   thumbnailUrl: dummu.png
-  social:
-    - {name: "twitter", link: "https://twitter.com/mitrevski"}
+  
 -
   id: "9"
   name: "Ifeatu"
@@ -268,7 +265,7 @@
   id: "30"
   name: "Cristiano "
   surname: "Giovando"
-  company: "GFDRR"
+  company: "GFDRR World Bank"
   title: ""
   bio: 
   thumbnailUrl: dummu.png

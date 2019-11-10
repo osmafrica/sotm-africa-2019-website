@@ -64,28 +64,36 @@
   title: "Jeunesse, Innovation, et Transport Résilient en Sierra Leone/ Youth, Innovation and Resilient Transport in Sierra Leone"
   place: "Salle 2"
   description: |
-    The session will be composed by local students, stakeholder from Sierra Leone and international expert, to present different activities around youth participation under the context of DRM and Resilient Transport. Format
+    The session will be composed by local students, stakeholder from Sierra Leone and 
+    international expert, to present different activities around youth participation under the context 
+    of DRM and Resilient Transport.
+
+    Format
+
     Three presentations of 20 min with additional 5 min per question after each session with 
     additional 15 min at the end for discussion.
 
-    - Involving youth for DRM data collection during project preparation Prof. Oba Davies/Ing. Savage. Fourah Bay College – will present the work on data collection for resilient transport. (15min)
+      - Involving youth for DRM data collection during project preparation
 
-    Students from FBC – team of students that participation in the data collection – 
-    will present on the finding and lessons learnt from the collection. (5min)
+        Prof. Oba Davies/Ing. Savage. Fourah Bay College – will present the work on data collection for resilient transport. (15min)
 
-    -  Using Data and Innovation for better GeoHazard Management
+        Students from FBC – team of students that participation in the data collection – 
+        will present on the finding and lessons learnt from the collection. (5min)
 
-    Prof. Oba Davies/Ms. Akiko Toya – will present the results of the study on capacity building and institution strengthen in Sierra Leone on Geohazard
+      - Using Data and Innovation for better GeoHazard Management
+      
+        Prof. Oba Davies/Ms. Akiko Toya – will present the results of the study on capacity building and institution strengthen in Sierra Leone on Geohazard
 
-    Management. (20min)
+        Management. (20min)
+        
 
-    -  Hackathon: Using DRM Transport Data for Innovation and Creation of Tech
+      -  Hackathon: Using DRM Transport Data for Innovation and Creation of Tech
 
-    Mr. Sullay Katta – Directorate of Innovation – will present on how to deliver a Hackathon for Resilient Transport Innovation (15min)
+         Mr. Sullay Katta – Directorate of Innovation – will present on how to deliver a Hackathon for Resilient Transport Innovation (15min)
 
-    Hackathon team – the winning team of the hackathon will pitch their winning idea. (5 min)
+         Hackathon team – the winning team of the hackathon will pitch their winning idea. (5 min)
 
-    OLD: To integrate analytical work using the data from University of California and/or Paolo and/or Emmanuel'
+      OLD: To integrate analytical work using the data from University of California and/or Paolo and/or Emmanuel
   subtype: session
   speakers: ["3"]
 -
@@ -93,19 +101,27 @@
   title: "OSM, un médicament efficace pour les applications de santé ?/ OSM, a good medicine for Heath applications ?"
   place: "Salle 3"
   description: |
-    Lightning talks: Health 
+    **Lightning talks: Health**
       - Mapping Healthcare Facilities in Abuja, Nigeria (Ifeatu Enedah, Brains and Hammer, Nigeria)
 
+          The mapping and analysis of the prevalence of communicable disease and Healthcare facilities in Abuja, Nigeria using GIS. GIS allows personal health data to be examined spatially so that patterns can be discerned. The various data and information that will be provided as a result of mapping health facilities in this study will in no doubt help in transforming lives in, Abuja Nigeria.
+
       - Analyse spatiale de la morbidité et de la mortalité palustre sur l'aire de suivi démographique de Saponé(Burkina) (Nombré Apollinaire, ILRI, Burkina Faso)
+
+          Cette analyse de la morbidité/mortalité palustre vise à identifier des pôles de  regroupement significatif des cas de paludisme  et de décès.Le but étant de mettre à disposition des réservoirs aux études cliniques, pour  mieux maîtriser les différents faciès d’adaptation de l’anophèle femelle.
 
       - Mapping for Community Resilience: A Case Study of Kyaka II Refugee Settlement
       (Ingrid Martha Kintu, Makarere University, Uganda)
 
-    Geomatics in support of the disease elimination process: The case of African Human Trypanosomiasis in Côte d'Ivoire
-      (Guy Pacome A., Bamoro C., Aboubacar O., Kouakou C., Debora K., Dr Kaba D., Fabrice C.(IPR/IRD), Dr Lingue K(PNETHA))
+    _______________________________________________________________________________
 
-    Contribution des données OSM pour la lutte contre le VIH sida et utilisation des données OSM dans la plate-forme OpenDCH
-        (ABEDJE NESIT BÉRENGER , Development Gateway, Cote d ivoire) 
+    **Geomatics in support of the disease elimination process: The case of African Human Trypanosomiasis in Côte d'Ivoire
+      (Guy Pacome A., Bamoro C., Aboubacar O., Kouakou C., Debora K., Dr Kaba D., Fabrice C.(IPR/IRD), Dr Lingue K(PNETHA))**
+
+    _______________________________________________________________________________
+
+    **Contribution des données OSM pour la lutte contre le VIH sida et utilisation des données OSM dans la plate-forme OpenDCH
+        (ABEDJE NESIT BÉRENGER , Development Gateway, Cote d ivoire)**
   subtype:
   speakers: ["9", "10", "11", "12", "13"]
 -
@@ -113,19 +129,31 @@
   title: "Les données OSM pour le suivi d'occupation du sol./ OSM data for Landuse applications."
   place: "Salle 4"
   description: |
-    Lightning talks: Agriculture 
+    **Lightning talks: Agriculture**
       - Open data and agricultural start ups (Nako kofele martin alain, Expanding Horizon, Cameroon) 
+
+          Africa's future cannot be decided without the narrative of agriculture, youths and ICT  being changed. 
+          integrating scientific methods to an age long agrarian practice that has mostly been traditionally carried out, is directly changing the outcome in terms of production. the making and putting of such skills and innovation at the disposal of young people of involved in agric start ups is capital in changing the out put when it comes to food puducton, food security and  job creation.
+          open data and mapping in the 21st century are the instruments needed to make evidence based decision, that will have long term impact and sucess for start ups. Important aspects of business development, such as market survey, feasibility, are all possible thanks to open data and mapping.
 
       - Accessing agricultural data in rural communities for Sustainable Livelihood (Eyongetta Njieassam, GYSSL, Cameroon)
 
+          Improving agricultural production needs access to agricultural data by rural farmers. rural farmers in this part of the globe have gone for decades with no credible data on new models for Sustainable agriculture. thishas limit the to traditional methods which has low yields and high production cost. Rural communities face a neglect when it come to data infrastructure. data being a blue print for optimum performance out put in our research activities needs to be given an open access to rural farmers in order to improve their yields and reduce the cost of agricultural production. this will there code meets with the SDG 1,2&3 of the UN by 2030 and help transform livelihood
+
       - Community-led data collection using Open Data Kit for surveillance of animal African trypanosomiasis in Shimba hills, Kenya (Benard Kulohoma, University of Nairobi, Kenya)
 
-    Promenade interactive sur les chemins d'Openstreetmap/Take an interactive tour on Openstreetmpa Paths
-    (Alex Duclaux, SIGE, Morrocco)
+          Trypanocide non-susceptibility remains a huge challenge in the management of animal African trypanosomiasis. Paucity of data on the prevalence of multi-drug non-susceptible trypanosomes has greatly hindered optimal veterinary management practices. Our study provides proof of concept for the viability of using smart mobile phone Apps to remotely collect reliable large-scale information from smallholder farmers and veterinary health care givers in resource poor settings. These datasets can be reliably collated remotely, analysed, and the findings can inform policies that improve farming practices and economic wellbeing while restricting widespread multi-drug resistance. Moreover, this strategy can be used to monitor and manage other infectious diseases in other rural, resource poor settings.
+    
+    _______________________________________________________________________________
+
+    **Promenade interactive sur les chemins d'Openstreetmap/Take an interactive tour on Openstreetmpa Paths
+    (Alex Duclaux, SIGE, Morrocco)**
 
       Découvrez comment Sige utilise OSM comme basemap dans son application carte interactive et enrichit la base de données pour améliorer l'expérience utilisateur. / Discover how Sige uses OSM as a basemap in its interactive map application and updates the map for a better user experience.
 
-    How to plan a mappy and fun road trip (Enock Seth Nyamador, Mawutor Donkor)
+    _______________________________________________________________________________
+
+    **How to plan a mappy and fun road trip (Enock Seth Nyamador, Mawutor Donkor)**
 
       How we traveled across Ghana. Mapping and captured 300GB street-level images and had fun all by ourselves.
   subtype:
@@ -135,7 +163,7 @@
   title: "Gender & Local empowerement"
   place: "Salle 5"
   description: |
-    Lightning talks: Diversity and inclusion   
+    **Lightning talks: Diversity and inclusion**  
       - Implication des femmes et jeunes filles a la production des données ouvertes à Boke  (BARRY Mamadou Bella, GeoSynapse, Guinee)
 
         C’ est de parler du rôle des Girlsmap dans la production des données ouverte à Boké cela s’intègre dans le renforcement  des capacités des femmes et jeunes filles dans l’usage des technologies de l’information pour le développement en Guinée.ma présentation s’aligne dans le genre. Le lien entre le thème de la conférence et ma présentation est que grâce à ces séance que j’organise des vies ont été transformés d’où aujourd’hui  ces femmes et jeunes filles ont pris confiances en elles car elles  sont d’avantages motivées et impliquées dans la production des données ouverts pour la gestion de la ville  qui contribue au bien d’être de la population.
@@ -143,15 +171,20 @@
       - L’initiative Girlsmap au Togo et en Afrique  (AKOUETE Ata Franck, OSM Togo, Togo)
 
         Girlsmap est une initiative  lancée en 2018 par OSM Togo en vue  d’accroître via des activités de sensibilisation et de formation la proportion de femmes dans les différentes communautés OSM. Cette présentation est un extrait de cette initiative au Togo et dans d’autres pays d’Afrique. Le nombre de contributeurs OSM augmente chaque année dans le monde. Cependant, l’univers OSM regorge moins de contributrices que de contributeurs dans les différentes communautés pays surtout celles  d’Afrique. C’est pourquoi, OSM Togo, soucieux de réduire la fracture numérique liée au genre dans le monde OSM et d’accroitre le nombre de femmes dans sa communauté a initié en 2018, la première initiative de formation en cartographie numérique OSM qui s’adresse uniquement aux filles. Loin de s’arrêter au Togo, cette initiative est devenue un modèle et a été répliquée par plusieurs pays de la sous-région comme le Benin, la côte d’ivoire, Guinée et se fut annoncée dans d’autres pays comme le Mali ainsi que le Burundi. Cette présentation cadre bien avec le thème de cette conférence car elle permet d’impacter la vie numérique des filles via la cartographie numérique openstreetmap.
+    
+    _______________________________________________________________________________
 
-    #LetGirlsMap: Adding perspective to YouthMapping (Confidence Kpodo, UCC YouthMappers, Ghana)
-      - Let Girls Map is a campaign to amplify the voices of female student mappers. It is a way to encourage more diverse contributions into OSM.
+    **#LetGirlsMap: Adding perspective to YouthMapping (Confidence Kpodo, UCC YouthMappers, Ghana)**
 
-    Improving data, developing your skills!  (Claire Halleux, OSM RDC, DRC)
+      Let Girls Map is a campaign to amplify the voices of female student mappers. It is a way to encourage more diverse contributions into OSM.
+    
+    _______________________________________________________________________________
 
-      - In many places with young OSM communities, quality analysis seems to be mainly done through tasking manager remote validators, with still very little local "Data gardening". Why should we care about data quality? And how to do it practically and still have some fun? Quality control is crucial and highly necessary in about all mapping projects that intend to transform lives. If a well-intentioned project produces a very high amount of bad quality data, it can actually do more harm than good. First because the data can simply be unusable by the targeted users (for instance during emergency mapping in activations). Second because it might require much more time to correct it than it would have taken to trace it correctly in the first place. Third because it can also affect the reputation of the database and mappers.
+    **Improving data, developing your skills!  (Claire Halleux, OSM RDC, DRC)**
+
+      In many places with young OSM communities, quality analysis seems to be mainly done through tasking manager remote validators, with still very little local "Data gardening". Why should we care about data quality? And how to do it practically and still have some fun? Quality control is crucial and highly necessary in about all mapping projects that intend to transform lives. If a well-intentioned project produces a very high amount of bad quality data, it can actually do more harm than good. First because the data can simply be unusable by the targeted users (for instance during emergency mapping in activations). Second because it might require much more time to correct it than it would have taken to trace it correctly in the first place. Third because it can also affect the reputation of the database and mappers.
         
-        But spending time on quality control/analysis and corrections isn't only good for the data, it also helps mappers to develop their own skills. Crowdmapping is sometimes seen as something too easy and simple. This session intends to show you some ways in which you could deepen and broaden your skills. And therefore how mapping can change a little bit of your own life.
+      But spending time on quality control/analysis and corrections isn't only good for the data, it also helps mappers to develop their own skills. Crowdmapping is sometimes seen as something too easy and simple. This session intends to show you some ways in which you could deepen and broaden your skills. And therefore how mapping can change a little bit of your own life.
 
   speakers: ["19", "21", "20","17"]
 -
@@ -159,14 +192,21 @@
   title: "Rock around SDG's with OSM"
   place: "Salle 6"
   description: |    
-    - Usability of OpenStreetMap data (Justus Muhando, Spatial Collectives, Kenya)
+    **Usability of OpenStreetMap data (Justus Muhando, Spatial Collectives, Kenya)**
+
       Most African countries are facing a similar data problem; unavailable authoritative data sources and high costs of acquisitions of the data. As such, for the past few years, Africa has been an active ground for mapping activities driven by the imperative need for geospatial data for various applications in disaster resilience, community empowerment initiatives, humanitarian efforts, entrepreneurship amongst others. All these applications are in various ways geared towards transforming lives of all actors. However, the impact of transformation is correlated by the quality of volunteered geographic information. For example, incorrectly mapped roads could hamper search and rescue missions in times of disaster. 
       
       My proposal aims to evaluate existing volunteered geographic information and comment on its usability for specific applications. Insights from the proposal could also be used to develop local user guidelines to data contribution which would improve data quality.
 
-    - Localizing the Global Goals through Citizen Led City Mapping (Michael Diala, UN SDSN, Nigeria)
-    
-    - Use of OpenSteetMap for Sustainable Development Actions In Bamako (SIDIBE Astou Nathalie, OSM Mali, Mali)
+    _______________________________________________________________________________
+
+    **Localizing the Global Goals through Citizen Led City Mapping (Michael Diala, UN SDSN, Nigeria)**
+
+      For Cities to achieve the global agenda in 2030, there has to be a mapping system that enables the accessing different parts of the city,the people living in local areas such as slums must be aware and contribute to mapping of their locality to fast track development and the SDGs
+
+    _______________________________________________________________________________
+  
+    **Use of OpenSteetMap for Sustainable Development Actions In Bamako (SIDIBE Astou Nathalie, OSM Mali, Mali)**
 
       This session will present the use of OSM data by local authorities in the District of Bamako, The Capital City in Mali, for decision-making to  address problems people are facing in accessing health care sites, education and administrative process in this big city which is also populated over an area of 
       
@@ -206,11 +246,12 @@
   subtype:
   speakers: ["30"]
 -
-  id: "014"
+  id: "017"
   title: "Gestion de l'information - Infrastructure de Données Spatiales, malédiction ou panacée?/ Geographic Information Management - Life and Death of Spatial Data of Infrastructure (SDI)?"
   place: "Salle 3"
   description: |
     Cabo Verde, Ibadan, Zanzibar, Seychelles, Seychelles (Justin Prosper)
+
     Explore how countries and cities are managing geographic information for Disaster Risk Management. Speakers will tell us about the challenges of sharing and keeping datasets up to date in fast growing cities. What are the solutions that are implemented ? What is the role of Open data like openstreetmap in Risk identification. Are the traditional SDI fit for purpose ?
   subtype:
   speakers: ["30"]
@@ -244,11 +285,13 @@
     Lightning talks: Urban planning    
       - Assessment of the open GIS impacts on the sustainable use of public transport for saving time and improving lives  (Ernest Ruzindana, Youthmapper of Uni Rwanda, Rwanda)
 
-      GIS is a step towards improving the transport system by supporting public transport in many parts of the world. The purpose of the session is to highlight the impacts of open GIS on the sustainable use of public transport to save time and improve lives.
+        GIS is a step towards improving the transport system by supporting public transport in many parts of the world. The purpose of the session is to highlight the impacts of open GIS on the sustainable use of public transport to save time and improve lives.
 
       - Resilience Academy as a sustainability solution for urban resilience skills development in Tanzania  (Msilikale Msilanga, University of Turku, Tanzania)
 
         This talk focuses on the Resilience Academy which represents the commitment of the World Bank to improve Tanzania’s skill base and to maximize the impact and sustainability through the establishment of university partnerships that transfer skills and risk management tools to the next generation. Resilience Academy program which focuses on education to young professional from the universities in order to be able to get the current Data collection knowledges to understand the methods and tools which are used by humanitarian for data collection but also for decision making. This program capacitate the universities through trainings of the trainers and to help develop their university curriculums which consider the current humanitarian tools and knowledges to help transform cities which are resilient.
+
+    _______________________________________________________________________________
 
     An Introduction to blockchain technology for the geospatial economy (David Williams)
 
