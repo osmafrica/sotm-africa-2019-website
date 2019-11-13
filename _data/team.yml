@@ -46,4 +46,39 @@
     GIS Developer
   social:
     - {name: "twitter", link: "https://twitter.com/fanevanjanahry"}
-    - {name: "github", link: "https://github.com/Fanevanjanahary"}  
+    - {name: "github", link: "https://github.com/Fanevanjanahary"}                           
+-
+  id: "4"
+  name: "Laura"
+  surname: "Mugeha"
+  title: "Programs Committee"
+  thumbnailUrl: LauraMugeha.jpg
+  type: committee
+  bio: 
+  social:
+    - {name: "twitter", link: "https://twitter.com/laura_mugeha"}
+    - {name: "site", link: "https://www.youthmappers.org/regional-ambassadors"}   
+-
+  id: "5"
+  name: "Yusuf"
+  surname: "Suleiman"
+  title: "Programs Committee"
+  thumbnailUrl: YusufSuleiman.jpeg
+  type: committee
+  bio: |
+    Local Pathways Fellowship Team
+    UN Sustainable Development Solutions Network - Youth Initiative
+  social:
+    - {name: "twitter", link: "https://twitter.com/el_useful"}
+    - {name: "github", link: "https://github.com/eluseful"}                            
+-
+  id: "6"
+  name: "Sharon"
+  surname: "Omojah"
+  title: " Scholarship committee"
+  thumbnailUrl: SharonOmojah.jpeg
+  type: committee
+  bio: |
+    GIS Analyst and Remote Sensing specialist|Trainer at OSM Kenya
+  social:
+    - {name: "twitter", link: "https://twitter.com/SharonKE_"}
