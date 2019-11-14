@@ -776,3 +776,11 @@
   title: ""
   bio: 
   thumbnailUrl: dummu.png
+-
+  id: "90"
+  name: "Danil"
+  surname: "Kirsanov"
+  company: "Facebook"
+  title: "Engineering Manager"
+  bio: "Danil Kirsanov holds PhD in Applied Math from Harvard and prior to Facebook worked on scalable computing at Microsoft and MathWorks. His primary interests are in computer assisted mapping, signal/image processing, numerical modeling and distributed machine learning applications."
+  thumbnailUrl: DanilKirsanov.png

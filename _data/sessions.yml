@@ -510,11 +510,12 @@
   speakers: ["18"]
 -
   id: "026"
-  title: "Workshop: Using AI to Map the World with Facebook's RapiD editor (Facebook)"
+  title: "Workshop: Using AI to Map the World with RapiD editor (Facebook)"
   place: "ABISSA"
-  description: 
+  description: |
+    In this workshop, we overview computer methods for the satellite image analysis and introduce RapiD, an AI-assisted extension of iD editor.
   subtype:
-  speakers: []
+  speakers: ["90"]
 
 # AFD Workshop
 -
