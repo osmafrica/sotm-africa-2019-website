@@ -48,7 +48,7 @@
       - Nnenna Nwakanma - Chief Web Advocate at World Wide Web Foundation
       
 
-  speakers: ["2", "3", "4"]
+  speakers: ["2", "3", "4", "91"]
 #  video: "https://video-url-goes-here"
 
 # ------- 11:00 to 12:30 -------
@@ -334,7 +334,7 @@
   title: "Keynote"
   service: true
   description: 
-  speakers: []
+  speakers: ["92"]
   subtype: 
 
 # ------- 10:00 to 10:30 -------
