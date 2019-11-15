@@ -785,20 +785,19 @@
   bio: "Danil Kirsanov holds PhD in Applied Math from Harvard and prior to Facebook worked on scalable computing at Microsoft and MathWorks. His primary interests are in computer assisted mapping, signal/image processing, numerical modeling and distributed machine learning applications."
   thumbnailUrl: DanilKirsanov.png
 -
-id: "91"
+  id: "91"
   name: "Gael"
   surname: "Musquet"
   company: "Hackers Against Natural Disasters (HAND)"
-  title: ""
+  title: 
   bio: |
     Gael Musquet is the President of Hackers Against Natural Disasters (HAND), an organization that harnesses the talents of local community members to autonomously develop and improve low-cost open-source crisis technologies for use in high risk zones. Prior to launching HAND, Mr. Musquet led the French OSM community. A meteorologist by training, Mr. Musquet was inspired to work in disaster risk management following his experience with hurricane Hugo and a subsequent earthquake in his nature Guadeloupe. For his contributions in helping populations better prepare for natural disaster, he was named an Ashoka Fellow in 2017 and received France’s prestigious medal of honor, the Ordre du Mérite in 2018.  
   thumbnailUrl: dummu.png
-
 -
-id: "92"
+  id: "92"
   name: "Steve"
   surname: "Coast"
-  company: ""
+  company: 
   title: "OpenStreetMap Founder"
   bio: 
   thumbnailUrl: dummu.png
