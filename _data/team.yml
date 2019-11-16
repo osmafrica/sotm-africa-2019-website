@@ -75,10 +75,80 @@
   id: "6"
   name: "Sharon"
   surname: "Omojah"
-  title: " Scholarship committee"
+  title: "Scholarship Committee"
   thumbnailUrl: SharonOmojah.jpeg
   type: committee
   bio: |
     GIS Analyst and Remote Sensing specialist|Trainer at OSM Kenya
   social:
     - {name: "twitter", link: "https://twitter.com/SharonKE_"}
+-
+  id: "7"
+  name: "JAMES "
+  surname: "MWITA MAGIGE"
+  title: "Communications Committee"
+  thumbnailUrl: JAMES_MAGIGE.jpg
+  type: committee
+  bio: 
+  social:
+    - {name: "twitter", link: "https://twitter.com/james_magige"}
+-
+  id: "8"
+  name: "Alexandre"
+  surname: "Duclaux"
+  title: "Budget & Fundraising Committee"
+  thumbnailUrl: Alexandre_Duclaux.JPG
+  type: committee
+  bio: 
+  social:
+    - {name: "site", link: "http://sige.ma/"}
+-
+  id: "9"
+  name: "Emmor"
+  surname: "Nile"
+  title: " Scholarship Committee"
+  thumbnailUrl: Emmor_Nile.png
+  type: committee
+  bio: 
+  social:
+    - {name: "twitter", link: "https://twitter.com/Vaomatua"}
+-
+  id: "10"
+  name: "Samaila"
+  surname: "Aliou"
+  title: "Program and Scholarships Committee"
+  thumbnailUrl: Samaila_Aliou.jpg
+  type: committee
+  bio: 
+  social:
+    - {name: "twitter", link: "https://twitter.com/ilasolthah"}
+-
+  id: "11"
+  name: "Poncelet"
+  surname: "Ileleji"
+  title: "Program and Scholarships Committee"
+  thumbnailUrl: Poncelet_Ileleji.jpg
+  type: committee
+  bio: 
+  social:
+    - {name: "twitter", link: "https://twitter.com/Poncelet2"}
+-
+  id: "12"
+  name: "Ezugwu Victor"
+  surname: "Chukwuma"
+  title: "Scholarships Committee"
+  thumbnailUrl: Victor_Ezugwu.jpg
+  type: committee
+  bio: 
+  social:
+    - {name: "twitter", link: "https://twitter.com/VictorEzugwu4"}
+-
+  id: "13"
+  name: "Marie Brigitte "
+  surname: "MAKUATE"
+  title: "Communications Committee"
+  thumbnailUrl: marie.makuate.jpeg
+  type: committee
+  bio: 
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/marie.makuate"}
