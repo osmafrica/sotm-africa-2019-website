@@ -563,7 +563,7 @@
   id: "64"
   name: "Justin"
   surname: "SAUNDERS"
-  company: "Africaabees, Malawi"
+  company: "Africa Bees, Malawi"
   title: ""
   bio: 
   thumbnailUrl: JustinSAUNDERS.jpeg
@@ -636,7 +636,7 @@
 -
   id: "73"
   name: "Judith"
-  surname: "Atakunda"
+  surname: "Atukunda"
   company: "Landnet, Uganda"
   title: ""
   bio: 
@@ -798,6 +798,22 @@
   name: "Steve"
   surname: "Coast"
   company: 
+  title: "OpenStreetMap Founder"
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "93"
+  name: "Steve"
+  surname: "Coast"
+  company: 
+  title: "OpenStreetMap Founder"
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "94"
+  name: "Federico"
+  surname: "Debetto"
+  company: "KMedia SAS, Italy"
   title: "OpenStreetMap Founder"
   bio: 
   thumbnailUrl: dummu.png
