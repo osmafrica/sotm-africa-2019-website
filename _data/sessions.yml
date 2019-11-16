@@ -331,7 +331,7 @@
 # ------- 09:30 to 10:00 -------
 -
   id: "021"
-  title: "Keynote"
+  title: "Keynote - Steve Coast, OpenStreetMap Founder"
   service: true
   description: 
   speakers: ["92"]
@@ -339,17 +339,24 @@
 
 # ------- 10:00 to 10:30 -------
 -
-
   id: "022"
   title: "Workshop: Machine Learning Tools to Support Mapping for Resilience and Disaster Risk Management"
   place: "AMPHITHÉÂTRE"
   description: 
   speakers: ["36"]
   subtype: 
+# WB SIDE EVENT UR - OPEN CITIES AFRICA (ABISSA) (id: 054)
+-
+  id: "027"
+  title: "Workshop: OSM for Transport Technical Session(AFD, France)"
+  place: "GRAND-BASSAM"
+  description: 
+  subtype:
+  speakers: []
 -
   id: "023"
   title: "The Red Cross and Open Data for Community Epidemic Preparedness"
-  place: "ABISSA"
+  place: "COMOE"
   description: |
     Core datasets and maps are vital to helping Red Cross staff and volunteers situate their teams and respond within communities during epidemics. Information about features like road networks, health infrastructure, climate patterns, disease incidence, population density, and health behaviors can be valuable inputs for response teams to analyze in order to better understand the environment in which an outbreak has taken place.
 
@@ -359,22 +366,19 @@
   speakers: ["37"]
   subtype: 
 -
-  id: "027"
-  title: "Workshop: OSM for Transport Technical Session(AFD, France)"
-  place: "GRAND-BASSAM"
-  description: 
-  subtype:
-  speakers: []
--
   id: "031"
   title: "Using Docker to fetch OSM Data and Upload in PostGis Database (Docker-OSM)"
-  place: "COMOE"
+  place: "CAVALLY"
   description: |
     Docker-OSM is a docker-compose project to fetch OSM Data every 2 minutes and upload in a PostGIS DB. During this presentation, I will show how to build the OSM data for Madagascar into PostGis and how to analysis those data with QGIS and SQL query. 
   subtype:
   speakers: ["47"]
 
 # ------- 10:30 to 11:00 -------
+
+# Worshop: ML Tools (AMPHITHÉÂTRE) (id: 022)
+# WB SIDE EVENT UR - OPEN CITIES AFRICA (ABISSA) (id: 054)
+# AFD Workshop (GRAND-BASSAM) (id: 027)
 -
   id: "036"
   title: "Understanding geographical access to primary healthcare in Ifanadiana, Madagascar"
@@ -396,31 +400,30 @@
   subtype: 
 
 # ------- 11:30 to 12:00 -------
+
 -
-  id: "034"
-  title: "Panel: Sustainability and OSM in Africa"
+  id: "060"
+  title: "Small Group DIscussion OSM and Governance"
   place: "AMPHITHÉÂTRE"
   description: |
-    - Panelist 1  (Erica Hagen, Map Kibera Trust, USA)
-
-       In this interactive session, I will report on my research on sustainability of impact for OSM projects and organizations, conducted for Open Cities Africa with GFDRR at the World Bank. We will discuss challenges and tactics for sustaining mapping work and impact over time. Sustaining OSM mapping work and impacts of mapping projects can be a challenge. In order to truly transform lives, we need up to date data and sustained mapping. Many humanitarian and development oriented OSM mapping projects in Africa and elsewhere come and go dependent on short term goals, without a good plan for longer term impact of the map. Volunteers contribute but organized and comprehensive mapping of sectors like health, water, sanitation, education, and humanitarian sectors requires longer term sustainability. Achieving a stronger long-term impact will transform far more lives. This session will help participants think about challenges and tactics for sustaining the most important impacts of the great work they have been doing or want to do. 
-   
-    - Panelist 2  (Presenter name, organization, country)
+    - Zacharia Muindi, Map Kibera, Kenya
+    - Cristiano Giovando, World Bank
+    - George Madoda, AId for Trade, Tanzania
   subtype:
-  speakers: ["48", "49"]
+  speakers: ["57", "30", "58"]
+# WB SIDE EVENT UR - OPEN CITIES AFRICA (ABISSA) (id: 054)
+# AFD Workshop (GRAND-BASSAM) (id: 027)
 -
   id: "037"
   title: "How to Involve Africa Openstreetmap French community"
-  place: "ABISSA"
+  place: "COMOE"
   description: 
   subtype:
   speakers: ["52"]
-
-# AFD Worshop
 -
   id: "046"
   title: "Water Points Mapping In The Rural Areas"
-  place: "COMOE"
+  place: "CAVALLY"
   description: |
     In September 2018, in partnership with a local NGO , called AMSCID, i lead a water points mapping project in Torodo, a small village in Dianguirde Rural Municipality, Kayes Region which faces a serious problems of acces to water du to the quality of the land and the geographic position of the area. 
   subtype:
@@ -435,20 +438,21 @@
     This session describes the IT infrastructure to support the community-run tourism initiative in Larabanga, in particular the FOSS tools for producing the webmap and managing dataflows. A hallmark of this effort is absolutely minimizing the need for writing program code.
   subtype:
   speakers: ["54"]
+# WB SIDE EVENT UR - OPEN CITIES AFRICA (ABISSA) (id: 054)
+# AFD Workshop (GRAND-BASSAM) (id: 027)
 -
-  id: "048"
-  title: "OSMF local chapters in countries of the Global South what can we learn from OSM associations dynamics in French-speaking southern countries of Africa and the Caribbean ?"                                  
-  place: "ABISSA"
+  id: "079"
+  title: "Achieving Sustainable Development Goals(SDGs) by mapping;A case of Tanzania"
+  place: "COMOE"
   description: |
-    This talk will share lessons about the multi-years collective dynamics around OpenStreetMap which unfold in French-speaking southern countries of Africa and the Caribbean with the view of identifying paths for local OSM grassroots groups evolution towards formal OSMF local chapters. It has been some years that OSM and OMSF members have been discussing the topic of OSMF local chapters over emails, wiki, physically through BoF sessions at SotM events. This talk will share lessons that OSM and OSMF members can learn about the multi-years collective dynamics around OpenStreetMap which unfold in French-speaking southern countries of Africa and the Caribbean, where outreach, communication, mapping and training have been organized collectively from the start local OSM actions. These actions lead to first informal collective of mappers which organized internally over the years and for some incorporated as local associations mandated to the promotion and support of the OSM project playing the role of a de facto OSM Chapter. The talk will look at both these various collective practices and the OSMF requirements for local chapters in the light of this multi-years OSM associative experience with the view to identify itineraries to the building of OSMF local chapters.
+    As our government is struggling to achieve the SDGs, Humanitarian OpenSteetMap Team(Tanzania) is also contributing to achieve through mapping. We are helping to make cities safe and resilient but also to reduce poverty, ensure healthy live and giving people access to electricity through mapping.
   subtype:
-  speakers: ["61"]
+  speakers: ["78"]
 
-# AFD Worshop
 -
   id: "030"
   title: "Detecting, mapping and monitoring of seasonal changes of shallow water ponds using SAR data with Deep Learning"
-  place: "COMOE"
+  place: "CAVALLY"
   description: |
     The effects of climate change on water resources has led to increased water-stress in rural societies in sub-Sahara Africa (SSA), with negative effects on humans, livestock and crop production. With low resource availability and long distances to permanent water sources, these societies are reliant on seasonal shallow ponds to satisfy both household and livestock water needs. Seasonal availability coupled with high siltation rates further increases the uncertainty in water availability in SSA. Earth observation (EO) coupled with technological advancement in feature detection through artificial intelligence (machine learning) provides the best way to map and monitor changes in water resources. However, cloud contamination and atmospheric interference limits the use of optical EO in water resources monitoring due to inconsistency in data availability, especially in the tropics. Active microwave sensing data especially synthetic aperture radar (SAR) with its all-day-and-night data acquisition solves the problem of data availability for continuous water resources monitoring. 
     Using SAR data with deep learning, we detect and map the location and availability of shallow water ponds to local communities and monitor their status. 
@@ -468,22 +472,21 @@
     Despite the challenges (mobile Internet only, limited IT resources, lack of capital, etc.), with external support, Field Papers exchanges and hard work, an OSM map was ready by mid-2018. In August, OSM, JOSM and mobile data collection training began. By demonstrating success, LECLARA is increasingly able to mobilize support throughout the town and provide future perspectives for its residents.
   subtype:
   speakers: ["59"]
--
-  id: "038"
-  title: "Reclaim the streets"
-  place: "ABISSA"
-  description: |
-    The OSMF has been facing attempts of entryism and actions aiming at changing drastically its governance coming from groups of influence and corporations. This talk will look back at these dynamics as well as views to strengthen a diverse, flat and open OSMF acting as an enabler for OSM in Africa         "The OSMF is subject of obvious attempts of entryism from some organizations, both within the OSMF board and its membership, trying collectively to modify drastically the governance of the OSM project, as the lobbying for the introduction of a code of conduct regulating all the exchanges between members of the OSM project on all medias (discussion lists, forums, tools, etc.) or the increasing place dedicated of corporate members. 
-    This talk will aim at coming back to these topics, demonstrating their dangers for the governance of both the OSMF and the OSM project, as well as the uselessness and the ineffectiveness of these drastic changes yet presented as necessary by their proponents, and promoting the continuity of the flat, open and agile model that made the OSM project such a success. 
-    It's important that these topics are discussed live in Africa by and with African mappers so that OSM keep going its way ""Transforming Lives through Mapping""!"
-  subtype:
-  speakers: ["53"]
 
-# AFD Worshop 
+# WB SIDE EVENT UR - OPEN CITIES AFRICA (ABISSA) (id: 054)
+# AFD Workshop (GRAND-BASSAM) (id: 027)
+-
+  id: "028"
+  title: "The provision of solid waste collection in African cities and a tripling of revenue collection, Depends on current Clients tagging Maps. "
+  place: "COMOE"
+  description: |
+    How can Open StreetMap communities and physical application of maps make Africa continents  Zero waste, The provision of sustainable solid waste collection  in African cities  (informal and Formal settlements) and a tripling of revenue collection, Depends on current Clients tagging Maps
+  speakers: ["82"]
+  subtype: 
 -
   id: "040"
   title: "Using OSM to improve WASH in Africa"
-  place: "COMOE"
+  place: "CAVALLY"
   description: |
     Africa faces a lot of challenges like cholera, this is mainly due to the poor wash practices that are in most communities in Africa. Communities and stakeholders need to start using OSM as a tool to collect and monitor WASH. in this presentation, we look . at the ways in which OSM. OSM can be used to monitor real time WASH problems and interventions in the communities since it a collaborative way of collecting open map data. using OSM as a tool will improve the openness on WASH data sets which can used by the community, researchers and stakeholders to come up with innovative solutions that will transform lives of the communities. If we are to transform the lives of communIties, OSM SHOULD BE USED AS PRIORITY IN WASH.
   subtype:
@@ -492,78 +495,72 @@
 # ------- After Lunch -------
 # ------- 14:00 to 14:30 -------
 -
-  id: "053"
-  title: "Workshop:OSGeo 101 and OSGeoLive Hands on"            
+  id: "081"
+  title: "Small Group Discussion YouthMappers in Africa: Regional ambassadors"
   place: "AMPHITHÉÂTRE"
+  description: 
+  speakers: []
+-
+  id: "052"
+  title: "Bulk imports into OpenStreetMap"            
+  place: "ABISSA"
   description: |
-    The Open Source Geospatial Foundation (OSGeo) is a not-for-profit organization whose mission is to foster global adoption of open geospatial technology by being an inclusive software foundation devoted to an open philosophy and participatory community driven development. The foundation provides financial, organizational and legal support to the broader open source geospatial community. 
-    
-    OSGeo vision: Empower everyone with open source geospatial
-    OSGeo was founded in 2006 and is well established as a global organization with Local Chapters all over the world. OSGeo represents and supports more than 25 software projects (https://www.osgeo.org/projects/) like QGIS, PostGIS or GDAL. 
-    OSGeo organizes many events global and regional all over the world (https://www.osgeo.org/events/). On every event OpenStreetMap is a topic in some of the talks or workshops.
-    The initiative GeoForAll (https://www.osgeo.org/initiatives/geo-for-all/) is an OSGeo Committee and has an Educational outreach and has the mission for making geospatial education and opportunities accessible to all.
-    There is also the OSGeoLive project that covers more than 50 software projects, Open Data and also documentation and tutorials. OSGeoLive is a self-contained bootable DVD, USB thumb drive or Virtual Machine based on Lubuntu, that allows you to try a wide variety of open source geospatial software without installing anything. OpenStreetMap data and software are also included on OSGeoLive.
-    OpenStreetMap data is involved in many OSGeo projects f.e. as sample data, sample service. There is also functionality available to handle OSM data f.e the variety of OSM specific plugins for QGIS or support for OSM in GDAL (https://www.gdal.org/drv_osm.html) or routing on OSM data with pgRouting.
-    Learn about OSGeo and how OSGeo and OSM are connected and join the OSGeo community.
-
+    - 
   subtype:
-  speakers: ["18"]
+  speakers: ["26"]
+
+# AFD Workshop (GRAND-BASSAM) (id: 027)
 -
   id: "026"
   title: "Workshop: Using AI to Map the World with RapiD editor (Facebook)"
-  place: "ABISSA"
+  place: "COMOE"
   description: |
     In this workshop, we overview computer methods for the satellite image analysis and introduce RapiD, an AI-assisted extension of iD editor.
   subtype:
   speakers: ["90"]
 
-# AFD Workshop
 -
   id: "025"
   title: "Web Mapping and Geo-way Finder System of University of Port Harcourt Campus, Nigeria"
-  place: "COMOE"
+  place: "CAVALLY"
   description: |
     Leaflet and other open source geospatial technology to develop a Way-Finder Geoinformation system that will assist students and visitors to identify their desired location within the campus. The study designed a dynamic web-based mapping application geospatial way-finder. The lives of students can be transformed in the sense that they don't need to ask questions on their way to certain places around their campus environment, maybe they are in search of a certain place with the help of the way-finder system. they can do that instead of getting stranded or go about following some unclear direction given to them by other people.
   speakers: ["40"]
   subtype: 
 
 # ------- 14:30 to 15:00 -------
-# OSGEO
-# Facebook's RapiD
-# AFD Workshop
+
+# Small Group Discussion YouthMappers in Africa (AMPHITHÉATRE) (id: 081)
+# None (ABISSA)
+# AFD Workshop (GRAND-BASSAM) (id: 027)
+# Facebook's RapiD (COMOE) (id: 026)
 -
   id: "043"
   title: "WatriFeed, GTFS Collaborative Tools"
-  place: "COMOE"
+  place: "CAVALLY"
   description: |
     Notre communauté opere dans la cartographie et standardisation des données de transport. A cet effet nous presenterons notre outils de standardisation GTFS collaboratif que nous avons developpé qui pourra servir à la communauté OSM toute entiere .Le nom de l'outil est WatriFeed	Le lien avec le thème du SOTM, est que pour transformer des vies ou l’améliorer cela passe par améliorer les systèmes de mobilité et de transport. Les données sont d'une importance capitale pour atteindre ce but, d’où la nécessité de la cartographie et des communauté qui y travail. Notre atelier s'inscrit dans la transformation digitale du transport et de la mobilité.
   subtype:
   speakers: ["56"]
 
 # ------- 15:00 to 15:30 -------
--
-  id: "028"
-  title: "The provision of solid waste collection in African cities and a tripling of revenue collection, Depends on current Clients tagging Maps. "
-  place: "AMPHITHÉÂTRE"
-  description: |
-    How can Open StreetMap communities and physical application of maps make Africa continents  Zero waste, The provision of sustainable solid waste collection  in African cities  (informal and Formal settlements) and a tripling of revenue collection, Depends on current Clients tagging Maps
-  speakers: ["82"]
-  subtype: 
+
+# None (AMPHITHÉÂTRE)
+# None (ABISSA)
+# AFD Workshop  (GRAND-BASSAM)
 -
   id: "035"
   title: "How OSM is used in Spatial Planning in Lesotho"
-  place: "ABISSA"
+  place: "COMOE"
   description: |
     With the challenge of lack of resource to create spatial plans using licenced softwares in Lesotho, physical planning department with the assistance of Action Ireland and Fingal County Council opted to using OSM.  The whole country was mapped to provide the baseline map and data. 
   subtype:
   speakers: ["83"]
 
-# AFD Workshop
-
 -
   id: "042"
   title: "Gathering urban communities around open data collection and geographic information for improving resilience to climate change"
-  place: "COMOE"
+  place: "CAVALLY"
   description: |
     The lack of detailed and up-to-date geographic data limits urban planning, informed decisions, and hinders the resilience of populations facing natural disasters.Thanks to mapping, entire communities can now have a better quality of life while facing the effects of climate change. Through my presentation i will also showcase how engaging the local communities in the participatory mapping sessions has impacted their long-term vision of the city and has brought a deeper sense of belonging to the habitants. How data collection has improved decision making and how the participatory mapping was used to update and complete the geographical data related to disaster risk management in priority areas. In addition, i will present the open source web GIS platform that was developed to facilitate data sharing and improve their use.  
   subtype:
@@ -636,50 +633,25 @@
   subtype:
   speakers: ["53"]
 -
-  id: "060"
-  title: "Small Group DIscussion OSM and Governance"
+  id: "053"
+  title: "Workshop:OSGeo 101 and OSGeoLive Hands on"            
   place: "COMOE"
   description: |
-    - Zacharia Muindi, Map Kibera, Kenya
-    - Cristiano Giovando, World Bank
-    - George Madoda, AId for Trade, Tanzania
+    The Open Source Geospatial Foundation (OSGeo) is a not-for-profit organization whose mission is to foster global adoption of open geospatial technology by being an inclusive software foundation devoted to an open philosophy and participatory community driven development. The foundation provides financial, organizational and legal support to the broader open source geospatial community. 
+    
+    OSGeo vision: Empower everyone with open source geospatial
+    OSGeo was founded in 2006 and is well established as a global organization with Local Chapters all over the world. OSGeo represents and supports more than 25 software projects (https://www.osgeo.org/projects/) like QGIS, PostGIS or GDAL. 
+    OSGeo organizes many events global and regional all over the world (https://www.osgeo.org/events/). On every event OpenStreetMap is a topic in some of the talks or workshops.
+    The initiative GeoForAll (https://www.osgeo.org/initiatives/geo-for-all/) is an OSGeo Committee and has an Educational outreach and has the mission for making geospatial education and opportunities accessible to all.
+    There is also the OSGeoLive project that covers more than 50 software projects, Open Data and also documentation and tutorials. OSGeoLive is a self-contained bootable DVD, USB thumb drive or Virtual Machine based on Lubuntu, that allows you to try a wide variety of open source geospatial software without installing anything. OpenStreetMap data and software are also included on OSGeoLive.
+    OpenStreetMap data is involved in many OSGeo projects f.e. as sample data, sample service. There is also functionality available to handle OSM data f.e the variety of OSM specific plugins for QGIS or support for OSM in GDAL (https://www.gdal.org/drv_osm.html) or routing on OSM data with pgRouting.
+    Learn about OSGeo and how OSGeo and OSM are connected and join the OSGeo community.
+
   subtype:
-  speakers: ["57", "30", "58"]
+  speakers: ["18"]
+
 
 # ------- 11:30 to 12:00 -------
--
-  id: "061"
-  title: "MapUganda"
-  place: "AMPHITHÉÂTRE"
-  description: |
-     This session will focus on the work MapUganda, the OSM local community in Uganda has done to promote the use of OSM. Looking at projects like clean streets, OpenMapping program, Uganda Flying labs.
-  speakers: ["65"]
--
-  id: "062"
-  title: "Le Projet MAP & JERRY"
-  place: "ABISSA"
-  description: |
-    MAP & JERRY est un projet dont l’une des composantes est consacrée à la cartographie participative de Ladji par ses habitants, avec le soutien de l’IRD et du collectif OpenStreetMap Bénin.	Ladji, comme plusieurs quartiers de la ville de cotonou est un quartier précaire dont l'existence de la population ne figure même pas sur la carte. Ce projet à permis non seulement de ressortir leur existence mais egalement de contribuer à l'épenouissement de la vie des jeunes habitants.
-  subtype:
-  speakers: ["68"]
--
-  id: "063"
-  title: "Map Kibera: learnings over a decade of slum mapping"
-  place: "GRAND-BASSAM"
-  description: |
-    "Map Kibera began 10 years ago, when young people from the Kibera slum of Nairobi put their community on OpenStreetMap. This session will discuss Map Kibera’s work over the past decade: where we started, obstacles and challenges along the way, accomplishments, and our vision for the future. 	For ten years, Map Kibera has worked with slumdwellers and other citizens to map their communities, and use open information for action and policy change. We always empower citizens to map their own communities, using OSM, discuss what they find, and engage policy makers and media to create local change. We have worked with themes like education, health and water to create maps that bring better services to slums like Kibera. Transforming lives by supporting community-driven mapping and use of open data has been our primary mission. Individual mappers trained in 2009 now lead the organization and train others throughout Kenya and beyond."
-  subtype:
-  speakers: ["48"]
--
-  id: "064"
-  title: Africa Bees - Geonode business portal for Drone Mapping in Africa"
-  place: "COMOE"
-  description: |
-    The power of drones and the demand for more detailed mapping in Africa has boomed in many sectors such as development, construction, flood prevention, humanitarian response and environmental safe guarding.  At Africa Bees we empower local pilots to use drones for the collection of geospatial data.        By recruiting and enabling pilots in Africa to use or own their own drones for the purpose of mapping we believe that the work can be carried our in-country at considerably lower costs yet retain the high levels of accuracy to produce engineering acceptable 3D topographic mapping. In addition the access to an open source geonode portal enables a community to share the geospatial data freely.
-  subtype:
-  speakers: ["64"]
-
-  # ------- 12:00 to 12:30 -------
 -
   id: "065"
   title: "CarteInnov: the map of digital innovation stakeholders in French speaking South Countries"                                          
@@ -692,6 +664,43 @@
       - its supply from the field via national referents, active members of the OpenStreetMap community in their country, who ensure both the supply of data collected in the field to the map and the promotion of the project
       https://carteinnov.francophonelibre.org/" 
   speakers: ["61"]
+-
+  id: "062"
+  title: "Le Projet MAP & JERRY"
+  place: "ABISSA"
+  description: |
+    MAP & JERRY est un projet dont l’une des composantes est consacrée à la cartographie participative de Ladji par ses habitants, avec le soutien de l’IRD et du collectif OpenStreetMap Bénin.	Ladji, comme plusieurs quartiers de la ville de cotonou est un quartier précaire dont l'existence de la population ne figure même pas sur la carte. Ce projet à permis non seulement de ressortir leur existence mais egalement de contribuer à l'épenouissement de la vie des jeunes habitants.
+  subtype:
+  speakers: ["68"]
+
+-
+  id: "063"
+  title: "Bringing Street Level Imagery Online : The Zanzibar Story"
+  place: "GRAND-BASSAM"
+  description: 
+  subtype:
+  speakers: ["94"]
+-
+  id: "064"
+  title: Africa Bees - Geonode business portal for Drone Mapping in Africa"
+  place: "COMOE"
+  description: |
+    The power of drones and the demand for more detailed mapping in Africa has boomed in many sectors such as development, construction, flood prevention, humanitarian response and environmental safe guarding.  At Africa Bees we empower local pilots to use drones for the collection of geospatial data.        By recruiting and enabling pilots in Africa to use or own their own drones for the purpose of mapping we believe that the work can be carried our in-country at considerably lower costs yet retain the high levels of accuracy to produce engineering acceptable 3D topographic mapping. In addition the access to an open source geonode portal enables a community to share the geospatial data freely.
+  subtype:
+  speakers: ["64"]
+
+  # ------- 12:00 to 12:30 -------
+-
+  id: "038"
+  title: "Reclaim the streets"
+  place: "AMPHITHÉÂTRE"
+  description: |
+    The OSMF has been facing attempts of entryism and actions aiming at changing drastically its governance coming from groups of influence and corporations. This talk will look back at these dynamics as well as views to strengthen a diverse, flat and open OSMF acting as an enabler for OSM in Africa         "The OSMF is subject of obvious attempts of entryism from some organizations, both within the OSMF board and its membership, trying collectively to modify drastically the governance of the OSM project, as the lobbying for the introduction of a code of conduct regulating all the exchanges between members of the OSM project on all medias (discussion lists, forums, tools, etc.) or the increasing place dedicated of corporate members. 
+    This talk will aim at coming back to these topics, demonstrating their dangers for the governance of both the OSMF and the OSM project, as well as the uselessness and the ineffectiveness of these drastic changes yet presented as necessary by their proponents, and promoting the continuity of the flat, open and agile model that made the OSM project such a success. 
+    It's important that these topics are discussed live in Africa by and with African mappers so that OSM keep going its way ""Transforming Lives through Mapping""!"
+  subtype:
+  speakers: ["53"]
+
 -
   id: "066"
   title: "Système de transport et de déplacement cas du Togo"
@@ -719,12 +728,13 @@
 
 # ------- 12:30 to 13:00 -------
 -
-  id: "069"
-  title: "Mapping Throughout Africa"
-  place: "AMPHITHÉÂTRE"
+  id: "048"
+  title: "OSMF local chapters in countries of the Global South what can we learn from OSM associations dynamics in French-speaking southern countries of Africa and the Caribbean ?"                                  
+  place: "ABISSA"
   description: |
-     We plan to talk about Apple's work mapping on OpenStreetMap throughout Africa, including how we’ve worked with the local community, what we've mapped, where we’ve mapped, what our procedures are and what tools and techniques we use, such as Atlas, MapRoulette and more.         "With a more complete and accurate road network, more local organizations, local businesses, governments and humanitarian organizations can use OSM and use it more effectively. Better road coverage ensures that remote areas are on the map, and that dense urban areas are properly reflected in maps. We use a variety of tools and plan to share how they work and how anyone can use them. More widespread tools and programs for finding and fixing map data issues also will let anyone else contribute and improve the map too for whatever their interest or purpose may be. We have also helped improve water features and coastlines in many areas, which can be important for flood and disaster preparedness, agriculture, transport and more.
-  speakers: ["71"]
+    This talk will share lessons about the multi-years collective dynamics around OpenStreetMap which unfold in French-speaking southern countries of Africa and the Caribbean with the view of identifying paths for local OSM grassroots groups evolution towards formal OSMF local chapters. It has been some years that OSM and OMSF members have been discussing the topic of OSMF local chapters over emails, wiki, physically through BoF sessions at SotM events. This talk will share lessons that OSM and OSMF members can learn about the multi-years collective dynamics around OpenStreetMap which unfold in French-speaking southern countries of Africa and the Caribbean, where outreach, communication, mapping and training have been organized collectively from the start local OSM actions. These actions lead to first informal collective of mappers which organized internally over the years and for some incorporated as local associations mandated to the promotion and support of the OSM project playing the role of a de facto OSM Chapter. The talk will look at both these various collective practices and the OSMF requirements for local chapters in the light of this multi-years OSM associative experience with the view to identify itineraries to the building of OSMF local chapters.
+  subtype:
+  speakers: ["61"]
 -
   id: "070"
   title: "GPS on Public Transport,Passenger Perspective "
@@ -739,7 +749,7 @@
   description: |
     Il s'agira de présenter l'état de la carte du Bénin depuis l’année 2013 à ce jour grâce à l'effort de cartographie de la communauté osm Bénin à travers ses différentes activités ainsi que les projets auxquels elle apporté son appui        OSM Benin appui plusieurs projets de cartographie qui s'inscrivent dans l'aide à l'amélioration des conditions de vie des populations notamment dans le domaine de la santé, la prévention des risques et catastrophes ainsi que l’aide aux collectivités territoriales.. C’est ainsi que des quartiers dont les populations sont souvent marginalisée ou pas prises dans les plans de développement communaux.
   subtype:
-  speakers: ["70"]
+  speakers: ["68"]
 -
   id: "072"
   title: "Using street-level imagery in the fight against illegal waste dumping: Lessons from Uganda"
@@ -759,13 +769,12 @@
     As one can read, the 2019 SotM Africa's theme is clearly at the heart of the experience related in this talk."
   speakers: ["53"]
 -
-  id: "074"
-  title: "If you can’t save it, don’t kill it!"                   
+  id: "061"
+  title: "MapUganda"
   place: "ABISSA"
   description: |
-     This talk takes an in depth insight into bad and good practices in OpenStreetMap; focusing on both the community and the data. 
-  subtype:
-  speakers: ["18"]
+     This session will focus on the work MapUganda, the OSM local community in Uganda has done to promote the use of OSM. Looking at projects like clean streets, OpenMapping program, Uganda Flying labs.
+  speakers: ["65"]
 -
   id: "075"
   title: "Mapathon Mapathon Mapathon"
@@ -794,8 +803,7 @@
     - La contribution communautaire à la production des données ouvertes sur OSM: le cas du projet 2cities Boké-kamsar en Guinée 
       -  Le projet 2cities est une initiative du département d’état des États Unis d’Amérique. Il vise à contribuer à la production des données géographiques et le renforcement des capacités des acteurs locaux pour aider à la gouvernance des villes secondaires. Le présentation montera le rôle des acteurs.        Le projet 2cities vise à aider à la gouvernance des villes secondaires en mettant à disposition des donnés ouvertes et en renforçant les capacités des acteurs locaux. Une meilleure planification de la ville en utilisant les données géographiques permet d’inscrire la croissance des villes dans la durabilité et améliorer ainsi les conditions de vie des populations.
         (TOUPANE Tino Raphaël Nabib , Geosynapse Guinée , Guinee)
-    - Les mouvements du libre, quels défis pour l'Afrique ? Cas de open Street Maps et Wikimedia (Abdallah Azibert, Wikimedia, Tchad)
-  speakers: ["74", "75", "76"]
+  speakers: ["74", "75"]
 -
   id: "078"
   title: "Nomad Maps: meet the Andean communities of OpenStreetMap... by bike! - The documentary film"
@@ -805,13 +813,13 @@
   subtype:
   speakers: ["77"]
 -
-  id: "079"
-  title: "Achieving Sustainable Development Goals(SDGs) by mapping;A case of Tanzania"
+  id: "074"
+  title: "If you can’t save it, don’t kill it!"                   
   place: "GRAND-BASSAM"
   description: |
-    As our government is struggling to achieve the SDGs, Humanitarian OpenSteetMap Team(Tanzania) is also contributing to achieve through mapping. We are helping to make cities safe and resilient but also to reduce poverty, ensure healthy live and giving people access to electricity through mapping.
+     This talk takes an in depth insight into bad and good practices in OpenStreetMap; focusing on both the community and the data. 
   subtype:
-  speakers: ["78"]
+  speakers: ["18"]
 -
   id: "080"
   title: "Small Group Disussion Mapping for Land tenancy in Africa"
@@ -824,11 +832,12 @@
 
 # ------- 15:00 to 15:30 -------
 -
-  id: "081"
-  title: "Small Group Discussion YouthMappers in Africa: Regional ambassadors"
+  id: "087"
+  title: "Les mouvements du libre, quels défis pour l'Afrique ? Cas de Open Street Maps et Wikimedia"
   place: "AMPHITHÉÂTRE"
   description: 
-  speakers: []
+  subtype:
+  speakers: ["76"]
 -
   id: "082"
   title: "Malawi Mappers mobilize to improve Open Geospatial Data"
@@ -838,7 +847,7 @@
   speakers: ["79"]
 -
   id: "083"
-  title: "Workshop: OSM Governnance"
+  title: "Lightning talks: Agriculture"
   place: "GRAND-BASSAM"
   description: |
     - Use of Remote Sensing in Agriculture (MAKUATE Marie Brigitte, AFRIGIST, Cameroon)   
@@ -916,12 +925,31 @@
     - L’initiative Girlsmap au Togo et en Afrique (AKOUETE Ata Franck, OSM Togo, Togo)
   subtype:
   speakers: ["19", "20", "21"]
+
 -
-  id: "052"
-  title: "Lightning talks : Drones"            
-  place: "COMOE"
+  id: "034"
+  title: "Panel: Sustainability and OSM in Africa"
+  place: "AMPHITHÉÂTRE"
   description: |
-    - Africa Bees - Geonode business portal for Drone Mapping in Africa (Justin SAUNDERS, Africaabees, Malawi)
-    - A Drone Journey in Uganda (Kiggudde Deogratius, MapUganda, Uganda)
+    - Panelist 1  (Erica Hagen, Map Kibera Trust, USA)
+
+       In this interactive session, I will report on my research on sustainability of impact for OSM projects and organizations, conducted for Open Cities Africa with GFDRR at the World Bank. We will discuss challenges and tactics for sustaining mapping work and impact over time. Sustaining OSM mapping work and impacts of mapping projects can be a challenge. In order to truly transform lives, we need up to date data and sustained mapping. Many humanitarian and development oriented OSM mapping projects in Africa and elsewhere come and go dependent on short term goals, without a good plan for longer term impact of the map. Volunteers contribute but organized and comprehensive mapping of sectors like health, water, sanitation, education, and humanitarian sectors requires longer term sustainability. Achieving a stronger long-term impact will transform far more lives. This session will help participants think about challenges and tactics for sustaining the most important impacts of the great work they have been doing or want to do. 
+   
+    - Panelist 2  (Presenter name, organization, country)
   subtype:
-  speakers: ["64", "65"]
+  speakers: ["48", "49"]
+-
+  id: "063X"
+  title: "Map Kibera: learnings over a decade of slum mapping"
+  place: "GRAND-BASSAM"
+  description: |
+    "Map Kibera began 10 years ago, when young people from the Kibera slum of Nairobi put their community on OpenStreetMap. This session will discuss Map Kibera’s work over the past decade: where we started, obstacles and challenges along the way, accomplishments, and our vision for the future. 	For ten years, Map Kibera has worked with slumdwellers and other citizens to map their communities, and use open information for action and policy change. We always empower citizens to map their own communities, using OSM, discuss what they find, and engage policy makers and media to create local change. We have worked with themes like education, health and water to create maps that bring better services to slums like Kibera. Transforming lives by supporting community-driven mapping and use of open data has been our primary mission. Individual mappers trained in 2009 now lead the organization and train others throughout Kenya and beyond."
+  subtype:
+  speakers: ["48"]
+-
+  id: "069"
+  title: "Mapping Throughout Africa"
+  place: "AMPHITHÉÂTRE"
+  description: |
+     We plan to talk about Apple's work mapping on OpenStreetMap throughout Africa, including how we’ve worked with the local community, what we've mapped, where we’ve mapped, what our procedures are and what tools and techniques we use, such as Atlas, MapRoulette and more.         "With a more complete and accurate road network, more local organizations, local businesses, governments and humanitarian organizations can use OSM and use it more effectively. Better road coverage ensures that remote areas are on the map, and that dense urban areas are properly reflected in maps. We use a variety of tools and plan to share how they work and how anyone can use them. More widespread tools and programs for finding and fixing map data issues also will let anyone else contribute and improve the map too for whatever their interest or purpose may be. We have also helped improve water features and coastlines in many areas, which can be important for flood and disaster preparedness, agriculture, transport and more.
+  speakers: ["71"]
