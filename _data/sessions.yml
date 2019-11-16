@@ -274,9 +274,13 @@
       - Racky Ly(OSM CI) 
       - Hawa (OSM Guinée)  
       - Afoussatou (OSM Togo) 
+      - Christine Mhone (OSM Malawi) 
+      - Gertrude Namitala (OSM Zambia) 
+      
+    Moderator: Kone Maimouna
 
   subtype:
-  speakers: ["23", "85", "86", "1", "87", "88", "89"]
+  speakers: ["23", "85", "86", "1", "87", "88", "89", "79", "55"]
 -
   id: "016"
   title: "OSM and Urban planning"
