@@ -152,3 +152,54 @@
   bio: 
   social:
     - {name: "facebook", link: "https://www.facebook.com/marie.makuate"}
+    
+-
+  id: "14"
+  name: "Philippe Okoma"
+  surname: "Anebo"
+  title: "Local Organizing Committee"
+  thumbnailUrl: Anebo_Philippe_Okoma.jpg
+  type: team
+  bio: 
+  social:
+    - {name: "twitter", link: "https://twitter.com/anebophil"}
+-
+  id: "15"
+  name: "Emmanuel Bama"
+  surname: "Bama"
+  title: "Local Organizing Committee"
+  thumbnailUrl: EmmanuelBama.png
+  type: team
+  bio: 
+  social:
+    - {name: "twitter", link: "https://twitter.com/EmmanuelBama"}
+-
+  id: "16"
+  name: "Guy Maurel"
+  surname: "Konan"
+  title: "Local Organizing Committee"
+  thumbnailUrl: Guy_Maurel_Konan.jpg
+  type: team
+  bio: 
+  social:
+    - {name: "twitter", link: "https://twitter.com/konan_maurel"}
+-
+  id: "17"
+  name: "Aurelien"
+  surname: "Kouame"
+  title: "Local Organizing Committee"
+  thumbnailUrl: aurelien_kouame.jpg
+  type: team
+  bio: 
+  social:
+    - {name: "twitter", link: "https://twitter.com/AurelienKouame"}
+-
+  id: "18"
+  name: "Ly"
+  surname: "Racky"
+  title: "Local Organizing Committee"
+  thumbnailUrl: LyRacky.jpeg
+  type: team
+  bio: 
+  social:
+    - {name: "twitter", link: "https://twitter.com/LyRacky"}
