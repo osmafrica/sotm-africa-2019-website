@@ -534,8 +534,14 @@
 
 # ------- 14:30 to 15:00 -------
 
-# Small Group Discussion YouthMappers in Africa (AMPHITHÉATRE) (id: 081)
-# None (ABISSA)
+# None(AMPHITHÉATRE)
+-
+  id: "088"
+  title: "Land and Technology - Contributing for Sustainability, Peace and Justice."
+  place: "ABISSA"
+  description: 
+  subtype:
+  speakers: ["95"]
 # AFD Workshop (GRAND-BASSAM) (id: 027)
 # Facebook's RapiD (COMOE) (id: 026)
 -
