@@ -7,3 +7,4 @@
     - {name: "OSM Foundation", description: "Supporter", link: "https://wiki.osmfoundation.org/wiki/Main_Page"}
     - {name: "AfroAI", description: "Supporter", link: "https://afroai.de/"}
     - {name: "OSGeo", description: "Supporter", link: "https://www.osgeo.org/", imageUrl: "osgeo.png"}
+    - {name: "OMA", description: "Supporter", link: "https://openlab-cb.michelin.com/", imageUrl: ""}
