@@ -759,7 +759,9 @@
   company: "OSM CI"
   title: ""
   bio: 
-  thumbnailUrl: dummu.png
+  thumbnailUrl: LyRacky.jpeg
+  social:
+    - {name: "twitter", link: "https://twitter.com/LyRacky"}
 -
   id: "88"
   name: "Hawa"
@@ -806,7 +808,7 @@
   name: "Federico"
   surname: "Debetto"
   company: "KMedia SAS, Italy"
-  title: "OpenStreetMap Founder"
+  title: ""
   bio: 
   thumbnailUrl: dummu.png
 -

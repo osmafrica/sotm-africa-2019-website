@@ -116,7 +116,7 @@
   id: "10"
   name: "Samaila"
   surname: "Aliou"
-  title: "Program and Scholarships Committee"
+  title: "Programs and Scholarships Committee"
   thumbnailUrl: Samaila_Aliou.jpg
   type: committee
   bio: 
@@ -126,7 +126,7 @@
   id: "11"
   name: "Poncelet"
   surname: "Ileleji"
-  title: "Program and Scholarships Committee"
+  title: "Programs and Scholarships Committee"
   thumbnailUrl: Poncelet_Ileleji.jpg
   type: committee
   bio: 
@@ -203,3 +203,23 @@
   bio: 
   social:
     - {name: "twitter", link: "https://twitter.com/LyRacky"}
+-
+  id: "19"
+  name: "Tshedy"
+  surname: "Thobei"
+  title: "Programs Committee"
+  thumbnailUrl: TshedyTsobei.jpeg
+  type: committee
+  bio: 
+  social:
+    - {name: "twitter", link: "https://twitter.com/Tshedy4"}
+-
+  id: "20"
+  name: "Jallow"
+  surname: "Jaria"
+  title: "Programs Committee"
+  thumbnailUrl: JallowJaria.jpg
+  type: committee
+  bio: 
+  social:
+    - {name: "twitter", link: "https://twitter.com/JallowJaria"}
