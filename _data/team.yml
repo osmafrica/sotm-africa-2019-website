@@ -223,3 +223,78 @@
   bio: 
   social:
     - {name: "twitter", link: "https://twitter.com/JallowJaria"}
+-
+  id: "21"
+  name: "Julien N'guessan"
+  surname: "Tayoro"
+  type: volunteer
+-
+  id: "22"
+  name: "Marie Noëlle"
+  surname: "Bassouhoke Zhou"
+  type: volunteer
+-
+  id: "23"
+  name: " Frederic Patrick Ehounou Boklogni"
+  surname: "Yao"
+  type: volunteer
+-
+  id: "24"
+  name: "Ahintai Danielle Andréa"
+  surname: "Adja"
+  type: volunteer
+-
+  id: "25"
+  name: "Affoue Viviane"
+  surname: "Zoni"
+  type: volunteer
+-
+  id: "26"
+  name: "Stephane Suarès"
+  surname: "Koffi"
+  type: volunteer  
+-
+  id: "27"
+  name: "Noura"
+  surname: "Coulibaly"
+  type: volunteer  
+-
+  id: "28"
+  name: "Mariama"
+  surname: "Kone"
+  type: volunteer  
+-
+  id: "29"
+  name: "Jean-Phillipe"
+  surname: "Koffi"
+  type: volunteer  
+-
+  id: "30"
+  name: "Kouame Olivier"
+  surname: "Kouassi"
+  type: volunteer 
+-
+  id: "31"
+  name: "Bedel Wilfried"
+  surname: "Zely"
+  type: volunteer 
+-
+  id: "32"
+  name: "Nignonzie"
+  surname: "Coulibaly"
+  type: volunteer 
+-
+  id: "33"
+  name: "Gnelfandji Daniel"
+  surname: "Coulybali"
+  type: volunteer 
+-
+  id: "32"
+  name: " Sandrine"
+  surname: "Yao N'dri"
+  type: volunteer 
+-
+  id: "33"
+  name: "Leaticia"
+  surname: "Kadio"
+  type: volunteer 

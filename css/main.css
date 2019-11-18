@@ -4702,6 +4702,27 @@ nav li a:hover {
     -webkit-box-orient: vertical
 }
 
+.volunteer {
+    margin-top: 15px;
+}
+
+.volunteer h2 {
+
+    font-size: 16px;
+    font-weight: 400;
+    word-spacing: -1px;
+    text-transform: uppercase;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+        transition-delay: 0s;
+    -webkit-transform: translateY(-250%);
+    transform: translateY(-250%);
+    -webkit-transition-delay: .05s;
+    transition-delay: .05s;
+    color:#0cb851;
+
+}
+
 .lily-effect {
     margin-bottom: 26px;
     cursor: pointer;
