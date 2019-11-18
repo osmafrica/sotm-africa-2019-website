@@ -827,3 +827,13 @@
   thumbnailUrl: Stellamaris_Wavamunno.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/Stella_Wava"}
+-
+  id: "96"
+  name: "Stephen Mawutor"
+  surname: "Donkor"
+  company: "Stevdok, Ghana"
+  title: ""
+  bio: 
+  thumbnailUrl: StephenDonkor.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/stevdok"}
