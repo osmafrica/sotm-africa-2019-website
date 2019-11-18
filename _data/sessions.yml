@@ -352,7 +352,7 @@
 # WB SIDE EVENT UR - OPEN CITIES AFRICA (ABISSA) (id: 054)
 -
   id: "027"
-  title: "Workshop: OSM for Transport Technical Session(AFD, France)"
+  title: "Workshop: OSM for Transport Technical Session (AFD, France)"
   place: "GRAND-BASSAM"
   description: 
   subtype:
@@ -439,7 +439,9 @@
   title: "Supporting Community-Run Tourism in Larabanga, Ghana: Information Infrastructure"
   place: "AMPHITHÉÂTRE"
   description: |
-    This session describes the IT infrastructure to support the community-run tourism initiative in Larabanga, in particular the FOSS tools for producing the webmap and managing dataflows. A hallmark of this effort is absolutely minimizing the need for writing program code.
+    This session describes the IT infrastructure underlying the community-run tourism initiative in Larabanga, in particular the FOSS tools for producing the web map and managing dataflows. The hallmark of this effort is absolutely minimizing the need for (1) writing -- and thus maintaining -- program code and (2) fully automating all data handling procedures by using advanced ETL tools. 
+    This session will show how the information infrastructure for the town map -- the website centerpiece -- and other tourist information has been constructed. i.e. the software tools and dataflows implemented using QGIS/QGIS Server, Liz map, PostgreSQL/PostGIS and Pentaho DI (Community Edition) on Ubuntu. By reducing operational complexity, the aim is to simplify knowledge transfer to local participants and create sufficient expertise to stimulate ideas for re-use of the technology in future town projects.
+    The dynamics of the community-run tourism project itself, carried out by the LECLARA collective in Larabanga, are described in an accompanying session (by Abusco Seidu) at this SOTM-Africa.
   subtype:
   speakers: ["54"]
 # WB SIDE EVENT UR - OPEN CITIES AFRICA (ABISSA) (id: 054)
