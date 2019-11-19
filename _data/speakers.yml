@@ -480,7 +480,7 @@
   company: "LIEI-Larabanga, Germany"
   title: ""
   bio: 
-  thumbnailUrl: dummu.png
+  thumbnailUrl: DanzigierRobertC.jpg
 -
   id: "55"
   name: "Gertrude"
@@ -804,14 +804,6 @@
   bio: 
   thumbnailUrl: dummu.png
 -
-  id: "93"
-  name: "Steve"
-  surname: "Coast"
-  company: 
-  title: "OpenStreetMap Founder"
-  bio: 
-  thumbnailUrl: dummu.png
--
   id: "94"
   name: "Federico"
   surname: "Debetto"
@@ -831,6 +823,16 @@
     - {name: "twitter", link: "https://twitter.com/Stella_Wava"}
 -
   id: "96"
+  name: "Stephen Mawutor"
+  surname: "Donkor"
+  company: "Stevdok, Ghana"
+  title: ""
+  bio: 
+  thumbnailUrl: StephenDonkor.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/stevdok"}
+-
+  id: "97"
   name: "PK"
   surname: "Odame"
   company: "YouthmapperUCC, Ghana"
@@ -838,7 +840,7 @@
   bio: 
   thumbnailUrl: dummu.png
 -
-  id: "97"
+  id: "98"
   name: "Darkwah Manu"
   surname: "Samuel"
   company: "OSM Ghana"
