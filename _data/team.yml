@@ -298,3 +298,13 @@
   name: "Leaticia"
   surname: "Kadio"
   type: volunteer 
+-
+  id: "34"
+  name: "Stella"
+  surname: "Wavamun"
+  title: "Programs Committee"
+  thumbnailUrl: Stellamaris_Wavamunno.jpg
+  type: committee
+  bio: 
+  social:
+    - {name: "twitter", link: "https://twitter.com/Stella_Wava"}
