@@ -2,13 +2,13 @@
 -
   date: "2019-11-22T00:00:00-04:00"
   tracks:
-    - {title: "Salle 1 (Room1)", color: "#03a9f4"}
-    - {title: "Salle 2 (Room2)", color: "#90be4e"}
-    - {title: "Salle 3 (Room3)", color: "#90be4e"}
-    - {title: "Salle 4 (Room4)", color: "#90be4e"}
-    - {title: "Salle 5 (Room5)", color: "#90be4e"} 
-    - {title: "Salle 6 (Room6)", color: "#fbac3f"}
-    - {title: "Outdoor", color: "#90be4e"}
+    - {title: "Salle 1 (Room1)", color: "#f77f00"}
+    - {title: "Salle 2 (Room2)", color: "#0cb851"}
+    - {title: "Salle 3 (Room3)", color: "#f77f00"}
+    - {title: "Salle 4 (Room4)", color: "#0cb851"}
+    - {title: "Salle 5 (Room5)", color: "#f77f00"} 
+    - {title: "Salle 6 (Room6)", color: "#0cb851"}
+    - {title: "Outdoor", color: "#f77f00"}
   timeslots:
     - {
       startTime: "22019-11-22T08:00:00-04:00",
@@ -60,11 +60,11 @@
 -
   date: "2019-11-23T00:00:00-04:00"
   tracks:
-    - {title: "AMPHITHÉÂTRE", color: "#fbac3f"}
-    - {title: "ABISSA", color: "#90be4e"}
-    - {title: "GRAND-BASSAM", color: "#90be4e"}
-    - {title: "COMOE", color: "#90be4e"}
-    - {title: "CAVALLY", color: "#03a9f4"}
+    - {title: "AMPHITHÉÂTRE", color: "#f77f00"}
+    - {title: "ABISSA", color: "#0cb851"}
+    - {title: "GRAND-BASSAM", color: "#f77f00"}
+    - {title: "COMOE", color: "#0cb851"}
+    - {title: "CAVALLY", color: "#f77f00"}
   timeslots:
     - {
       startTime: "2019-11-23T08:30:00-04:00",
@@ -156,10 +156,10 @@
 -
   date: "2019-11-24T00:00:00-04:00"
   tracks:
-    - {title: "AMPHITHÉÂTRE", color: "#fbac3f"}
-    - {title: "ABISSA", color: "#03a9f4"}
-    - {title: "GRAND-BASSAM", color: "#90be4e"}
-    - {title: "COMOE", color: "#90be4e"}
+    - {title: "AMPHITHÉÂTRE", color: "#f77f00"}
+    - {title: "ABISSA", color: "#0cb851"}
+    - {title: "GRAND-BASSAM", color: "#f77f00"}
+    - {title: "COMOE", color: "#0cb851"}
 
   timeslots:
     - {

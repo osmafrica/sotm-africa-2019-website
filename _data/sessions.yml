@@ -385,13 +385,12 @@
 # AFD Workshop (GRAND-BASSAM) (id: 027)
 -
   id: "036"
-  title: "Understanding geographical access to primary healthcare in Ifanadiana, Madagascar"
+  title: "Open Cities Accra - Building skills, data, and networks to support disaster risk management"
   place: "COMOE"
   description: |
-    This talk presents a project that uses OpenStreetMap and remote sensing to obtain a precise understanding of travel pathways (mostly by foot) and time required to reach the nearest health facility for all communities in a rural district of Madagascar, helping prioritize local health interventions. Poverty and physical accessibility to health facilities are among the most common barriers for remote rural populations to access care in low-income countries, with populations having to walk hours by foot to receive primary care. Nowadays, it is possible to refine measures of access to health care through a precise account of geographical barriers. However, this requires high-resolution data on travel pathways that is rarely available in these settings. 
-    In the district of Ifanadiana, the NGO PIVOT is working with the Ministry of Health since 2014 to strengthen the health system. PIVOT needs precise estimates of travel distance and time to reach health facilities for every community, in order to improve care delivery for remote populations (e.g. through community health, or mobile teams). For this, we mapped all paths, roads, buildings, and residential areas in the district using OpenStreetMap and we used remote sensing and geomatics to characterize geographical barriers. 
+    Open Cities Accra will create a detailed and accurate map of selected areas in Accra, as well as build the capacity of stakeholders within government institutions. This will help government stakeholders to make data-driven decisions to improve the lives of local populations.
   subtype:
-  speakers: ["51"]
+  speakers: ["97"]
 
 -
   id: "024"
@@ -483,11 +482,11 @@
 # AFD Workshop (GRAND-BASSAM) (id: 027)
 -
   id: "028"
-  title: "The provision of solid waste collection in African cities and a tripling of revenue collection, Depends on current Clients tagging Maps. "
+  title: "Leveraging digital technology for sustainable agriculture in Northern Ghana: The UCC Youthmappers experience."
   place: "COMOE"
   description: |
-    How can Open StreetMap communities and physical application of maps make Africa continents  Zero waste, The provision of sustainable solid waste collection  in African cities  (informal and Formal settlements) and a tripling of revenue collection, Depends on current Clients tagging Maps
-  speakers: ["82"]
+    
+  speakers: ["96"]
   subtype: 
 -
   id: "040"
@@ -603,7 +602,8 @@
 # ------- 16:00 to 17:00 -------
 -
   id: "055"
-  title: "Mapathon! Mapathon!! Mapathon!!!"            
+  title: "Mapathon! Mapathon!! Mapathon!!!" 
+  service: true           
   place: "AMPHITHÉÂTRE"
   description:
   subtype:
@@ -612,7 +612,8 @@
 # ------- 17:00 to 17:30 -------
 -
   id: "056"
-  title: "Closing Remarks"            
+  title: "Closing Remarks"
+  service: true            
   place: "AMPHITHÉÂTRE"
   description:
   subtype:
@@ -621,7 +622,8 @@
 # ------- 17:30 to 18:30 -------
 -
   id: "0SE"
-  title: "Social Event"            
+  title: "Social Event"
+  service: true            
   place: "AMPHITHÉÂTRE"
   description:
   subtype:
@@ -899,6 +901,7 @@
 -
   id: "085"
   title: "Closing ceremony"
+  service: true
   place: 
   description: 
   subtype:
@@ -906,6 +909,7 @@
 -
   id: "086"
   title: "Football MatchOSM Ivory Coast Vs Rest of the World"
+  service: true
   place: 
   description: 
   subtype:

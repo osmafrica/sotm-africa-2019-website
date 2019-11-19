@@ -148,7 +148,7 @@
   name: "Claire"
   surname: "Halleux"
   title: ""
-  company: "World Resource Institute, DRC"
+  company: "OSM DRC"
   bio: 
   thumbnailUrl: dummu.png
 -
@@ -831,3 +831,19 @@
   thumbnailUrl: StephenDonkor.png
   social:
     - {name: "twitter", link: "https://twitter.com/stevdok"}
+-
+  id: "97"
+  name: "PK"
+  surname: "Odame"
+  company: "YouthmapperUCC, Ghana"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
+-
+  id: "98"
+  name: "Darkwah Manu"
+  surname: "Samuel"
+  company: "OSM Ghana"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
