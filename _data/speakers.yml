@@ -847,3 +847,14 @@
   title: ""
   bio: 
   thumbnailUrl: dummu.png
+-
+  id: "99"
+  name: "Laura"
+  surname: "Mugeha"
+  company: "Kenya"
+  title: ""
+  bio: 
+  thumbnailUrl: LauraMugeha.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/laura_mugeha"}
+    - {name: "site", link: "https://www.youthmappers.org/regional-ambassadors"}   
