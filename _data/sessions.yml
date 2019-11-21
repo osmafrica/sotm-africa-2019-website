@@ -486,7 +486,7 @@
   place: "COMOE"
   description: |
     
-  speakers: ["98"]
+  speakers: ["97"]
   subtype: 
 -
   id: "040"
@@ -855,9 +855,8 @@
   place: "COMOE"
   description: |
     - Farirai Mageza, Youth Agrarian Society, Zimbabwe
-    - Tapuwa Nzara, Zambia Land Aliance, Zambia
   subtype:
-  speakers: ["44", "43"]
+  speakers: ["44"]
 
 # ------- 15:00 to 15:30 -------
 -
