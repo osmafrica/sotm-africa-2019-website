@@ -192,13 +192,6 @@
   title: "Rock around SDG's with OSM"
   place: "Salle 6"
   description: |    
-    **Usability of OpenStreetMap data (Justus Muhando, Spatial Collectives, Kenya)**
-
-      Most African countries are facing a similar data problem; unavailable authoritative data sources and high costs of acquisitions of the data. As such, for the past few years, Africa has been an active ground for mapping activities driven by the imperative need for geospatial data for various applications in disaster resilience, community empowerment initiatives, humanitarian efforts, entrepreneurship amongst others. All these applications are in various ways geared towards transforming lives of all actors. However, the impact of transformation is correlated by the quality of volunteered geographic information. For example, incorrectly mapped roads could hamper search and rescue missions in times of disaster. 
-      
-      My proposal aims to evaluate existing volunteered geographic information and comment on its usability for specific applications. Insights from the proposal could also be used to develop local user guidelines to data contribution which would improve data quality.
-
-    _______________________________________________________________________________
 
     **Localizing the Global Goals through Citizen Led City Mapping (Michael Diala, UN SDSN, Nigeria)**
 
@@ -212,7 +205,7 @@
       
       It will also be a question of presenting the collaborative work bringing together, OSM community, local authorities represented by  the Regional Development Agency and citizens to achieve a common objective, from training, to data collection, editions and data reuse.
   subtype:
-  speakers: ["26", "27", "23"]
+  speakers: ["27", "23"]
 -
   id: "012"
   title: "Open Innovation Demo All Day"
@@ -673,6 +666,32 @@
   subtype:
   speakers: ["18"]
 
+-
+  id: "091"
+  title: "Open Data and African Communities"            
+  place: "COMOE"
+  description: |
+    In a time of disruptive digital revolution in Africa, we must think inclusiveness and ensure
+    urban, semi-urban, rural and even slum communities are carried along as resources and
+    opportunities are abundant in these grassroots.
+
+    We need to embrace an Open data culture to spur innovation and connect communities
+    through technology in other to harmonize resources domicile in them, mostly in its
+    unrefined State. With support from the Humanitarian OpenStreetMap and The Pulitzer
+    Center on Crisis Reporting, we created the first open mapping community from one of
+    Africa’s Largest slum on the Lagoon -Makoko currently mapping their community.
+
+    Code for Africa, through its Dominion land right project of which MapMakoko is a part of,
+    injects data-driven evidence and analysis into the public discourse policy-setting across the
+    continent.
+
+    Code for Africa, is a federation of indigenous civic tech labs in 9 countries: Ghana, Kenya,
+    Morocco, Nigeria, Sierra Leone, Senegal, South Africa, Tanzania, and Uganda, operating
+    alongside a sister network of independent investigative newsrooms in 22 countries.
+
+  subtype:
+  speakers: ["100"]
+
 
 # ------- 11:30 to 12:00 -------
 -
@@ -885,10 +904,14 @@
   speakers: ["80", "81"]
 -
   id: "084"
-  title: "Mapping recent landuse changes"
+  title: "Thirsty? Drinking water tagging in Africa."
   place: "COMOE"
   description: |
-    How to make the best use of LandSat and Sentinel free imagery resources while mapping recent landuse changes in OSM? We'll talk about SDG 15, logging roads, artisanal mining sites, protected areas, industrial agriculture, deforestation and more.        This session will explain how satellite data, crowdmapping and AI can support the sustainable management of natural resources. Examples of how OSM data has helped environment actors and administrations in Central Africa will be presented.
+    amenity=drinking_water, amenity=water_point, watsan:water_private=yes, drinking_water:legal=yes, man_made...
+
+    Water related tags are numerous in OpenStreetMap and, while water supply remains a key challenge in many places across Africa, we found relevant to organize a discussion about those tags: to clarify some of them, clear misuses or contradictions, and improve documentation adding the African context or nuances that is still missing in most wikipages on the subject.
+   
+    The result of this discussion is planned to eventually end on the tagging list to define a clearer and more usable standard data model and documentation, to facilitate data usage and therefore future data updates.
   subtype:
   speakers: ["17"]
 -

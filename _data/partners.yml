@@ -9,10 +9,6 @@
      - {name: "Facebook", description: "Sponsor", link: "https://www.facebook.com/", imageUrl: "Facebook-06-2015-White-on-Blue.png"}
      - {name: "AFD", description: "Sponsor", link: "https://www.afd.fr/en", imageUrl: "afd.png"}
 -
-  group: "Gold Sponsors"
-  elements:
-    - {name: "Your logo here", description: "Sponsor", link: "/sponsorship", imageUrl: "sponsors.png"}
--
   group: "Silver Sponsors"
   elements:
     - {name: "Michelin", description: "Michelin", link: "https://www.michelin.com/", imageUrl: "michelin.svg"}
