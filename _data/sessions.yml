@@ -122,8 +122,12 @@
 
     **Contribution des données OSM pour la lutte contre le VIH sida et utilisation des données OSM dans la plate-forme OpenDCH
         (ABEDJE NESIT BÉRENGER , Development Gateway, Cote d ivoire)**
+
+    _______________________________________________________________________________
+
+    **Fighting FGM with maps (Crowd2Map, Laura Mugeha)**
   subtype:
-  speakers: ["9", "10", "11", "12", "13"]
+  speakers: ["9", "10", "11", "12", "13", "99"]
 -
   id: "009"
   title: "Les données OSM pour le suivi d'occupation du sol./ OSM data for Landuse applications."
