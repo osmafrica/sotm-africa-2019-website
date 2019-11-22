@@ -866,3 +866,14 @@
   title: ""
   bio: 
   thumbnailUrl: dummu.png
+-
+  id: "101"
+  name: "Sharon"
+  surname: "Omojah"
+  title: "Scholarship Committee"
+  thumbnailUrl: SharonOmojah.jpeg
+  type: committee
+  bio: |
+    GIS Analyst and Remote Sensing specialist|Trainer at OSM Kenya
+  social:
+    - {name: "twitter", link: "https://twitter.com/SharonKE_"}
