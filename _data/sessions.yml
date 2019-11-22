@@ -666,6 +666,32 @@
   subtype:
   speakers: ["18"]
 
+-
+  id: "091"
+  title: "Open Data and African Communities"            
+  place: "COMOE"
+  description: |
+    In a time of disruptive digital revolution in Africa, we must think inclusiveness and ensure
+    urban, semi-urban, rural and even slum communities are carried along as resources and
+    opportunities are abundant in these grassroots.
+
+    We need to embrace an Open data culture to spur innovation and connect communities
+    through technology in other to harmonize resources domicile in them, mostly in its
+    unrefined State. With support from the Humanitarian OpenStreetMap and The Pulitzer
+    Center on Crisis Reporting, we created the first open mapping community from one of
+    Africa’s Largest slum on the Lagoon -Makoko currently mapping their community.
+
+    Code for Africa, through its Dominion land right project of which MapMakoko is a part of,
+    injects data-driven evidence and analysis into the public discourse policy-setting across the
+    continent.
+
+    Code for Africa, is a federation of indigenous civic tech labs in 9 countries: Ghana, Kenya,
+    Morocco, Nigeria, Sierra Leone, Senegal, South Africa, Tanzania, and Uganda, operating
+    alongside a sister network of independent investigative newsrooms in 22 countries.
+
+  subtype:
+  speakers: ["100"]
+
 
 # ------- 11:30 to 12:00 -------
 -

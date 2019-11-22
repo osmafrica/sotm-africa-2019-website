@@ -858,3 +858,11 @@
   social:
     - {name: "twitter", link: "https://twitter.com/laura_mugeha"}
     - {name: "site", link: "https://www.youthmappers.org/regional-ambassadors"}   
+-
+  id: "100"
+  name: "John "
+  surname: "Eromosele"
+  company: "Code For Nigeria"
+  title: ""
+  bio: 
+  thumbnailUrl: dummu.png
