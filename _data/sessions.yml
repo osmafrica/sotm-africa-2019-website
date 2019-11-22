@@ -339,9 +339,11 @@
 # WB SIDE EVENT UR - OPEN CITIES AFRICA (ABISSA) (id: 054)
 -
   id: "027"
-  title: "Workshop: OSM for Transport Technical Session (AFD, France)"
+  title: "Thématique OpenStreetMap4Transport : ouverture"
   place: "GRAND-BASSAM"
-  description: 
+  description: |
+    - Tania Norotte (AFD)
+    - Johan Richer, Julien de Labaca (Fabrique des mobilités))
   subtype:
   speakers: []
 -
@@ -369,7 +371,20 @@
 
 # Worshop: ML Tools (AMPHITHÉÂTRE) (id: 022)
 # WB SIDE EVENT UR - OPEN CITIES AFRICA (ABISSA) (id: 054)
+
 # AFD Workshop (GRAND-BASSAM) (id: 027)
+-
+  id: "093"
+  title: "Thématique OpenStreetMap4Transport : retours d’expérience – Abidjan (projet AFD) Représentants de la DGTTC"
+  place: "COMOE"
+  description: |
+    - Florian Launez 
+    - Noémie Lehuby (Jungle Bus)
+    - Racky Ly
+    - Philippe Okoma (OSM Côte d’Ivoire)
+  subtype:
+  speakers: []
+
 -
   id: "036"
   title: "Open Cities Accra - Building skills, data, and networks to support disaster risk management"
@@ -401,6 +416,15 @@
 # WB SIDE EVENT UR - OPEN CITIES AFRICA (ABISSA) (id: 054)
 # AFD Workshop (GRAND-BASSAM) (id: 027)
 -
+  id: "094"
+  title: "Thématique OpenStreetMap4Transport : retours d’expérience Accra (projet AFD), Freetown "
+  place: "COMOE"
+  description: |
+    - Florian Launez, Noémie Lehuby (Jungle Bus), Enock Nyamador (OSM Ghana)
+    - Freetown (Projet Banque mondiale) – Vivien Deparday (GFDRR)"
+  subtype:
+  speakers: []
+-
   id: "037"
   title: "How to Involve Africa Openstreetmap French community"
   place: "COMOE"
@@ -431,6 +455,15 @@
 # WB SIDE EVENT UR - OPEN CITIES AFRICA (ABISSA) (id: 054)
 # AFD Workshop (GRAND-BASSAM) (id: 027)
 -
+  id: "095"
+  title: "Thématique OpenStreetMap4Transport : retours d’expérience Bamako et Antananarivo"
+  description: |
+    - Bamako (projet Banque mondiale)  Nathalie Sidibé (OSM Mali), Emmanuel Bama (BilletExpress)
+    - Antananarivo  - Andriatsiferana Manda, Brice Ramamonjy (OSM Madagascar)"
+  place: "COMOE"
+  subtype:
+  speakers: []
+-
   id: "079"
   title: "Achieving Sustainable Development Goals(SDGs) by mapping;A case of Tanzania"
   place: "COMOE"
@@ -455,6 +488,15 @@
 
 # WB SIDE EVENT UR - OPEN CITIES AFRICA (ABISSA) (id: 054)
 # AFD Workshop (GRAND-BASSAM) (id: 027)
+-
+  id: "096"
+  title: "Thématique OpenStreetMap4Transport : retours d’expérience Dakar et Conakry"
+  place: "COMOE"
+  description: |
+    - Dakar – Amadou Ndong (OSM Sénégal)
+    - Conakry (OSM Guinée)"
+  subtype:
+  speakers: []
 -
   id: "028"
   title: "Leveraging digital technology for sustainable agriculture in Northern Ghana: The UCC Youthmappers experience."
@@ -491,6 +533,16 @@
 
 # AFD Workshop (GRAND-BASSAM) (id: 027)
 -
+  id: "097"
+  title: "Thématique OpenStreetMap4Transport : session gouvernance de la mise en œuvre de projet O4T – Typologie des retours d’expérience O4T et niveaux d’actions (communauté, OSMF, acteurs économiques) "
+  place: "COMOE"
+  description: |
+    - Nicolas Chavent
+    -  Séverin Ménard (Les Libres Géographes)
+    
+  subtype:
+  speakers: []
+-
   id: "026"
   title: "Workshop: Using AI to Map the World with RapiD editor (Facebook)"
   place: "COMOE"
@@ -522,6 +574,16 @@
   subtype:
   speakers: ["54"]
 # AFD Workshop (GRAND-BASSAM) (id: 027)
+-
+  id: "098"
+  title: "Thématique OpenStreetMap4Transport : session gouvernance de la mise en œuvre de projet O4T – Typologie de retours d’expérience hors O4T"
+  place: "COMOE"
+  description: |
+    - Nicolas Chavent
+    - Séverin Ménard (Les Libres Géographes)
+  subtype:
+  speakers: []
+
 # Facebook's RapiD (COMOE) (id: 026)
 -
   id: "043"
@@ -556,6 +618,13 @@
 
 # AFD Workshop  (GRAND-BASSAM)
 -
+  id: "099"
+  title: "Thématique OpenStreetMap4Transport : session gouvernance de la mise en œuvre de projet O4T – synthèse approche/modèle réplicable"
+  place: "COMOE"
+  description: |
+  subtype:
+  speakers: []
+-
   id: "035"
   title: "How OSM is used in Spatial Planning in Lesotho"
   place: "COMOE"
@@ -586,6 +655,14 @@
   title: "Mapathon! Mapathon!! Mapathon!!!" 
   service: true           
   place: "AMPHITHÉÂTRE"
+  description:
+  subtype:
+  speakers: []
+-
+  id: "100"
+  title: "Thématique OpenStreetMap4Transport : session technique sur les méthodes et outils utilisés dans le cadre d’un projet O4T" 
+  service: true           
+  place: "ABISSA"
   description:
   subtype:
   speakers: []
