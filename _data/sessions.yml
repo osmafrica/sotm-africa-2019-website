@@ -762,6 +762,13 @@
 
   subtype:
   speakers: ["100"]
+-
+  id: "101"
+  title: "Project Carto-Tourisme"            
+  place: "COMOE"
+  description: |
+  subtype:
+  speakers: ["103"]
 
 
 # ------- 11:30 to 12:00 -------
@@ -902,7 +909,7 @@
   place: "COMOE"
   description: |
   subtype:
-  speakers: ["73"]
+  speakers: ["102"]
 
 # ------- 14:30 to 15:00 -------
 -
