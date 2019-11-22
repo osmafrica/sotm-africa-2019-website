@@ -178,15 +178,8 @@
 
       Let Girls Map is a campaign to amplify the voices of female student mappers. It is a way to encourage more diverse contributions into OSM.
     
-    _______________________________________________________________________________
 
-    **Improving data, developing your skills!  (Claire Halleux, OSM RDC, DRC)**
-
-      In many places with young OSM communities, quality analysis seems to be mainly done through tasking manager remote validators, with still very little local "Data gardening". Why should we care about data quality? And how to do it practically and still have some fun? Quality control is crucial and highly necessary in about all mapping projects that intend to transform lives. If a well-intentioned project produces a very high amount of bad quality data, it can actually do more harm than good. First because the data can simply be unusable by the targeted users (for instance during emergency mapping in activations). Second because it might require much more time to correct it than it would have taken to trace it correctly in the first place. Third because it can also affect the reputation of the database and mappers.
-        
-      But spending time on quality control/analysis and corrections isn't only good for the data, it also helps mappers to develop their own skills. Crowdmapping is sometimes seen as something too easy and simple. This session intends to show you some ways in which you could deepen and broaden your skills. And therefore how mapping can change a little bit of your own life.
-
-  speakers: ["19", "21", "20","17"]
+  speakers: ["19", "21", "20"]
 -
   id: "011"
   title: "Rock around SDG's with OSM"
@@ -1019,3 +1012,14 @@
     gleam on such kind of sustainable mapping approach.
   subtype: 
   speakers: ["95"]
+-
+  id: "092"
+  title: "Improving data, developing your skills!  (Claire Halleux, OSM RDC, DRC)"            
+  place: "COMOE"
+  description: |
+    In many places with young OSM communities, quality analysis seems to be mainly done through tasking manager remote validators, with still very little local "Data gardening". Why should we care about data quality? And how to do it practically and still have some fun? Quality control is crucial and highly necessary in about all mapping projects that intend to transform lives. If a well-intentioned project produces a very high amount of bad quality data, it can actually do more harm than good. First because the data can simply be unusable by the targeted users (for instance during emergency mapping in activations). Second because it might require much more time to correct it than it would have taken to trace it correctly in the first place. Third because it can also affect the reputation of the database and mappers.
+        
+    But spending time on quality control/analysis and corrections isn't only good for the data, it also helps mappers to develop their own skills. Crowdmapping is sometimes seen as something too easy and simple. This session intends to show you some ways in which you could deepen and broaden your skills. And therefore how mapping can change a little bit of your own life.
+
+  subtype:
+  speakers: ["100"]
