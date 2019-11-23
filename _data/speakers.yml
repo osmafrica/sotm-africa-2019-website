@@ -611,12 +611,12 @@
   thumbnailUrl: HermanKass.jpg
 -
   id: "70"
-  name: "Samaila"
-  surname: "Aliou"
+  name: "Mahamane"
+  surname: "Abdoulkader Moustapha"
   company: "OSM Niger, Niger"
   title: ""
   bio: 
-  thumbnailUrl: Samaila_Aliou.jpg
+  thumbnailUrl: dummu.png
 -
   id: "71"
   name: "Andrew"
@@ -893,3 +893,13 @@
   title: ""
   bio: 
   thumbnailUrl: dummu.png
+-
+  id: "104"
+  name: "Geoffrey"
+  surname: "Kateregga"
+  company: "HOT Uganda"
+  title: ""
+  thumbnailUrl: GeoffreyKateregga.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/kateregga1"}
+    - {name: "github", link: "https://github.com/kateregga1"}
