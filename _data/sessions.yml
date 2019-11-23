@@ -761,6 +761,22 @@
   subtype:
   speakers: ["100"]
 -
+  id: "102"
+  title: "Keynote, Nathalie SIDIBE (OSM Mali)"    
+  service: true        
+  place: "AMPHITHÉÂTRE"
+  description: |
+  subtype:
+  speakers: []
+-
+  id: "103"
+  title: "HOT Microgrants 2020"          
+  place: "AMPHITHÉÂTRE"
+  description: |
+    Microgrants are small grants of US$2,000–$7,000 provided to community-designed and led projects. These projects create and use map data to solve challenges affecting those living in the community, from seasonal flooding and wildfires to preventing gender-based violence and responding to disease outbreaks. Since the HOT Microgrants program started in 2017, gifts from individuals and corporate partners have provided over US$100,000 to 24 local OpenStreetMap communities around the world.
+  subtype:
+  speakers: ["104"]
+-
   id: "101"
   title: "Project Carto-Tourisme"            
   place: "COMOE"
