@@ -254,13 +254,13 @@ textarea {
 }
 
 a {
-    color: #0cb851;
+    color: #f77f00;
     text-decoration: none
 }
 
 a:focus,
 a:hover {
-    color: #077031;
+    color: #f77f00;
     text-decoration: underline
 }
 
@@ -2804,7 +2804,7 @@ strong {
     font-weight: 700
 }
 
-a {
+/* a {
     color: #0cb851
 }
 
@@ -2818,7 +2818,7 @@ a:active,
 a:focus,
 a:hover {
     text-decoration: none
-}
+} */
 
 h1,
 h2,
@@ -3286,6 +3286,10 @@ time {
     background: rgba(255, 255, 255, .9)
 }
 
+.overlay.orange-solid {
+    background: rgb(247,127,0)
+}
+
 .overlay.gradient-overlay {
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .32)), color-stop(32%, rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, .64)));
     background: linear-gradient(to bottom, rgba(0, 0, 0, .32) 0, rgba(0, 0, 0, 0) 32%, rgba(0, 0, 0, .64) 100%)
@@ -3751,7 +3755,7 @@ nav li a:hover {
     position: relative;
     min-height: 400px;
     padding-top: 0;
-    background: #0cb851
+    background: #f77f00
 }
 
 .top-section .gradient-overlay {
@@ -3780,7 +3784,7 @@ nav li a:hover {
 
 .statistic .stat {
     font-size: 100px;
-    color: #0cb851
+    color: #f77f00
 }
 
 .statistic .stat-info {
@@ -3789,7 +3793,7 @@ nav li a:hover {
 
 .statistic hr {
     width: 20px;
-    border-top: 1px solid #0cb851
+    border-top: 1px solid #f77f00
 }
 
 .statistic .small {
@@ -3809,7 +3813,7 @@ nav li a:hover {
 .rockstar-speakers .sub {
     font-size: 18.2px;
     margin: 0 0 15px;
-    color: #0cb851
+    color: #f77f00
 }
 
 .rockstar-speaker {
@@ -4230,7 +4234,7 @@ nav li a:hover {
 }
 
 .footer a {
-    color: #009e60
+    color: #f77f00
 }
 
 .footer a:hover {
@@ -4719,7 +4723,7 @@ nav li a:hover {
     transform: translateY(-250%);
     -webkit-transition-delay: .05s;
     transition-delay: .05s;
-    color:#0cb851;
+    color: #f77f00
 
 }
 

@@ -40,24 +40,24 @@ twitterAccount: "@sotmafrica"
 
 # Documents
 c4pUrl: ""
-c4sponsorsUrl: "/sponsorship/"
+# c4sponsorsUrl: "/sponsorship/"
 
 # Navigation
 navigationLinks:
   - {permalink: "/", text: "Home"}
   - {permalink: "/blog", text: "Blog"}
   - {permalink: "/about/", text: "About"}
-  - {permalink: "/attending", text: "Attending"}
-  - {permalink: "/logistics/", text: "Logistics"}
+  # - {permalink: "/attending", text: "Attending"}
+  # - {permalink: "/logistics/", text: "Logistics"}
   - {permalink: "/team/", text: "Team"}
   - {permalink: "/schedule/", text: "Program"}
-  - {permalink: "https://join.osmfoundation.org/?page=CiviCRM&q=civicrm%2Fevent%2Finfo&id=15&reset=1", text: "Tickets"}
+  # - {permalink: "https://join.osmfoundation.org/?page=CiviCRM&q=civicrm%2Fevent%2Finfo&id=15&reset=1", text: "Tickets"}
   - {permalink: "/#partners", text: "Sponsors"}
-  - {permalink: "/faq/", text: "FAQ"}
+  # - {permalink: "/faq/", text: "FAQ"}
 bottomNavigationLinks:
- - {permalink: "/sponsorship/", text: "Become a Sponsor"}
+#  - {permalink: "/sponsorship/", text: "Become a Sponsor"}
 rightNavigationButtons:
- - {permalink: "/sponsorship/", text: "Become a Sponsor"}
+#  - {permalink: "/sponsorship/", text: "Become a Sponsor"}
 
 # Hero Block
 # Hero Block
@@ -67,31 +67,32 @@ eventDate: "Abidjan | Grand-Bassam, Ivory Coast | 22-24 November 2019 | Transfor
 typeoutTextValues: '"", "Africa", "Grand-Bassam", "Ivory Coast"'
 typeoutFallback: "Africa"
 heroButtons:
-  - {permalink: "/schedule", text: "Program"}
-  - {permalink: "https://join.osmfoundation.org/?page=CiviCRM&q=civicrm%2Fevent%2Finfo&id=15&reset=1", text: "Buy Tickets"}
-  - {permalink: "/sponsorship", text: "Become a Sponsor"}
+  - {permalink: "//2021.stateofthemap.africa", text: "SoTM Africa 2021, Nairobi, Kenya"}
+  # - {permalink: "https://join.osmfoundation.org/?page=CiviCRM&q=civicrm%2Fevent%2Finfo&id=15&reset=1", text: "Buy Tickets"}
+  # - {permalink: "/sponsorship", text: "Become a Sponsor"}
 
 
 
 # About Block
-aboutTitle: "About SOTM Africa 2019"
-aboutSubTitle: "Join us for 3 days of learning, sharing and fun!"
+aboutTitle: "About SoTM Africa 2019"
+aboutSubTitle: "SoTM Africa 2019 was a 3 days of learning, sharing and fun!"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "<p>SOTM Africa will bring together participants from around the world to discuss challenges, learn, and celebrate many years of mapping together.</p>" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience. Come, learn and share!" }
- - {title: "Community", image: "community.jpg", text: "Meet the community and have fun!" }
+ - {title: "Conference", image: "conference.jpg", text: "<p>SOTM Africa brought together participants from around the world to discuss challenges, learn, and celebrate many years of mapping together.</p>" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Featured full-day of workshops, hands-on experience coupled with learning and sharing!" }
+ - {title: "Community", image: "community.jpg", text: "The community met and had fun!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "OpenStreetMap and FOSS"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from Africa and beyond"}
- - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "to choose from!"}
+ - {count: "190", specialCharacter: "", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "", info: "hours", detail: "learning and fun"}
+ - {count: "37", specialCharacter: "", info: "nationalities", detail: "from Africa and beyond"}
+ - {count: "19", specialCharacter: "", info: "scholarships awarded", detail: "to West, East and Southern Africa"}
+ - {count: "23656", specialCharacter: "", info: "map changes", detail: "during Mapathon"}
 
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Blog"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -133,7 +134,7 @@ twitterHashTag: "sotmafrica"
 
 # Partners Block
 partnersTitle: "Sponsors"
-partnersC4sponsorsButton: "Become a sponsor"
+# partnersC4sponsorsButton: "Become a sponsor"
 
 # Supporters Block
 supportersTitle: "Supporters"
